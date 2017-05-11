@@ -12,6 +12,8 @@
     * [Fatura Transportadora](financeiro/conciliacao/fatura-transportadora.md)
     * [Abertura de P.I](financeiro/conciliacao/abertura-de-pi.md)
   * [Pre Analise](financeiro/pre-analise.md)
+    * [Ocorrencias](financeiro/pre-analise/ocorrencias.md)
+    * Listagem
 * [Relatorios](relatorios.md)
   * [Produtos](relatorios/produtos.md)
   * [Precos](relatorios/precos.md)
