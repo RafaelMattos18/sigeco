@@ -25,8 +25,7 @@ Estes processos irão determinar a avaliação da pré análise. Tanto CPF ou CN
 
 **Exemplo: **
 
-![Barrar Pedido](C:\Users\heltonrodrigues\Google Drive\01 - Projetos Internos\Sigeco\Financeiro\Pre Analise\img06.png)
-
+![](/assets/preAnalise06.png)
 
 ## Regras
 
