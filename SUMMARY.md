@@ -6,11 +6,13 @@
 * [Comercial](comercial.md)
 * [Marketing](marketing.md)
 * [Financeiro](financeiro.md)
+  * [Conciliacao](financeiro/conciliacao.md)
+  * Pre Analise
 * [Relatorios](relatorios.md)
   * [Produtos](relatorios/produtos.md)
   * [Precos](relatorios/precos.md)
-  * Anuncio mercado livre
-  * Shopping de precos
+  * [Anuncio mercado livre](relatorios/anuncio-mercado-livre.md)
+  * [Shopping de precos](relatorios/shopping-de-precos.md)
 * [TI/Admin](tiadmin.md)
   * [Integracoes](tiadmin/integracoes.md)
     * [Log Dropshipping](tiadmin/integracoes/log-dropshipping.md)
