@@ -12,7 +12,7 @@
     * [Categorias](comercial/categorias.md)
     * [Gráficos](comercial/graficos.md)
   * Frete
-  * Mercado Livre
+  * [Mercado Livre](comercial/mercado-livre.md)
 * [Marketing](marketing.md)
   * [Analytics](marketing/analytics.md)
     * [Gerar relatorio](marketing/gerar-relatorio.md)
