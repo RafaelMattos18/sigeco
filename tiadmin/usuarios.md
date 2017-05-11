@@ -1,6 +1,5 @@
 ![ConnectParts](/assets/LogoConnectParts.png)
 
-
 --- 
 
 # Usuários

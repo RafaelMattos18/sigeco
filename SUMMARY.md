@@ -10,4 +10,5 @@
 * [TI/Admin](tiadmin.md)
   * [Integracoes](tiadmin/integracoes.md)
   * [Usuarios](tiadmin/usuarios.md)
+  * [Projetos](tiadmin/projetos.md)
 
