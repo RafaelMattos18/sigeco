@@ -7,6 +7,10 @@
 * [Marketing](marketing.md)
 * [Financeiro](financeiro.md)
 * [Relatorios](relatorios.md)
+  * [Produtos](relatorios/produtos.md)
+  * Precos
+  * Anuncio mercado livre
+  * Shopping de precos
 * [TI/Admin](tiadmin.md)
   * [Integracoes](tiadmin/integracoes.md)
     * [Log Dropshipping](tiadmin/integracoes/log-dropshipping.md)
