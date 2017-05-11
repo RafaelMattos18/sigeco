@@ -7,7 +7,7 @@
 * [Marketing](marketing.md)
 * [Financeiro](financeiro.md)
   * [Conciliacao](financeiro/conciliacao.md)
-  * Pre Analise
+  * [Pre Analise](financeiro/pre-analise.md)
 * [Relatorios](relatorios.md)
   * [Produtos](relatorios/produtos.md)
   * [Precos](relatorios/precos.md)

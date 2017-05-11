@@ -1,5 +1,7 @@
 # Conciliação
 
+---
+
 ## Boleto Bancário
 
 ### Funcionalidade
@@ -25,3 +27,19 @@ Leitura dos documentos bancários, no formato **.RET** ou **.txt**.
 * Não aprovar pedidos com endereço de caixa postal.
 
 	* Para identificar este endereço, verifica-se o 6º digito do CEP e caso 9, é identificado como caixa postal.
+	
+---
+
+## Fatura Transportadora
+
+### Funcionalidade
+
+### Processos
+
+---
+
+## Abertura P.I
+
+### Funcionalidade
+
+### Processos
