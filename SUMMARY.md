@@ -7,7 +7,7 @@
   * Solicitacoes
   * [Tarefas](comercial/tarefas.md)
     * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
-    * Relatorio de tarefas
+    * [Relatorio de tarefas](comercial/tarefas/relatorio-de-tarefas.md)
   * Shopping de Precos
     * [Produtos](comercial/produtos.md)
     * [Anuncios sem vinculo](comercial/anuncios-sem-vinculo.md)
