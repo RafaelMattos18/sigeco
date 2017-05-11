@@ -10,7 +10,7 @@
     * [Produtos](comercial/produtos.md)
     * [Anuncios sem vinculo](comercial/anuncios-sem-vinculo.md)
     * [Categorias](comercial/categorias.md)
-    * Gráficos
+    * [Gráficos](comercial/graficos.md)
   * Frete
   * Mercado Livre
 * [Marketing](marketing.md)
