@@ -8,9 +8,7 @@
 
 ### Funcionalidade
 
-Uma comunicação com o Google Analytics e Connect Parts, trazendo informações para os departamentos Marketing e B.I. Estas comunicações terão informações de custos por campanhas. As informações deverão segmentadas por Categoria, Subcategoria e Marcas. Estas informações irão agregar benefícios ao departamento comercia, como realizar investimentos estratégicos e mais assertivos.
-
-**Obs:** Ao clicar na opção **Gerar Novo Token de Acesso** será direcionado para tela de acesso na conta Google.
+Ao clicar na opção **Gerar Novo Token de Acesso** será direcionado para tela de acesso na conta Google.
 
 ### Resultado
 
