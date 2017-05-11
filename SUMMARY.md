@@ -10,7 +10,7 @@
     * [Mercado Livre](financeiro/conciliacao/mercado-livre.md)
     * [Boleto](financeiro/conciliacao/boleto.md)
     * [Fatura Transportadora](financeiro/conciliacao/fatura-transportadora.md)
-    * Abertura de P.I
+    * [Abertura de P.I](financeiro/conciliacao/abertura-de-pi.md)
   * [Pre Analise](financeiro/pre-analise.md)
 * [Relatorios](relatorios.md)
   * [Produtos](relatorios/produtos.md)
