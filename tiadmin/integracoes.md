@@ -1,7 +1,3 @@
-![ConnectParts](/assets/LogoConnectParts.png)
-
---- 
-
 # Integrações
 
 ## Funcionalidades

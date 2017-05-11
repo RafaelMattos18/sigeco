@@ -1,7 +1,3 @@
-![ConnectParts](/assets/LogoConnectParts.png)
-
---- 
-
 # Projetos
 
 Listagem e cadastro de projetos, desenvolvedores, permissões e alterações.
