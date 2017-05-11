@@ -13,6 +13,7 @@
     * [Gráficos](comercial/graficos.md)
   * Frete
   * [Mercado Livre](comercial/mercado-livre.md)
+    * [Variacoes](comercial/mercado-livre/variacoes.md)
 * [Marketing](marketing.md)
   * [Analytics](marketing/analytics.md)
     * [Gerar relatorio](marketing/gerar-relatorio.md)
