@@ -9,7 +9,7 @@
   * Shopping de Precos
     * [Produtos](comercial/produtos.md)
     * [Anuncios sem vinculo](comercial/anuncios-sem-vinculo.md)
-    * Categorias
+    * [Categorias](comercial/categorias.md)
     * Gráficos
   * Frete
   * Mercado Livre
