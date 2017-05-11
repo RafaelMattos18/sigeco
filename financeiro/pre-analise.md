@@ -67,8 +67,6 @@ Ao clicar em **Barrar Pedido** é necessário inserir um motivo válido.
 
 ##Lista de Ocorrências - CPF/CNPJ
 
-![Barrar Pedido](C:\Users\heltonrodrigues\Google Drive\01 - Projetos Internos\Sigeco\Financeiro\Pre Analise\img04.png)
-
 ![](/assets/preAnalise04.png)
 
 ###Funcionalidade
