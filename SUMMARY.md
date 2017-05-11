@@ -8,7 +8,7 @@
 * [Financeiro](financeiro.md)
 * [Relatorios](relatorios.md)
   * [Produtos](relatorios/produtos.md)
-  * Precos
+  * [Precos](relatorios/precos.md)
   * Anuncio mercado livre
   * Shopping de precos
 * [TI/Admin](tiadmin.md)
