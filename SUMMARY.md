@@ -8,4 +8,5 @@
 * [Financeiro](financeiro.md)
 * [Relatorios](relatorios.md)
 * [TI/Admin](tiadmin.md)
+  * [Integracoes](tiadmin/integracoes.md)
 
