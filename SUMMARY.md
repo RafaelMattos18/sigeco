@@ -7,6 +7,10 @@
 * [Marketing](marketing.md)
 * [Financeiro](financeiro.md)
   * [Conciliacao](financeiro/conciliacao.md)
+    * Mercado Livre
+    * [Boleto](financeiro/conciliacao/boleto.md)
+    * Fatura Transportadora
+    * Abertura de P.I
   * [Pre Analise](financeiro/pre-analise.md)
 * [Relatorios](relatorios.md)
   * [Produtos](relatorios/produtos.md)

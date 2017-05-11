@@ -79,7 +79,6 @@ Nesta tela iremos bloquear o CPF ou CNPJ do cliente com as opções:
 
 * Fraudador
 
-
 > O motivo destas opções estão em **Regras / Para Bloqueio**.
 
 Na aba **Buscar** teremos uma relação completa dos bloqueados ou fazer a busca específica pelo **CPF/CNPJ**.
