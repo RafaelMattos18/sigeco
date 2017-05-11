@@ -2,3 +2,8 @@
 
 ---
 
+## Funcionalidade
+
+### Processos
+
+### Regras
