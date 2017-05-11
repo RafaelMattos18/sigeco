@@ -4,6 +4,15 @@
 * [Dashboard](dashboard.md)
 * [Atendimento](atendimento.md)
 * [Comercial](comercial.md)
+  * Solicitacoes
+  * Tarefas
+  * Shopping de Precos
+    * [Produtos](comercial/produtos.md)
+    * [Anuncios sem vinculo](comercial/anuncios-sem-vinculo.md)
+    * Categorias
+    * Gráficos
+  * Frete
+  * Mercado Livre
 * [Marketing](marketing.md)
   * [Analytics](marketing/analytics.md)
     * [Gerar relatorio](marketing/gerar-relatorio.md)
