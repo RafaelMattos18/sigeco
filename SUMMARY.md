@@ -5,7 +5,9 @@
 * [Atendimento](atendimento.md)
 * [Comercial](comercial.md)
   * Solicitacoes
-  * Tarefas
+  * [Tarefas](comercial/tarefas.md)
+    * Minhas tarefas
+    * Relatorio de tarefas
   * Shopping de Precos
     * [Produtos](comercial/produtos.md)
     * [Anuncios sem vinculo](comercial/anuncios-sem-vinculo.md)
