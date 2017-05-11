@@ -1,3 +1,3 @@
-# Summary
+# Índice
 
-* [First Chapter](chapter1.md)
+* [Dashboard](dashboard.md)
