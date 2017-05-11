@@ -6,7 +6,7 @@
 * [Comercial](comercial.md)
   * Solicitacoes
   * [Tarefas](comercial/tarefas.md)
-    * Minhas tarefas
+    * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
     * Relatorio de tarefas
   * Shopping de Precos
     * [Produtos](comercial/produtos.md)
