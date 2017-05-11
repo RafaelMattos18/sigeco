@@ -2,22 +2,18 @@
 
 ---
 
-## Funcionalidade
-
-Neste processo os departamentos Financeiro e Atendimento fazem uma pré analise dos pedidos oriundos do Ábacos ou DropShipping, levando em consideração algumas regras como: cliente tem pedidos anteriores há 6 meses, cliente fez compras nos últimos 30 dias e CPF/CNPJ está na lista de ocorrências.
-
-### Local
-
-Financeiro / Pré Análise.
-
 ## Consulta de Pedidos - Pré Análise
 
 ![](/assets/img01.png)
 
+## Funcionalidade
+
+Neste processo os departamentos Financeiro e Atendimento fazem uma pré analise dos pedidos oriundos do Ábacos ou DropShipping, levando em consideração algumas regras como: cliente tem pedidos anteriores há 6 meses, cliente fez compras nos últimos 30 dias e CPF/CNPJ está na lista de ocorrências.
+
 ### Campos
 
 * **Limpar Filtros**
-
+	
 	* Limpa os filtros e cache armazenado na consulta
 
 * **Pedidos Ábacos - Pedidos DropShipping**
@@ -27,7 +23,6 @@ Financeiro / Pré Análise.
 * **Data Inicial e Final**
 
 	* Selecione as datas para a pesquisa ser especifica.
-	* Todas as datas são referente a data de registro
 
 * **Forma de pagamento**
 
@@ -55,13 +50,25 @@ O resultado traz a quantidade de **Pedidos Encontrados**.
 E as colunas **Pedido, Tipo de Pessoa, Forma de Pagamento, Valor, Status, Data **e** Ação**.
 
 
-####Ação
+#### Ação
 
 Ao clicar na **Ação** será direcionado para a tela de ***Visualização de Pedido - Pré Análise***.
 
-![](/assets/preAnalise03.png)
+![](/assets/preAnalise04.png)
 
 Ao clicar em **Barrar Pedido** é necessário inserir um motivo válido.
 
 É apresentado **Informações Ábacos**, com a opção de bloquear CPF e CNPJ do destinatário e do cliente, formas e condições de pagamento e itens de pedido.
 
+
+## Regras
+
+### Para bloqueio
+
+* Cliente tem pedidos anteriores há 6 meses
+
+* Cliente fez compras nos últimos 30 dias
+
+	* Ou 3 compras com valor total igual ou maior de R$ 1.500,00
+
+* CPF/CNPJ está na lista de ocorrências.
