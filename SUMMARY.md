@@ -5,6 +5,8 @@
 * [Atendimento](atendimento.md)
 * [Comercial](comercial.md)
 * [Marketing](marketing.md)
+  * Analytics
+    * [Gerar relatorio](marketing/gerar-relatorio.md)
 * [Financeiro](financeiro.md)
   * [Conciliacao](financeiro/conciliacao.md)
     * [Mercado Livre](financeiro/conciliacao/mercado-livre.md)
