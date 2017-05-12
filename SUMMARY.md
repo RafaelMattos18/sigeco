@@ -3,9 +3,14 @@
 * [Introdução](README.md)
 * [Dashboard](dashboard.md)
 * [Atendimento](atendimento.md)
+  * [Abacos](atendimento/abacos.md)
+    * [Pedidos](atendimento/abacos/pedidos.md)
+    * [Produtos](atendimento/abacos/produtos.md)
+  * [Pedidos Barrados](atendimento/pedidos-barrados.md)
+    * [Listagem](atendimento/pedidos-barrados/listagem.md)
 * [Comercial](comercial.md)
   * [Solicitacoes](comercial/solicitacoes.md)
-    * Alteracoes de Produto
+    * [Alteracoes de Produto](comercial/solicitacoes/alteracoes-de-produto.md)
     * Nomes Pendentes
     * Classes Pendentes
     * Precos Pendentes
