@@ -24,6 +24,14 @@
     * [Categorias](comercial/categorias.md)
     * [Gráficos](comercial/graficos.md)
   * [Frete](comercial/frete.md)
+    * Simulacao Custo Pedido
+    * Simulacao Custo Itens
+    * Simulacao Validacao CEP
+    * Correios Validacao CEP
+    * Correios Calculos Prazo
+    * Correios Solicitacao Etiquetas
+    * Servicos de Entrega
+    * Tabelas Faixas CEP
   * [Mercado Livre](comercial/mercado-livre.md)
     * [Variacoes](comercial/mercado-livre/variacoes.md)
 * [Marketing](marketing.md)
