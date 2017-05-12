@@ -29,7 +29,7 @@
     * [Simulacao Validacao CEP](comercial/frete/simulacao-validacao-cep.md)
     * [Correios Validacao CEP](comercial/frete/correios-validacao-cep.md)
     * [Correios Calculos Prazo](comercial/frete/correios-calculos-prazo.md)
-    * Correios Solicitacao Etiquetas
+    * [Correios Solicitacao Etiquetas](comercial/frete/correios-solicitacao-etiquetas.md)
     * Servicos de Entrega
     * Tabelas Faixas CEP
   * [Mercado Livre](comercial/mercado-livre.md)
