@@ -4,7 +4,12 @@
 * [Dashboard](dashboard.md)
 * [Atendimento](atendimento.md)
 * [Comercial](comercial.md)
-  * Solicitacoes
+  * [Solicitacoes](comercial/solicitacoes.md)
+    * Alteracoes de Produto
+    * Nomes Pendentes
+    * Classes Pendentes
+    * Precos Pendentes
+    * Relatorios de Solicitacoes
   * [Tarefas](comercial/tarefas.md)
     * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
     * [Relatorio de tarefas](comercial/tarefas/relatorio-de-tarefas.md)
