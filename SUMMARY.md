@@ -24,8 +24,8 @@
     * [Categorias](comercial/categorias.md)
     * [Gráficos](comercial/graficos.md)
   * [Frete](comercial/frete.md)
-    * Simulacao Custo Pedido
-    * Simulacao Custo Itens
+    * [Simulacao Custo Pedido](comercial/frete/simulacao-custo-pedido.md)
+    * [Simulacao Custo Itens](comercial/frete/simulacao-custo-itens.md)
     * Simulacao Validacao CEP
     * Correios Validacao CEP
     * Correios Calculos Prazo
