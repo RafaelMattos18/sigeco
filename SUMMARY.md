@@ -11,7 +11,7 @@
 * [Comercial](comercial.md)
   * [Solicitacoes](comercial/solicitacoes.md)
     * [Alteracoes de Produto](comercial/solicitacoes/alteracoes-de-produto.md)
-    * Nomes Pendentes
+    * [Nomes Pendentes](comercial/solicitacoes/nomes-pendentes.md)
     * Classes Pendentes
     * Precos Pendentes
     * Relatorios de Solicitacoes
