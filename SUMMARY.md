@@ -18,12 +18,12 @@
   * [Tarefas](comercial/tarefas.md)
     * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
     * [Relatorio de tarefas](comercial/tarefas/relatorio-de-tarefas.md)
-  * Shopping de Precos
+  * [Shopping de Precos](comercial/shopping-de-precos.md)
     * [Produtos](comercial/produtos.md)
     * [Anuncios sem vinculo](comercial/anuncios-sem-vinculo.md)
     * [Categorias](comercial/categorias.md)
     * [Gráficos](comercial/graficos.md)
-  * Frete
+  * [Frete](comercial/frete.md)
   * [Mercado Livre](comercial/mercado-livre.md)
     * [Variacoes](comercial/mercado-livre/variacoes.md)
 * [Marketing](marketing.md)
