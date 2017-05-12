@@ -12,9 +12,9 @@
   * [Solicitacoes](comercial/solicitacoes.md)
     * [Alteracoes de Produto](comercial/solicitacoes/alteracoes-de-produto.md)
     * [Nomes Pendentes](comercial/solicitacoes/nomes-pendentes.md)
-    * Classes Pendentes
-    * Precos Pendentes
-    * Relatorios de Solicitacoes
+    * [Classes Pendentes](comercial/solicitacoes/classes-pendentes.md)
+    * [Precos Pendentes](comercial/solicitacoes/precos-pendentes.md)
+    * [Relatorios de Solicitacoes](comercial/solicitacoes/relatorios-de-solicitacoes.md)
   * [Tarefas](comercial/tarefas.md)
     * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
     * [Relatorio de tarefas](comercial/tarefas/relatorio-de-tarefas.md)
