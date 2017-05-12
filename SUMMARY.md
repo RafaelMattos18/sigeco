@@ -31,7 +31,7 @@
     * [Correios Calculos Prazo](comercial/frete/correios-calculos-prazo.md)
     * [Correios Solicitacao Etiquetas](comercial/frete/correios-solicitacao-etiquetas.md)
     * [Servicos de Entrega](comercial/frete/servicos-de-entrega.md)
-    * Tabelas Faixas CEP
+    * [Tabelas Faixas CEP](comercial/frete/tabelas-faixas-cep.md)
   * [Mercado Livre](comercial/mercado-livre.md)
     * [Variacoes](comercial/mercado-livre/variacoes.md)
 * [Marketing](marketing.md)
