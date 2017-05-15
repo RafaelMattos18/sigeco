@@ -142,6 +142,47 @@ Teremos os valores fixos de:
     * Formula: =SE (DK="";"“; Valor Total * PIS)
     * Formula: =SE (DK="";"“; Valor Total * IPI)
 
+**Custo Bruto Total**
+
+* Se Valor Unitário não estiver vazio, soma-se Valor Total com IPI.
+    * Formula: =SE (Valor Unitário="";""; Valor Total + IPI)
+
+**Custo Bruto Unitário**
+
+* Se Valor Unitário não estiver vazio, divide-se Custo Bruto Total pela Quantidade.
+    * Formula: = SE (Valor Unitário ="";"“; Custo Bruto Total / Quantidade)
+
+**Custo Líquido Total**
+
+* Se DK não estiver vazio, soma-se Valor total com Frete e ICMS ST, subtraindo COFINS e IPI, somando IPI.
+    * Formula: =SE (DK="";"“; Valor Total – ICMS – COFINS – PIS + IPI)
+
+**Custo Líquido Unitário**
+
+* Se DK não estiver vazio, divide-se Custo Liquido Total pela Quantidade.
+    * Formula: =SE (DK="";"“; Custo Liquido Total / Quantidade)
+    
+#### Simulação de venda
+
+**ICMS, PIS e COFINS**
+
+* O valor do ICMS é conseguido com o Preço de Venda vezes Alíquota Interna do ICMS ou IPI ou PIS.
+    * Formula: =Preço de Venda * Alíquota Interna do ICMS no estado SP
+    * Formula: =Preço de Venda * IPI
+    * Formula: =Preço de Venda * COFINS
+
+**Preço de Venda Líquido**
+
+* Preço de venda liquido é o resultado da subtração de Valor de Vendas, ICMS, PIS, COFINS.
+    * Formula: =Valor de Vendas – ICMS – PIS - COFINS
+
+**Margem**
+
+* Para conseguir a margem, subtraímos Preço de Venda Líquido menos Custo Líquido, dividido por Preço de Venda.
+    * Formula: = (Preço de Venda Liquido – Custo Líquido) / Preço de Venda.
+
+
+
 
 
 
