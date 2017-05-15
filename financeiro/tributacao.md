@@ -7,6 +7,7 @@ Desenvolvimento de um sistema de cálculos de margem de venda, no qual informaç
 
 ## Regras
 
+
 ### Valores fixos
 
 Teremos os valores fixos de:
@@ -40,6 +41,109 @@ Teremos os valores fixos de:
 
 * Se DK não estiver vazio, soma-se (Valor Total com Frete e IPI), multiplicando o resultado de (1 mais MVA).
     * Formula: =SE (DK="";"";(Valor total + Frete + IPI) *(1 + MVA))
+    
+**ICMS ST**
+
+* Se DK não estiver vazio, multiplica-se a Base de Cálculo com Alíquota Interna, subtraindo a soma do Valor total com Frete multiplicada pela Alíquota Interna ICMS.
+    * Formula: =SE (DK="";"";(Base de Cálculo ICMS ST * Alíquota Interna ICMS) - ((Valor total + Frete) * Alíquota Interna ICMS))
+
+**COFINS**
+
+* Se DK não estiver vazio, multiplica-se Valor Total com COFINS.
+    * Formula: =SE (DK="";"“; Valor Total * COFINS)
+
+**PIS**
+
+* Se DK não estiver vazio, multiplica-se Valor Total com PIS.
+    * Formula: =SE (DK="";"“; Valor Total * PIS)
+
+**IPI**
+
+* Se DK não estiver vazio, multiplica-se Valor Total com IPI.
+    * Formula: =SE (A4="";"“; Valor Total * IPI)
+
+**Custo Líquido Total**
+
+* Se DK não estiver vazio, soma-se Valor total com Frete e ICMS ST, subtraindo COFINS e IPI, somando IPI.
+    * Formula: =SE (DK="";"“; Valor Total + Frete + ICMS ST – COFINS – PIS + IPI)
+
+**Custo Líquido Unitário**
+
+* Se DK não estiver vazio, divide-se Custo Líquido Total pela Quantidade.
+    * Formula: =SE (DK="";"“; Custo Liquido Total / Quantidade)
+
+**Custo Bruto Total**
+
+* Se DK não estiver vazio, soma-se o Valor Total com Frete, ICMS ST e IPI.
+    * Formula: =SE (DK="";"“; Valor Total + Frete + ICMS ST + IPI)
+
+**Custo Bruto Unitário**
+
+* Custo Bruto Total dividido pela Quantidade.
+    * Formula: =Custo Bruto Total / Quantidade
+    
+#### ST recolhida anteriormente
+
+**Valor Total**
+
+* Quantidade multiplicada pelo Valor Unitário
+    * Formula: =Quantidade * Valor Unitário
+
+**COFINS, PIS e IPI**
+
+* Se DK não estiver vazio, multiplica o Valor Total vezes o COFINS ou PIS ou IPI.
+    * Formula: =SE (DK="";"“; Valor Total * COFINS)
+    * Formula: =SE (DK="";"“; Valor Total * PIS)
+    * Formula: =SE (DK="";"“; Valor Total * IPI)
+
+**Custo Líquido Total**
+
+* Se DK não estiver vazio, soma-se Valor total com Frete e ICMS ST, subtraindo COFINS e IPI, somando IPI.
+    * Formula: =SE (DK="";"“; Valor Total + Frete – COFINS – PIS + IPI)
+
+**Custo Líquido Unitário**
+
+* Se DK não estiver vazio, divide-se Custo Líquido Total pela Quantidade.
+    * Formula: =SE (DK="";"“; Custo Liquido Total / Quantidade)
+
+**Custo Bruto Total**
+
+* Se DK não estiver vazio, soma-se o Valor Total mais IPI.
+    *  Formula: =SE (DK="";"“; Valor Total + IPI)
+
+**Custo Bruto Unitário**
+
+* Custo Bruto Total dividido pela Quantidade.
+    * Formula: =Custo Bruto Total / Quantidade
+
+
+#### Cálculo Custo ICMS
+
+> Custo
+
+**Valor Total**
+
+* Para chegarmos ao Valor Total, multiplica a Quantidade vezes Valor Unitário.
+    * Formula: =Quantidade * Valor Unitário
+
+**Base Cálculo ICMS**
+
+* No caso de Custo para a Base Cálculo ICMS é o Valor Unitário do produto.
+
+**ICMS**
+
+* Com o Valor Total do produto multiplica-se o valor do ICMS.
+    * Formula: =Valor Total * ICMS
+
+**COFINS, PIS e IPI**
+
+* Se DK não estiver vazio, multiplica o Valor Total vezes o COFINS ou PIS ou IPI.
+    * Formula: =SE (DK="";"“; Valor Total * COFINS)
+    * Formula: =SE (DK="";"“; Valor Total * PIS)
+    * Formula: =SE (DK="";"“; Valor Total * IPI)
+
+
+
 
 
 
