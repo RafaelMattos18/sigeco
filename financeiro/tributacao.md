@@ -7,7 +7,7 @@ Desenvolvimento de um sistema de cálculos de margem de venda, no qual informaç
 
 ## Regras
 
-**Valores fixos**
+### Valores fixos
 
 Teremos os valores fixos de:
 
@@ -22,5 +22,24 @@ Teremos os valores fixos de:
     * Nota Fiscal de Entrada.
 * **ICMS Origem**
     * Nota Fiscal de Entrada ou Cadastro Fornecedor.
+
+
+### Cálculo Custo ST
+
+> _Dentro do estado_
+
+**Partir do DK**
+* NCM do Cadastro, Fornecedor (NF-Entrada), CST (NF-Entrada), estado de origem (NF-Entrada), IPI (NF-Entrada).
+
+**Valor Total**
+
+* Quantidade multiplicado pelo Valor Unitário.
+    * Formula: =Quantidade * Valor Unitário
+
+**Base Cálculo ICMS ST**
+
+* Se DK não estiver vazio, soma-se (Valor Total com Frete e IPI), multiplicando o resultado de (1 mais MVA).
+    * Formula: =SE (DK="";"";(Valor total + Frete + IPI) *(1 + MVA))
+
 
 
