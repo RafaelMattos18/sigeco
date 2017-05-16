@@ -27,4 +27,4 @@ Será enviado um e-mail para a pessoas que requsitou as estiquetas contendo
 
 ### Regras de cálculo
 
-* Verificar - **Sobre Cálculos das Transportadoras**
+* Verificar - [Sobre Cálculos das Transportadoras](/comercial/frete.md).
