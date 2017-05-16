@@ -2,6 +2,12 @@
 
 ---
 
+## Descrição do Projeto
+
+Desenvolvido um simulador de fretes onde passa o código do produto ou pedido e se calcula o frete do produto específico ou dos produtos do pedido, de acordo como calculo fornecido pelo responsável do setor.
+
+**Conciliação do frete baseado em dados gerados pelo responsável do setor de frete**.
+
 **Sobre Cálculos das Transportadoras**
 
 ## Correios
