@@ -102,6 +102,6 @@ _ _ _
 
 	* Temos o valor total e a quantidade total de volume, então, o sistema **SIGECO** rateia em partes iguais para termos os valores individuais aproximados.
 
-###Ad-valorem
+### Ad-valorem
 
 * É o cálculo feito em cima dos valores dos itens
