@@ -6,6 +6,8 @@
 
 Leitura dos documentos bancários, no formato **.RET** ou **.txt**.
 
+## Resultado
+
 ### Processos
 
 * Validar pedido existe na Vtex.
