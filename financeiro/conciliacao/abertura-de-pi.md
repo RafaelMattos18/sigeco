@@ -4,6 +4,8 @@
 
 ## Funcionalidade
 
+## Resultado
+
 ### Processos
 
 ### Regras
