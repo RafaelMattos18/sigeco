@@ -2,15 +2,13 @@
 
 ---
 
-## Exportar relatórios - Google
-
 ![](/assets/analytics01.png)
 
-### Funcionalidade
+## Funcionalidade
 
 Ao clicar na opção **Gerar Novo Token de Acesso** será direcionado para tela de acesso na conta Google.
 
-### Resultado
+## Resultado
 
 ![](/assets/analytics02.png)
 
