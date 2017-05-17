@@ -8,7 +8,13 @@
 
 O sistema oferece formas de visualização das informações de produtos e anúncios, como gráficos, valores, categoria, grupos e marcas.
 
-### Dentro da opção PRODUTOS
+## Resultado
+
+![](/assets/SDP02.png)
+
+### Processos
+
+#### Dentro da opção PRODUTOS
 
 * Ao selecionar a opção de **Categoria - Acessórios**, teremos:
 
@@ -24,7 +30,7 @@ O sistema oferece formas de visualização das informações de produtos e anún
 
 	O sistema oferece a opção de **tipos de gráficos**, o **valor que será exibido** poderá ser em **Absoluto (valores reais) ** ou em **Percentual**.
 
-### Dentro da opção ANÚNCIOS
+#### Dentro da opção ANÚNCIOS
 
 * Ao selecionar a opção de **Categoria - Acessórios**, teremos:
 
@@ -38,11 +44,11 @@ O sistema oferece formas de visualização das informações de produtos e anún
 	
 	Somando os valores dos **Ativos, Pausados, Encerrados e Outros** temos o valor do **Total**.
 
-### Linhas x Colunas
+#### Linhas x Colunas
 
 Existem as **linhas** de **Frete Grátis**, **Modalidade** e **Tag de Desconto**.
 
-#### Exemplo de uso
+##### Exemplo de uso
 
 * Do total de anúncios teremos um **valor percentual ou absoluto** de **Frete Grátis**.
 
@@ -55,6 +61,3 @@ Existem as **linhas** de **Frete Grátis**, **Modalidade** e **Tag de Desconto**
 * Teremos um **valor percentual ou absoluto** de **Frete Grátis** para os anúncios **Outros**.
 
 
-## Resultado
-
-![](/assets/SDP02.png)
