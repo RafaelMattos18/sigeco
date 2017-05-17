@@ -2,18 +2,14 @@
 
 ---
 
-##Lista de Ocorrências - CPF/CNPJ
-
 ![](/assets/preAnalise03.png)
 
-###Funcionalidade
+## Funcionalidade
 
 Nesta tela iremos bloquear o CPF ou CNPJ do cliente com as opções:
 
 * Suspeito
-
 * Recorrente
-
 * Fraudador
 
 
@@ -27,9 +23,9 @@ Estes processos irão determinar a avaliação da pré análise. Tanto CPF ou CN
 
 ![](/assets/preAnalise06.png)
 
-## Regras
+### Regras
 
-### Para bloqueio
+#### Para bloqueio
 
 * Cliente tem pedidos anteriores há 6 meses
 
