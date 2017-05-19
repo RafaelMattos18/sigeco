@@ -6,17 +6,14 @@
 
 ## Funcionalidade
 
+Criar variações nos anúncios do **Mercado Livre**.
+
 ## Resultado
 
 ![](/assets/inseriVariacaoMercadoLivre02.png)
 
+
 ### Processo
-
----
-
-## Funcionalidade
-
-Criar variações nos anúncios do **Mercado Livre**.
 
 ## Campos e ações
 
