@@ -32,6 +32,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 	* Ao clicar em ** *Realize o download do arquivo modelo clicando aqui. * **, será gerado um arquivo.xls com as colunas **Mlb**, **CodigoExterno**, **Tag1** e **Descritor1**
 	* Para fazer o download do modelo de layout do **Customizada** para clicar no link: **Realize o download do arquivo modelo clicando *aqui*. **
 
+
 * **Tags e Descritores**
 	* O que são descritores?  
 		* São os descritores da tag: amarelo, 56, verde
