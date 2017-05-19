@@ -2,8 +2,6 @@
 
 ---
 
-<!--toc-->
-
 ![](/assets/inseriVariacaoMercadoLivre01.png)
 
 ## Funcionalidade
@@ -56,17 +54,16 @@ Criar variações nos anúncios do **Mercado Livre**.
 
 ### Regras
 
-* **Impedimentos**
-	* Não é permitido preços diferentes nas variações
-	* Sempre será utilizado o saldo real do Ábacos para subir as variações
-	* Verifica se o produto está ativo no Mercado Livre
-* No máximo três variações poderão ir para Mercado Livre.
-* Somente pode subir variações combinadas se o ML permitir.
+##### Impedimentos
+* Não é permitido preços diferentes nas variações
+* Sempre será utilizado o saldo real do Ábacos para subir as variações
+* Verifica se o produto está ativo no Mercado Livre
+	* No máximo três variações poderão ir para Mercado Livre.
+	* Somente pode subir variações combinadas se o ML permitir.
 
-
-* **Motivos de geração de Erro:**
-	* Anuncio pausado
-	* Estoque
-		* Utilizando os estoques **Real** e **Virtual**. 
+##### Motivos de geração de Erro
+* Anuncio pausado
+* Estoque
+	* Utilizando os estoques **Real** e **Virtual**. 
 	* Instabilidade no ML
-* Quando houver a remoção de um anúncio, deverá ser aberto um chamado para o departamento de **Inovação e Desenvolvimento**.
+		* Quando houver a remoção de um anúncio, deverá ser aberto um chamado para o departamento de **Inovação e Desenvolvimento**.
