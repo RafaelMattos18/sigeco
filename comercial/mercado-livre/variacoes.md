@@ -39,6 +39,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 	* O que é tag?
 		* Cor, tamanho, cor secundária
 	* Exemplo: 
+	
 	![](/assets/VariacaoML01.png)
 
 
