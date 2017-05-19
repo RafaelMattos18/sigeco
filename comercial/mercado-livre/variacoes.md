@@ -15,11 +15,9 @@ Criar variações nos anúncios do **Mercado Livre**.
 
 ### Processo
 
-## Campos e ações
+#### Tipo de Variação
 
-###Tipo de Variação
-
-* **Combinada**
+* **_Combinada_**
 
 	* São variações que o ML permite, podendo ser uma ou múltiplas variações tendo no máximo 3 tipos de tags diferentes e podemos enviar através do nosso sistema (arquivo excel) até 3 descritores por linha, podendo inserir mais descritores nas linhas seguintes.
 
