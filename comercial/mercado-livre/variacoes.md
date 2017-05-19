@@ -17,7 +17,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 
 #### Tipo de Variação
 
-* **_Combinada_**
+* **Combinada**
 
 	* São variações que o ML permite, podendo ser uma ou múltiplas variações tendo no máximo 3 tipos de tags diferentes e podemos enviar através do nosso sistema (arquivo excel) até 3 descritores por linha, podendo inserir mais descritores nas linhas seguintes.
 
@@ -48,12 +48,11 @@ Criar variações nos anúncios do **Mercado Livre**.
 	* O que é tag?
 		* Cor, tamanho, cor secundária
 
-	* Exemplo: 
-	
-![](/assets/VariacaoML01.png)
+	* Exemplo: 	
+		![](/assets/VariacaoML01.png)
 
 
-##Observações
+### Observações
 
 * Código externo = DK.
 
@@ -65,21 +64,19 @@ Criar variações nos anúncios do **Mercado Livre**.
 
 * As **TAG** e **DESCRITOR** suportam somente 60 caracteres.
 
-## Regras
+### Regras
 
-* Impedimentos
+* **Impedimentos**
 	* Não é permitido preços diferentes nas variações
 	* Sempre será utilizado o saldo real do Ábacos para subir as variações
 	* Verifica se o produto está ativo no Mercado Livre
-
 * No máximo três variações poderão ir para Mercado Livre.
-
 * Somente pode subir variações combinadas se o ML permitir.
 
-* Motivos de geração de **Erro:**
+
+* **Motivos de geração de Erro:**
 	* Anuncio pausado
 	* Estoque
 		* Utilizando os estoques **Real** e **Virtual**. 
 	* Instabilidade no ML
-
 * Quando houver a remoção de um anúncio, deverá ser aberto um chamado para o departamento de **Inovação e Desenvolvimento**.
