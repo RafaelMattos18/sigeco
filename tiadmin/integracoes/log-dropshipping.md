@@ -27,9 +27,9 @@ Ao clicar na opção **Ação**, será apresentada a seguinte **_time line_**.
 **Time line** indicando todo o trajeto feito pelo pedido.
 
 1. **Pedido integrado ao Ábacos**
-    * Pedido foi inserido no ERP Ábacos
+    * Pedido foi inserido/integrado no ERP Ábacos
 2. **Fornecedor confirmou recebimento**
-    * t
+    * 
 3. **Fornecedor enviou NF de Compra**
     * t
 4. **Pedido faturado pela ConnectParts**
