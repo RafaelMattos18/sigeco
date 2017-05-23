@@ -18,7 +18,7 @@ A pesquisa traz as informações **Código** do pedido, **Data de Criação, Sta
 
 Ao clicar na opção **Ação**, será apresentada a seguinte **_time line_**.
 
-![](/assets/sigeco-integracoes-02.png)
+![](/assets/statusDropShipping.png)
 
 Indicando todo o trajeto feito pelo pedido.
 
