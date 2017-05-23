@@ -28,11 +28,18 @@ Ao clicar na opção **Ação**, será apresentada a seguinte **_time line_**.
 
 1. **Pedido integrado ao Ábacos**
     * Pedido foi inserido no ERP Ábacos
-2. r
-3. r
-4. r
-5. r
-6. r
-7. r
-8. r    
+2. **Fornecedor confirmou recebimento**
+    * t
+3. **Fornecedor enviou NF de Compra**
+    * t
+4. **Pedido faturado pela ConnectParts**
+    * t
+5. **Connect enviou NF ao fornecedor**
+    * t
+6. **NF de remessa recebida**
+    * t
+7. **Rastreamento enviado ao cliente**
+    * t
+8. **Despachada pelo fornecedor**    
+    * t
 
