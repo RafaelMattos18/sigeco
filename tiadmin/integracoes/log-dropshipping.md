@@ -15,9 +15,12 @@ Nesta opção temos a listagem de pedidos que contém os componentes DropShippin
 
 A pesquisa traz as informações **Código** do pedido, **Data de Criação, Status, Data de Atualização e Ação**.
 
+![](/assets/sigeco-integracoes-02.png)
 
 Ao clicar na opção **Ação**, será apresentada a seguinte **_time line_**.
 
+
+### Status
 ![](/assets/statusDropShipping.png)
 
 Indicando todo o trajeto feito pelo pedido.
