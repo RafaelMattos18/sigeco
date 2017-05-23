@@ -26,3 +26,13 @@ Ao clicar na opção **Ação**, será apresentada a seguinte **_time line_**.
 
 **Time line** indicando todo o trajeto feito pelo pedido.
 
+1. **Pedido integrado ao Ábacos**
+    * Pedido foi inserido no ERP Ábacos
+2. r
+3. r
+4. r
+5. r
+6. r
+7. r
+8. r    
+
