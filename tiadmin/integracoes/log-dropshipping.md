@@ -38,6 +38,7 @@ Ao clicar na opção **Ação**, será apresentada a seguinte **_time line_**.
 5. **Connect enviou NF ao fornecedor**
 6. **NF de remessa recebida**
     * Fornecedor encaminha NF para Connect que comunica ao cliente do rastreio, envia dados na nota para transportadora, inclui informações no sistema de CRM, caso não tenha pedido no sistema de CRM fica notificando até localizar pedido.
+    * Para seguir para o próximo, será necessário que as 3 notificações estejam concluídas, a saber
 7. **Rastreamento enviado ao cliente**
     * Dados enviados ao cliente, este status é alterado quando o sistema conseguir fazer 3 notificações supracitadas.
 8. **Despachada pelo fornecedor**
