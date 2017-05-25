@@ -16,6 +16,9 @@ Temos as informações do produto, quem foi o solicitante de alteração de pre�
 
 ### Regras
 
+Na SIEVE temos cadastrado o valor mínimo e máximo
+
+
 #### Precificação abaixo de 10%
 
 Temos a seguinte regra no sistema:
