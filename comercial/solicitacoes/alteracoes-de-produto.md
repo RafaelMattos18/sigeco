@@ -13,11 +13,11 @@
 **Tipo de Solicitação**
 * Alteração de Nome
 * Alteração de Preço
-    * Código PAI
+    * **Código PAI**
     ![](/assets/SolicitarAlteracaoDeProduto02.png)
 * Alteração de Classe
-    * Código DK
+    * **Código DK**
     ![](/assets/SolicitarAlteracaoDeProduto03.png)
 * Alteração de Preço em Lote
-    * Arquivo
+    * **Arquivo**
     ![](/assets/SolicitarAlteracaoDeProduto04.png)
