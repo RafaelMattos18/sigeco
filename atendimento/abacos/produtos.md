@@ -4,6 +4,8 @@
 
 ## Funcionalidade
 
+Esta funcionalidade traz informações sobre os produtos que estão do Ábacos.
+
 ## Resultado
 
 ![](/assets/atd-abc-prod-01.png)
