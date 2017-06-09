@@ -18,8 +18,7 @@ Temos as informações do produto, quem foi o solicitante de alteração de pre�
 
 Na SIEVE temos cadastrado o valor mínimo e máximo
 
-
-#### Precificação abaixo de 10%
+#### Regra 01 - Precificação abaixo de 10%
 
 Temos a seguinte regra no sistema:
 
@@ -43,6 +42,32 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
         4. Adiciona no campo de observação a mensagem “Margem menor que 10% !!!”
 5. Sistema de precificação da Sieve também foi adaptado para quando gerar um solicitação com preço abaixo de 10% ir para o grupo master ao invés do líder da categoria.
 6. Fluxo interno da aplicação alterado para não interferir na alteração de Classe e Nome.
+
+
+#### Regra 02 - Cálculo de margem
+
+
+##### Descrição
+
+Ao aprovar o preço de um produto ter a possibilidade de alterar o valor, calcular margem e aplicar todas as regras que já ocorrem na solicitação de preços.
+
+##### Funcionalidades
+
+1. No modal de aprovação de produtos, agora é possível digitar um novo preço.
+2. Adicionado caixa exibindo a margem do produto.
+3. Adicionado botão para recalcular margem.
+
+##### Regras na Aprovação de Preço
+
+5. Caso o preço esteja em branco impede a aprovação do produto.
+6. Caso haja alteração de preço aplica as seguintes regras
+    7. Se a margem for menor que 10%
+        8. Se estiver cadastrado na categoria master permite aprovação
+        9. Se não exibe mensagem de erro informando que a margem está abaixo de 10%
+    10. Ao registrar a solicitação adiciona no campo de observação a informação: “_Preco alterado manualmente! De: {**PrecoAntigo**} Por: {**PrecoNovo**}_ ”
+    11. O preço fictício é atualizado ao registrar a solicitação via API
+12. Caso o preço não seja alterado segue o fluxo padrão.
+
 
 
 
