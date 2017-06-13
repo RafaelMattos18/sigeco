@@ -2,12 +2,12 @@
 
 ---
 
-![](/assets/anunciosSemVinculo01.png)
+![](http://developers.connectparts.com.br/imagens/anunciosSemVinculo01.png)
 
 ## Funcionalidade
 
 ## Resultado
 
-![](/assets/anunciosSemVinculo02.png)
+![](http://developers.connectparts.com.br/imagens/anunciosSemVinculo02.png)
 
 ### Processo
