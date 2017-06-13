@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/SimulacaoCustoFreteItensPedido01.png)
+![](http://developers.connectparts.com.br/imagens/SimulacaoCustoFreteItensPedido01.png)
 
 ## Funcionalidade
 
@@ -23,13 +23,13 @@ Traz informações sobre os itens do pedido, valores unitários, ações de reti
 
 * Um mark-up é adicionado ao custo total, para geração de lucro.
 
-![](/assets/SimulacaoCustoFreteItensPedido02.png)
+![](http://developers.connectparts.com.br/imagens/SimulacaoCustoFreteItensPedido02.png)
 
 #### Itens do Pedido
 
 * Trazido do Ábacos as informações dos produtos que compõe o pedido e para ser mais específico podemos clicar no resultado da coluna **Código**, onde se fará uma consulta mais detalhada no Ábacos sobre Dados do produto, Fornecedores e Estoque.
 
-![](/assets/SimulacaoCustoFreteItensPedido03.png)
+![](http://developers.connectparts.com.br/imagens/SimulacaoCustoFreteItensPedido03.png)
 
 #### Resultado da Simulação
 
