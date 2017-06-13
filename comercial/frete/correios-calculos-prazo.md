@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/CorreiosCalculosPrazo01.png)
+![](http://developers.connectparts.com.br/imagens/CorreiosCalculosPrazo01.png)
 
 ## Funcionalidade
 
