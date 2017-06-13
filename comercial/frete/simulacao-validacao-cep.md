@@ -1,7 +1,7 @@
 # Simulação Validação CEP
 ---
 
-![](/assets/simulacaoCustoFreteProduto01.png)
+![](http://developers.connectparts.com.br/imagens/simulacaoCustoFreteProduto01.png)
 
 ## Funcionalidade
 
@@ -11,9 +11,9 @@ Pelos pontos do Interior e Capital de uma UF é informada uma faixa de CEP, onde
 
 ## Resultado
 
-![](/assets/simulacaoCustoFreteProduto02.png)
+![](http://developers.connectparts.com.br/imagens/simulacaoCustoFreteProduto02.png)
 
-![](/assets/simulacaoCustoFreteProduto03.png)
+![](http://developers.connectparts.com.br/imagens/simulacaoCustoFreteProduto03.png)
 
 ### Regras de cálculo
 
