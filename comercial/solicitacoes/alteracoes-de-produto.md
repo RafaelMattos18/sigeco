@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/SolicitarAlteracaoDeProduto01.png)
+![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto01.png)
 
 ## Funcionalidade
 
@@ -14,10 +14,10 @@
 * Alteração de Nome
 * Alteração de Preço
     * **Código PAI**
-    ![](/assets/SolicitarAlteracaoDeProduto02.png)
+    ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto02.png)
 * Alteração de Classe
     * **Código DK**
-    ![](/assets/SolicitarAlteracaoDeProduto03.png)
+    ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto03.png)
 * Alteração de Preço em Lote
     * **Arquivo**
-    ![](/assets/SolicitarAlteracaoDeProduto04.png)
+    ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto04.png)
