@@ -2,12 +2,12 @@
 
 ---
 
-![](/assets/SDPprod01.png)
+![](http://developers.connectparts.com.br/imagens/SDPprod01.png)
 
 ## Funcionalidade
 
 ## Resultado
 
-![](/assets/SDPprod02.png)
+![](http://developers.connectparts.com.br/imagens/SDPprod02.png)
 
 ### Processo
