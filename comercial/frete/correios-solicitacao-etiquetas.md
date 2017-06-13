@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/solicitacaoEtiquetas01.png)
+![](http://developers.connectparts.com.br/imagens/solicitacaoEtiquetas01.png)
 
 ## Funcionalidade
 
