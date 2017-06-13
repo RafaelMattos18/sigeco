@@ -2,12 +2,12 @@
 
 ---
 
-![](/assets/comercialTarefasRelatorioTarefas01.png)
+![](http://developers.connectparts.com.br/imagens/comercialTarefasRelatorioTarefas01.png)
 
 ## Funcionalidade
 
 ## Resultado
 
-![](/assets/comercialTarefasRelatorioTarefas02.png)
+![](http://developers.connectparts.com.br/imagens/comercialTarefasRelatorioTarefas02.png)
 
 ### Processo

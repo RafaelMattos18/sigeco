@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/comercialTarefasMinhasTarefas01.png)
+![](http://developers.connectparts.com.br/imagens/comercialTarefasMinhasTarefas01.png)
 
 ## Funcionalidade
 
