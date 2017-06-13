@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/ConciliacaoBoletoBancario_01.png)
+![](http://developers.connectparts.com.br/imagens/ConciliacaoBoletoBancario_01.png)
 
 ## Funcionalidade
 
@@ -10,7 +10,7 @@ Leitura dos documentos bancários, no formato **.RET** ou **.txt**.
 
 ## Resultado
 
-![](/assets/ConciliacaoBoletoBancario_02.png)
+![](http://developers.connectparts.com.br/imagens/ConciliacaoBoletoBancario_02.png)
 
 ### Processos
 
