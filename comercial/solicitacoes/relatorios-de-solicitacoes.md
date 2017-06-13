@@ -2,12 +2,12 @@
 
 ---
 
-![](/assets/comercialSolicitacaoRelatoriosDeSolicitacoes01.png)
+![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoRelatoriosDeSolicitacoes01.png)
 
 ## Funcionalidade
 
 ## Resultado
 
-![](/assets/comercialSolicitacaoRelatoriosDeSolicitacoes02.png)
+![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoRelatoriosDeSolicitacoes02.png)
 
 ### Processo
