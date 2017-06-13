@@ -1,6 +1,6 @@
 # LOGS ERROS ÁBACOS x VTEX
 
-![](/assets/sigeco-integracoes-03.png)
+![](http://developers.connectparts.com.br/imagens/sigeco-integracoes-03.png)
 
 ### Funcionalidade
 
