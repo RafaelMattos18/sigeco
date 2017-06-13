@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/comercialSolicitacaoPrecoPendente01.png)
+![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente01.png)
 
 ## Funcionalidade
 
@@ -10,7 +10,7 @@ Nesta tela temos um relatório de produtos que sofreram alteração de preço pe
 
 ## Resultado
 
-![](/assets/comercialSolicitacaoPrecoPendente02.png)
+![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente02.png)
 
 Temos as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de Aprovar ou Reprovar.
 
@@ -28,7 +28,7 @@ Temos a seguinte regra no sistema:
 
 Quando houver uma solicitação para alteração de preço abaixo de 10% o sistema não enviará para o líder da categoria aprovar e sim para os usuários registrados na categoria master.
 
-![](/assets/precosPendentesRegra01.png)
+![](http://developers.connectparts.com.br/imagens/precosPendentesRegra01.png)
 
 ##### Funcionalidades 
 
