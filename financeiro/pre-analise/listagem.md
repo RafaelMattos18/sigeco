@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/img01.png)
+![](http://developers.connectparts.com.br/imagens/img01.png)
 
 ## Funcionalidade
 
@@ -43,7 +43,7 @@ E as colunas **Pedido, Tipo de Pessoa, Forma de Pagamento, Valor, Status, Data *
 
 Ao clicar na **Ação** será direcionado para a tela de ***Visualização de Pedido - Pré Análise***.
 
-![](/assets/preAnalise04.png)
+![](http://developers.connectparts.com.br/imagens/preAnalise04.png)
 
 Ao clicar em **Barrar Pedido** é necessário inserir um motivo válido.
 
