@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/CorreioRastreio01.png)
+![](http://developers.connectparts.com.br/imagens/CorreioRastreio01.png)
 
 ## Funcionalidade
 
