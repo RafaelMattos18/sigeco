@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/estoqueDropshipping.png)
+![](http://developers.connectparts.com.br/imagens/estoqueDropshipping.png)
 
 ## Funcionalidade
 
