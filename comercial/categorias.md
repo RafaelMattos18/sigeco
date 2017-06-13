@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/cat01.png)
+![](http://developers.connectparts.com.br/imagens/cat01.png)
 
 ## Funcionalidade
 

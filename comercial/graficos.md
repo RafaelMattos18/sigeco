@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/SDP01.png)
+![](http://developers.connectparts.com.br/imagens/SDP01.png)
 
 ## Funcionalidade
 
@@ -10,7 +10,7 @@ O sistema oferece formas de visualização das informações de produtos e anún
 
 ## Resultado
 
-![](/assets/SDP02.png)
+![](http://developers.connectparts.com.br/imagens/SDP02.png)
 
 ### Processos
 
