@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/simulacaoCustoFretePedido01.png)
+![](http://developers.connectparts.com.br/imagens/simulacaoCustoFretePedido01.png)
 
 ## Funcionalidade
 
@@ -14,17 +14,17 @@ Adicionar texto
 
 ### Faixa de CEP
 
-![](/assets/simulacaoCustoFretePedido02.png)
+![](http://developers.connectparts.com.br/imagens/simulacaoCustoFretePedido02.png)
 
 ### Número do pedido
 
-![](/assets/simulacaoCustoFretePedido03.png)
+![](http://developers.connectparts.com.br/imagens/simulacaoCustoFretePedido03.png)
 
 ### Endereço de Entrega
 
 **Validar Correios**
 
-![](/assets/simulacaoCustoFretePedido04.png)
+![](http://developers.connectparts.com.br/imagens/simulacaoCustoFretePedido04.png)
 
 ### Informações do Pedido
 
