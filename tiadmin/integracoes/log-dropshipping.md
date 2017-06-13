@@ -5,7 +5,7 @@
 ## Listagem de Pedidos - DropShipping
 
 
-![](/assets/sigeco-integracoes-01.png)
+![](http://developers.connectparts.com.br/imagens/sigeco-integracoes-01.png)
 
 
 ### Funcionalidade
@@ -16,7 +16,7 @@ Nesta opção temos a listagem de pedidos que contém os componentes DropShippin
 
 ### Resultado
 
-![](/assets/sigeco-integracoes-02.png)
+![](http://developers.connectparts.com.br/imagens/sigeco-integracoes-02.png)
 
 A pesquisa traz as informações **Código** do pedido, **Data de Criação, Status, Data de Atualização e Ação**.
 
@@ -24,7 +24,7 @@ Ao clicar na opção **Ação**, será apresentada a seguinte **_time line_**.
 
 ### Time Line
 
-![](/assets/statusDropShipping.png)
+![](http://developers.connectparts.com.br/imagens/statusDropShipping.png)
 
 **Time line** indicando todo o trajeto feito pelo pedido.
 
