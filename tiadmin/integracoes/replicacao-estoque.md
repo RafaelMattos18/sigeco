@@ -1,6 +1,6 @@
 # REPLICAÇÃO ESTOQUE
 
-![](/assets/sigeco-integracoes-04.png)
+![](http://developers.connectparts.com.br/imagens/sigeco-integracoes-04.png)
 
 ### Funcionalidade
 
