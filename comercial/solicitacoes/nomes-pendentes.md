@@ -2,12 +2,12 @@
 
 ---
 
-![](/assets/solicitacaoNomePendente01.png)
+![](http://developers.connectparts.com.br/imagens/solicitacaoNomePendente01.png)
 
 ## Funcionalidade
 
 ## Resultado
 
-![](/assets/solicitacaoNomePendente02.png)
+![](http://developers.connectparts.com.br/imagens/solicitacaoNomePendente02.png)
 
 ### Processo
