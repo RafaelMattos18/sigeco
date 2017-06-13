@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/preAnalise03.png)
+![](http://developers.connectparts.com.br/imagens/preAnalise03.png)
 
 ## Funcionalidade
 
@@ -21,7 +21,7 @@ Estes processos irão determinar a avaliação da pré análise. Tanto CPF ou CN
 
 **Exemplo: **
 
-![](/assets/preAnalise06.png)
+![](http://developers.connectparts.com.br/imagens/preAnalise06.png)
 
 ### Regras
 
