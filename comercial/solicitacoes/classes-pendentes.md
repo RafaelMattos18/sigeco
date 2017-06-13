@@ -2,13 +2,13 @@
 
 ---
 
-![](/assets/comercialSolicatacoesClassesPendentes01.png)
+![](http://developers.connectparts.com.br/imagens/comercialSolicatacoesClassesPendentes01.png)
 
 ## Funcionalidade
 
 ## Resultado
 
-![](/assets/comercialSolicatacoesClassesPendentes02.png)
+![](http://developers.connectparts.com.br/imagens/comercialSolicatacoesClassesPendentes02.png)
 
 ### Processo
 
