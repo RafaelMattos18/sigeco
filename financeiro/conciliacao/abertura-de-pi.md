@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/AberturaDePI01.png)
+![](http://developers.connectparts.com.br/imagens/AberturaDePI01.png)
 
 ## Funcionalidade
 
@@ -10,11 +10,11 @@ Nesta tela faremos um **P**edido de **I**nformação para as transportadoras, em
 
 Ao selecionar a opção **Transportadora - Correios **, serão apresentadas mais dois campos **Relatório Postal.Net** e **Relatório Salesforce**.
 
-![](/assets/AberturaDePI03.png)
+![](http://developers.connectparts.com.br/imagens/AberturaDePI03.png)
 
 ## Resultado
 
-![](/assets/AberturaDePI02.png)
+![](http://developers.connectparts.com.br/imagens/AberturaDePI02.png)
 
 Ao clicar em **exportar** teremos um download de um arquivo **.xls** contendo colunas com informações vinda dos correios e da nota fiscal e há uma coluna com o título **erro** onde está descrito o erro acontecido.
 
