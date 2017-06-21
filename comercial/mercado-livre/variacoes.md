@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/inseriVariacaoMercadoLivre01.png)
+![](http://developers.connectparts.com.br/imagens/inseriVariacaoMercadoLivre01.png)
 
 ## Funcionalidade
 
@@ -10,7 +10,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 
 ## Resultado
 
-![](/assets/inseriVariacaoMercadoLivre02.png)
+![](http://developers.connectparts.com.br/imagens/inseriVariacaoMercadoLivre02.png)
 
 
 ### Processo
@@ -40,7 +40,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 	* Cor, tamanho, cor secundária
 * Exemplo: 
 	
-	![](/assets/VariacaoML01.png)
+	![](http://developers.connectparts.com.br/imagens//VariacaoML01.png)
 
 
 ### Observações
