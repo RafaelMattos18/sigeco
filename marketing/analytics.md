@@ -10,7 +10,7 @@ Uma comunicação com o Google Analytics e Connect Parts, trazendo informações
 
 ## Fluxo do projeto
 
-![](/assets/fluxoMktAnalytics.png)
+![](http://developers.connectparts.com.br/imagens/fluxoMktAnalytics.png)
 
 Será desenvolvida uma rotina com timer definido, e esta rotina irá requisitar informações na API do Google Analytics que retorna
 com as informações requisitadas. A rotina da ConnectParts com estas informações, a armazenará em um banco de dados (A). Do
