@@ -55,6 +55,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 ### Regras
 
 ##### Impedimentos
+
 * Não é permitido preços diferentes nas variações
 * Sempre será utilizado o saldo real do Ábacos para subir as variações
 * Verifica se o produto está ativo no Mercado Livre
@@ -62,6 +63,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 	* Somente pode subir variações combinadas se o ML permitir.
 
 ##### Motivos de geração de Erro
+
 * Anuncio pausado
 * Estoque
 	* Utilizando os estoques **Real** e **Virtual**. 
