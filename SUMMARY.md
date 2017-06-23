@@ -62,4 +62,6 @@
   * [Usuarios](tiadmin/usuarios.md)
     * [Listagem](tiadmin/usuarios/listagem.md)
   * [Projetos](tiadmin/projetos.md)
+    * [Listagem](tiadmin/projetos/listagem.md)
+    * Cadastrar
 
