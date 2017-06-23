@@ -60,5 +60,6 @@
     * [Estoque Dropshipping](tiadmin/integracoes/estoque-dropshipping.md)
     * [Replicacao Estoque](tiadmin/integracoes/replicacao-estoque.md)
   * [Usuarios](tiadmin/usuarios.md)
+    * [Listagem](tiadmin/usuarios/listagem.md)
   * [Projetos](tiadmin/projetos.md)
 
