@@ -68,7 +68,7 @@ Ao aprovar o preço de um produto ter a possibilidade de alterar o valor, calcul
     11. O preço fictício é atualizado ao registrar a solicitação via API
 12. Caso o preço não seja alterado segue o fluxo padrão.
 
-###### Nova regra
+###### Regra com valor abaixo de 10%
 
 Melhorias Precificação e Cadastro (Parte 1).
 
