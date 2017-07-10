@@ -82,7 +82,7 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% alterar
 
 Regras na Solicitação de Preço:
 
-    1. Ao receber a solicitação de preço a API de precificação e cadastro aplica as regras
+    1. Ao receber a solicitação de preço a API de precificação e cadastro aplica as regras:
         2. Recalcula a margem do produto
         3. Caso seja abaixo de 10% alteração o grupo proprietário para 9000 (Grupo master)
         4. Adiciona no campo de observação a mensagem “Margem menor que 10% !!!”
