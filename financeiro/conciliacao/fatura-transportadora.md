@@ -26,5 +26,9 @@ Traz os resultados da conciliação, como transportadora, data de processamento 
 Os Relatórios AWB da transportadora Gollog devem ser agrupados em um único arquivo Excel. 
 > Obs.: Este arquivo pode conter mais de uma planilha. 
 
+#### Regras Rodonaves
+
+A ConnectParts está insenta de cobrança de peso **cubado**.
+
 
 
