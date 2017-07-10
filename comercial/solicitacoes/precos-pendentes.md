@@ -16,6 +16,8 @@ Temos as informações do produto, quem foi o solicitante de alteração de pre�
 
 ### Regras
 
+> Regra com valor abaixo de **10%**.
+
 Na SIEVE temos cadastrado o valor mínimo e máximo
 
 #### Regra 01 - Precificação abaixo de 10%
@@ -67,28 +69,6 @@ Ao aprovar o preço de um produto ter a possibilidade de alterar o valor, calcul
     10. Ao registrar a solicitação adiciona no campo de observação a informação: “_Preco alterado manualmente! De: {**PrecoAntigo**} Por: {**PrecoNovo**}_ ”
     11. O preço fictício é atualizado ao registrar a solicitação via API
 12. Caso o preço não seja alterado segue o fluxo padrão.
-
-###### Regra com valor abaixo de 10%
-
-Melhorias Precificação e Cadastro (Parte 1).
-
-**Descrição**
-
-Quando houver uma solicitação para alteração de preço abaixo de 10% alterar o fluxo e não ir para o líder da categoria aprovar e sim para os usuários registrados na categoria master.
-
-**Funcionalidades**
-
-> O fluxo para o usuário final continua o mesmo, apenas o backEnd da aplicação mudou.
-
-Regras na Solicitação de Preço:
-
-    1. Ao receber a solicitação de preço a API de precificação e cadastro aplica as regras:
-        2. Recalcula a margem do produto
-        3. Caso seja abaixo de 10% alteração o grupo proprietário para 9000 (Grupo master)
-        4. Adiciona no campo de observação a mensagem “Margem menor que 10% !!!”
-    2.    Sistema de precificação da Sieve também foi adaptado para quando gerar um solicitação com preço abaixo de 10% ir para o grupo master ao invés do líder da categoria.
-    3.    Fluxo interno da aplicação alterado para não interferir na alteração de Classe e Nome.
-
 
 
 
