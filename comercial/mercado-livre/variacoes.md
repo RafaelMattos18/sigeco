@@ -27,6 +27,9 @@ Criar variações nos anúncios do **Mercado Livre**.
 	* O MLB pesquisado terá que ter a letras MLB + números, sem hífen (-)
 		* Exemplo: MLB780641225 (*maneira correta*)
 	* Será feito automaticamente um **download** de um arquivo **.xls** contendo a seguinte estrutura:
+	![](http://developers.connectparts.com.br/imagens//modelo01.jpg)
+	* A **TagValor** corresponde as **Tag1, 2 e 3** e o **DescritorValor** corresponde ao **Descritor1, 2 e 3**, como o exemplo abaixo:
+	![](http://developers.connectparts.com.br/imagens//modelo02.jpg)
 
 ##### Customizada
 * Poderá ser enviada uma única variação: Deverão escolher somente uma TAG, podendo ter vários descritores.
