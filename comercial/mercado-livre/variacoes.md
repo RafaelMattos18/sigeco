@@ -18,6 +18,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 #### Tipo de Variação
 
 ##### Combinada
+
 * São variações que o ML permite, podendo ser uma ou múltiplas variações tendo no máximo 3 tipos de tags diferentes e podemos enviar através do nosso sistema (arquivo excel) até 3 descritores por linha, podendo inserir mais descritores nas linhas seguintes.
 * Ao clicar em ** *Realize o download do arquivo modelo clicando aqui. * **, será gerado um arquivo.xls com as colunas **Mlb**, **CodigoExterno**, **Tag1**, **Descritor1**, **Tag2**, **Descritor2**, **Tag3** e **Descritor3**.
 * Para fazer o download do modelo de layout do **Combinada** clique no botão **Exportar Atributos**.
@@ -25,7 +26,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 	* Somente os atributos exportados, são permitidos nas variações combinadas.
 	* O MLB pesquisado terá que ter a letras MLB + números, sem hífen (-)
 		* Exemplo: MLB780641225 (*maneira correta*)
-
+	* Será feito automaticamente um **download** de um arquivo **.xls** contendo a seguinte estrutura:
 
 ##### Customizada
 * Poderá ser enviada uma única variação: Deverão escolher somente uma TAG, podendo ter vários descritores.

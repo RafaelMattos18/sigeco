@@ -34,7 +34,7 @@ E as colunas **Pedido, Tipo de Pessoa, Forma de Pagamento, Valor, Status, Data *
 
 |Descrição|  |
 |--|--|
-|**Imagem**|![](/assets/preAnalise02.png)|
+|**Imagem**|![](http://developers.connectparts.com.br/imagens/preAnalise02.png)|
 |**Cadeado Preto**| Pedido|
 |**Cadeado Vermelho**|Pedido barrado (pela pré análise)|
 |**Cadeado Verde**|Pedido barrado (pela pré análise) e depois liberado (pelo atendimento)|
