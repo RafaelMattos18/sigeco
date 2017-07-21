@@ -42,7 +42,7 @@ armazenará e utilizará em seus cálculos e tomadas de decisões, em um bando d
 
 #### Hora de execução
 
-A rotina será executada todo dia as XX horas.
+A rotina será executada todo dia as 00:00horas.
 
 #### Inconsistência na execução
 
