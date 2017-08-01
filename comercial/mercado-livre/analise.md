@@ -25,13 +25,7 @@ Todo resultado dependerá da filtragem. Caso escolha a opção "**Ordenar por: M
 * **Qtde. Disponível**: Quantidade disponível em estoque.
 * **Qtde. Total Vendida**: Total da quantidade de produtos vendidos desde o início do monitoramento.
 * **Início Monitoramento**: Data de início do monitoramento
-* ** Último Monitoramento**: Data de final do monitoramento
- 
-
-
-
-
-
+* **Último Monitoramento**: Data de final do monitoramento
 
 
 
