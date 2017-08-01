@@ -32,6 +32,8 @@ Traz informações sobre os itens do pedido, valores unitários, ações de reti
 
 ![](http://developers.connectparts.com.br/imagens/SimulacaoCustoFreteItensPedido03.png)
 
+
+
 #### Resultado da Simulação
 
 * Demonstrado na coluna **Serviço de Entrega** os valores de cada forma
