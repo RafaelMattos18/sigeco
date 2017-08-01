@@ -34,6 +34,7 @@
     * [Tabelas Faixas CEP](comercial/frete/tabelas-faixas-cep.md)
   * [Mercado Livre](comercial/mercado-livre.md)
     * [Variacoes](comercial/mercado-livre/variacoes.md)
+    * [Analise](comercial/mercado-livre/analise.md)
 * [Marketing](marketing.md)
   * [Analytics](marketing/analytics.md)
     * [Gerar relatorio](marketing/gerar-relatorio.md)
