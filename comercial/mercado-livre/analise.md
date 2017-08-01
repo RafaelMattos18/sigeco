@@ -18,7 +18,6 @@ As **Opções** que são apresentadas são as seguintes:
 * **Descartar Anúncio**: Pausa o anúncio do serviço de coleta de informações.
 * **Finalizar Anúncio**: Finaliza o anúncio do serviço de coleta de informações.
 
-
 ### Regras
 
 Todo resultado dependerá da filtragem. Caso escolha a opção "**Ordenar por: Maior Faturamento**" estas informações serão demonstradas: 
