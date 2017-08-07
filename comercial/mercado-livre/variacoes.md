@@ -72,10 +72,9 @@ Quando tivermos que adicionar o valor da coluna **Tag1** com **MANUFACTURER_HELM
 
 ![](http://developers.connectparts.com.br/imagens/NovoModeloVariacao01.jpg)
 
+Quando utilizamos a opção **Exportar Atributos** virá informações nas colunas que deverão ser iguais ao arquivo que iremos fazer o upload, como está na coluna **TagValor** - figura abaixo.
+
 ![](http://developers.connectparts.com.br/imagens/NovoModeloVariacao02.jpg)
-
-
-
 
 
 #### Motivos de geração de Erro
