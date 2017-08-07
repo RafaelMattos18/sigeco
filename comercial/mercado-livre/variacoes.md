@@ -68,9 +68,11 @@ Criar variações nos anúncios do **Mercado Livre**.
 	
 #### Coluna (Tag1)
 
-Quando tivermos que adicionar o valor da coluna **Tag1** com **MANUFACTURER_HELMET_SIZE** deverá ser adicionado somente números na coluna **Descritor1**, como é demonstrado na figura abaixo.
+Quando tivermos que adicionar o valor da coluna **Tag1** com **MANUFACTURER_HELMET_SIZE** deverá ser adicionado **somente números** na coluna **Descritor1**, como é demonstrado na figura abaixo.
 
 ![](http://developers.connectparts.com.br/imagens/NovoModeloVariacao01.jpg)
+
+![](http://developers.connectparts.com.br/imagens/NovoModeloVariacao02.jpg)
 
 
 
