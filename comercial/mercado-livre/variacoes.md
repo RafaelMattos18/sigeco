@@ -58,15 +58,25 @@ Criar variações nos anúncios do **Mercado Livre**.
 
 ### Regras
 
-##### Impedimentos
+#### Impedimentos
 
 * Não é permitido preços diferentes nas variações
 * Sempre será utilizado o saldo real do Ábacos para subir as variações
 * Verifica se o produto está ativo no Mercado Livre
 	* No máximo três variações poderão ir para Mercado Livre.
 	* Somente pode subir variações combinadas se o ML permitir.
+	
+#### Coluna (Tag1)
 
-##### Motivos de geração de Erro
+Quando tivermos que adicionar o valor da coluna **Tag1** com **MANUFACTURER_HELMET_SIZE** deverá ser adicionado somente números ao **Descritor1**, como é demonstrado na figura abaixo.
+
+![](http://developers.connectparts.com.br/imagens/NovoModeloVariacao01.jpg)
+
+
+
+
+
+#### Motivos de geração de Erro
 
 * Anuncio pausado
 * Estoque
