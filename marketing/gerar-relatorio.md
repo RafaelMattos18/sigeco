@@ -1,4 +1,4 @@
-# Gerar relatorio
+# Gerar relatório
 
 ---
 
