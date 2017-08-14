@@ -52,7 +52,7 @@ armazenará e utilizará em seus cálculos e tomadas de decisões, em um bando d
 
 ### Particularidades
 
-* Há campanhas que não possuem títulos, então o marketing fará uma pesquisa pelo campo ga:sourceMedium (Origem)
+* Há campanhas que não possuem títulos, então o marketing fará uma pesquisa pelo campo **ga:sourceMedium** (Origem)
 
 ### Regras
 
