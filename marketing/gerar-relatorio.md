@@ -58,12 +58,11 @@ armazenará e utilizará em seus cálculos e tomadas de decisões, em um bando d
 
 #### Hora de execução
 
-A rotina será executada todo dia as 00:00horas, pois o Google libera estas informações somente este horário, com as informações do dia anterior.
+No momento que acionar o relatório com Token de autenticação, as informações que virão são do dia anterior, pois o Google libera estas informações somente no horário 00h.
 
 #### Inconsistência na execução
 
-* Caso tenha alguma inconsistência a rotina como, queda do servidor, instabilidade na internet, não será gravado nada em
-nossa tabela.
+* Caso tenha alguma inconsistência a rotina como, queda do servidor, instabilidade na internet, não será gravado nada em nossa tabela.
 
 #### Tempo de armazenagem
 
