@@ -19,7 +19,7 @@ Seu relatório foi gerado com sucesso! Os dados já podem ser consultados no ban
 
 ---
 
-## Descrição do projeto
+## Descrição do projeto Analytics
 
 Uma comunicação com o Google Analytics e Connect Parts, trazendo informações para os departamentos Marketing e B.I. Estas comunicações terão informações de custos por campanhas. As informações deverão segmentadas por Categoria, Subcategoria e Marcas. Estas informações irão agregar benefícios ao departamento comercia, como realizar investimentos estratégicos e mais assertivos.
 
@@ -43,7 +43,7 @@ armazenará e utilizará em seus cálculos e tomadas de decisões, em um bando d
 *Filtro para pegar apenas Google Adwords: ga:sourceMedium==google / cpc
 
 
-**Relatório de Custo de Google Adword**s:
+**Relatório de Custo de Google Adwords**:
 
 * Dimensões: ga:sourceMedium,ga:campaign,ga:date
 * Métricas: ga:adCost, ga:adClicks, ga:impressions
