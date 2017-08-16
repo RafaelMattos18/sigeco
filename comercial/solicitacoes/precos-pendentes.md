@@ -14,25 +14,25 @@ Nesta tela temos um relatório de produtos que sofreram alteração de preço pe
 
 Temos as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de Aprovar ou Reprovar.
 
-### Regras
+## Regras
 
-> Regra com valor abaixo de **10%**.
+> Na **SIEVE** temos cadastrado o valor mínimo e máximo
 
-Na SIEVE temos cadastrado o valor mínimo e máximo
+### Precificação
 
-#### Regra 01 - Precificação abaixo de 10%
-
-Temos a seguinte regra no sistema:
-
-* O analista/assistente solicita alteração de  preço abaixo de 16%(margem), é apresentada um alerta proibindo tal ação. **Porém o líder consegue precificar abaixo de 16%**.
-
-#### Descrição
+**Descrição**
 
 Quando houver uma solicitação para alteração de preço abaixo de 10% o sistema não enviará para o líder da categoria aprovar e sim para os usuários registrados na categoria master.
 
 ![](http://developers.connectparts.com.br/imagens/precosPendentesRegra01.png)
 
-##### Funcionalidades 
+* Precificação maior que 16% os solicitantes poderão solicitar.
+* Precificação menor que 16% e maior que 10% - somente os líderes poderão aprovar.
+* Precificação menor que 10% somente os gestores poderão aprovar.
+
+> Gestores que estão na categoria master: Marçal Junior, Lucas Costa, Marcos Silva.
+
+#### Funcionalidades 
 
 1. O fluxo para o usuário final continua o mesmo, apenas o backend da aplicação mudou.
 
@@ -46,20 +46,19 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
 6. Fluxo interno da aplicação alterado para não interferir na alteração de Classe e Nome.
 
 
-#### Regra 02 - Cálculo de margem
+### Cálculo de margem
 
-
-##### Descrição
+**Descrição**
 
 Ao aprovar o preço de um produto ter a possibilidade de alterar o valor, calcular margem e aplicar todas as regras que já ocorrem na solicitação de preços.
 
-##### Funcionalidades
+**Funcionalidades**
 
 1. No modal de aprovação de produtos, agora é possível digitar um novo preço.
 2. Adicionado caixa exibindo a margem do produto.
 3. Adicionado botão para recalcular margem.
 
-##### Regras na Aprovação de Preço
+**Aprovação de Preço**
 
 5. Caso o preço esteja em branco impede a aprovação do produto.
 6. Caso haja alteração de preço aplica as seguintes regras
