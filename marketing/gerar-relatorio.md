@@ -12,6 +12,9 @@ Ao clicar na opção **Gerar Novo Token de Acesso** será direcionado para tela 
 
 ![](http://developers.connectparts.com.br/imagens/analytics02.png)
 
+![](http://developers.connectparts.com.br/imagens/analytics03.png)
+
+
 Será apresentado uma nova tela com as duas opções de relatório **Google Analytics** e **Google Adwords**. Ao clicar, será apresentada a seguinte mensagem "_Aguarde enquanto exportamos seu relatório._" e caso não algum inconsistência será apresentada a seguinte mensagem:
 
 > _Relatório gerado com sucesso
