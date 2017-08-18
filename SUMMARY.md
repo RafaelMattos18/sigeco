@@ -39,6 +39,8 @@
 * [Marketing](marketing.md)
   * [Analytics](marketing/analytics.md)
     * [Gerar relatorio](marketing/gerar-relatorio.md)
+  * [VTEX](marketing/relatorio-vtex.md)
+    * [Relatorio Cupons](marketing/relatorio-vtex/relatorio-cupons.md)
 * [Financeiro](financeiro.md)
   * [Conciliacao](financeiro/conciliacao.md)
     * [Mercado Livre](financeiro/conciliacao/mercado-livre.md)
