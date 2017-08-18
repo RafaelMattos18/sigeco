@@ -61,12 +61,8 @@ armazenará e utilizará em seus cálculos e tomadas de decisões, em um bando d
 
 **Hora de execução**
 
-No momento que acionar o relatório com Token de autenticação, as informações que virão são do dia anterior, pois o Google libera estas informações somente no horário 00h.
+No momento que acionar o relatório com Token de autenticação, as informações que virão serão definidas pelas faixas de datas selecionadas, porém, o Google libera estas informações somente no horário 00h.
 
 **Inconsistência na execução**
 
 * Caso tenha alguma inconsistência a rotina como, queda do servidor, instabilidade na internet, não será gravado nada em nossa tabela.
-
-**Tempo de armazenagem**
-
-* As informações na tabela da parte do Desenvolvimento / Inovação serão mantidas até a próxima requisição. Então o serviço de consultar e gravar estas informações por parte do B.I deverá agir neste período.
