@@ -14,7 +14,7 @@ Nesta tela temos um relatório de produtos que sofreram alteração de preço pe
 
 Temos as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de Aprovar ou Reprovar.
 
-## Regras
+### Regras
 
 > Na **SIEVE** temos cadastrado o valor mínimo e máximo
 
@@ -26,7 +26,7 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
 
 ![](http://developers.connectparts.com.br/imagens/precosPendentesRegra01.png)
 
-* Precificação maior que 16% os solicitantes poderão solicitar.
+* Precificação maior que 16% os analistas poderão solicitar.
 * Precificação menor que 16% e maior que 10% - somente os líderes poderão aprovar.
 * Precificação menor que 10% somente os gestores poderão aprovar.
 
