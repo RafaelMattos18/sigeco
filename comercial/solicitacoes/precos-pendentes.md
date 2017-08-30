@@ -26,7 +26,7 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
 
 ![](http://developers.connectparts.com.br/imagens/precosPendentesRegra01.png)
 
-* Precificação maior que 16% os analistas poderão solicitar.
+* Precificação maior que 16% os analistas poderão solicitar, abaixo desta porcentagem o sistema não irá permitir a solicitação.
 * Precificação menor que 16% e maior que 10% - somente os líderes poderão aprovar.
 * Precificação menor que 10% somente os gestores poderão aprovar.
 
