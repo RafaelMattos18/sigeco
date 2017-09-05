@@ -21,3 +21,6 @@
 * Alteração de Preço em Lote
     * **Arquivo**
     ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto04.png)
+    
+
+## Regras
