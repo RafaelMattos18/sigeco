@@ -4,6 +4,8 @@
 
 ### Funcionalidade
 
-![](http://developers.connectparts.com.br/imagens/importaPlanilhaCusto_02.png)
+Nesta tela iremos fazer um upload do arquivo (**.xls**) contendo informações sobre produtos do fornecedor selecionado. As informações são DK, Custo, Código de Fabricação e Ativo. Esta funcionalidade terá reflexo na funcionalidade Dropshipping.
 
-### Resultado
+### Modelo de tabela
+
+![](http://developers.connectparts.com.br/imagens/importaPlanilhaCusto_02.png)
