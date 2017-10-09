@@ -26,9 +26,15 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
 
 ![](http://developers.connectparts.com.br/imagens/precosPendentesRegra01.png)
 
+
 * Precificação maior que 16% os analistas poderão solicitar, abaixo desta porcentagem o sistema não irá permitir a solicitação.
-* Precificação menor que 16% e maior que 10% - somente os líderes poderão aprovar.
-* Precificação menor que 10% somente os gestores poderão aprovar.
+
+* Os **analistas** poderão solicitar qualquer valor.
+    * Valores abaixo de 16% até 10%, terão que ter aprovação dos líderes.
+    * Valores abaixo de 10%, terão que ter aprovação dos líderes e também dos gestores.
+
+* Os **líderes** poderão solicitar qualquer valor.
+    * Valores abaixo de 10%, terão que ter aprovação dos líderes e também dos gestores.
 
 > Gestores que estão na categoria master: Marçal Junior, Lucas Costa, Marcos Silva.
 
