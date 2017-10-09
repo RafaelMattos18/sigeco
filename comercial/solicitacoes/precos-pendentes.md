@@ -26,6 +26,7 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
 
 ![](http://developers.connectparts.com.br/imagens/precosPendentesRegra01.png)
 
+<!--Esta alteração foi feita no dia 25/09-->
 
 * Precificação maior que 16% os analistas poderão solicitar, abaixo desta porcentagem o sistema não irá permitir a solicitação.
 
