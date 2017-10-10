@@ -26,8 +26,20 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
 
 ![](http://developers.connectparts.com.br/imagens/precosPendentesRegra01.png)
 
-<!--Esta alteração foi feita no dia 25/09-->
+**Analista**
 
+* O **analista** pode solicitar qualquer valor
+    * Todas as solicitações irão para o líder do setor para aprovação.
+    * Quando o líder aprovar, se a **margem for acima de 10%** segue para o ERP, caso contrário irá para o gestor.
+
+**Líder**
+
+* O **líder** pode solicitar qualquer valor
+    * Todas as solicitações que for **maior que a margem de 10%**, serão aprovadas automaticamente.
+    * Se solicitação **for menor que a margem de 10%**, o gestor terá que aprovar e seguirá para o ERP.
+    
+<!--Esta alteração foi feita no dia 25/09-->
+<!--
 * Precificação maior que 16% os analistas poderão solicitar, abaixo desta porcentagem o sistema não irá permitir a solicitação.
 
 * Os **analistas** poderão solicitar qualquer valor.
@@ -36,6 +48,7 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
 
 * Os **líderes** poderão solicitar qualquer valor.
     * Valores abaixo de 10%, terão que ter aprovação dos líderes e também dos gestores.
+-->
 
 > Gestores que estão na categoria master: Marçal Junior, Lucas Costa, Marcos Silva.
 
