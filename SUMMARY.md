@@ -14,6 +14,7 @@
     * [Nomes Pendentes](comercial/solicitacoes/nomes-pendentes.md)
     * [Classes Pendentes](comercial/solicitacoes/classes-pendentes.md)
     * [Precos Pendentes](comercial/solicitacoes/precos-pendentes.md)
+    * [Kits Pendentes](comercial/solicitacoes/kits-pendentes.md)
     * [Relatorios de Solicitacoes](comercial/solicitacoes/relatorios-de-solicitacoes.md)
   * [Tarefas](comercial/tarefas.md)
     * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)

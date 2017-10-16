@@ -28,7 +28,7 @@
     * **Arquivo**
     ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto04.png)
 
-    Como deverá ser o layout **.xls**.
+    Selecione a opção **Alteração de Preço em lote** e faça o upload do arquivo .xls. O arquivo deverá ter o layout abaixo:
     
     ![](http://developers.connectparts.com.br/imagens/modeloAlteracaoEmLote.png)
     
