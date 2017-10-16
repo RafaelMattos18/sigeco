@@ -2,7 +2,7 @@
 
 ---
 
-![](http://developers.connectparts.com.br/imagens/kitpendente01.png)
+![](http://developers.connectparts.com.br/imagens/kitpendente001.png)
 
 
 ## Funcionalidade
