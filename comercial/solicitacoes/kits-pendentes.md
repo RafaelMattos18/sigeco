@@ -7,7 +7,7 @@
 
 ## Funcionalidade
 
-Nesta tela teremos os produtos que foram alterados no sistema de precificação.
+Nesta tela teremos os produtos que foram alterados no sistema de precificação, podendo ser filtrados pelas opções acima.
 
 ### Processo
 
