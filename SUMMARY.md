@@ -16,6 +16,7 @@
     * [Precos Pendentes](comercial/solicitacoes/precos-pendentes.md)
     * [Kits Pendentes](comercial/solicitacoes/kits-pendentes.md)
     * [Relatorios de Solicitacoes](comercial/solicitacoes/relatorios-de-solicitacoes.md)
+    * [Relatorio Solicitacoes Kits](comercial/solicitacoes/relatorio-solicitacoes-kits.md)
   * [Tarefas](comercial/tarefas.md)
     * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
     * [Relatorio de tarefas](comercial/tarefas/relatorio-de-tarefas.md)
