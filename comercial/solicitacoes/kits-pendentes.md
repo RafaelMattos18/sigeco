@@ -4,6 +4,7 @@
 
 ![](http://developers.connectparts.com.br/imagens/kitpendente01.png)
 
+
 ## Funcionalidade
 
 Nesta tela teremos os produtos que foram alterados no sistema de precificação.
