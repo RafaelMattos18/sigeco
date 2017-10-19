@@ -49,6 +49,10 @@
     * [Boleto](financeiro/conciliacao/boleto.md)
     * [Fatura Transportadora](financeiro/conciliacao/fatura-transportadora.md)
     * [Abertura de P.I](financeiro/conciliacao/abertura-de-pi.md)
+  * Dropshipping
+    * [Entrada de Notas](financeiro/entrada-de-notas.md)
+    * Devolucoes
+    * Vendas
   * [Pre Analise](financeiro/pre-analise.md)
     * [Ocorrencias](financeiro/pre-analise/ocorrencias.md)
     * [Listagem](financeiro/pre-analise/listagem.md)
