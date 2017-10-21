@@ -19,7 +19,11 @@
 ### Funcionalidade
 
 ### Resultado
-    
+
+![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente02.png)
+
+Temos as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de Aprovar ou Reprovar.
+
 ## Alteração de Classe
 
 ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto03.png)
