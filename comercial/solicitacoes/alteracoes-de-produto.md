@@ -32,6 +32,8 @@ Temos as informações do produto, quem foi o solicitante de alteração de pre�
 
 ### Funcionalidade
 
+![](http://developers.connectparts.com.br/imagens/resultadoAlteracaoClasse.png)
+
 #### Resultado
 
 ![](http://developers.connectparts.com.br/imagens/comercialSolicatacoesClassesPendentes02.png)
