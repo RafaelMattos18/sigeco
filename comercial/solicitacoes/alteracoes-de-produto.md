@@ -16,7 +16,7 @@ Nesta tela iremos alterar o nome do produto; a aprovação desta alteração est
 
 ## Alteração de Preço
 
-![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto02.png)
+![alteracao de preco](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto02.png)
 
 ### Funcionalidade
 
@@ -26,6 +26,8 @@ Nesta tela iremos alterar o nome do produto; a aprovação desta alteração est
 
 
 #### Resultado
+
+![resultado da pesquisa](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto03.png)
 
 ![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente02.png)
 
