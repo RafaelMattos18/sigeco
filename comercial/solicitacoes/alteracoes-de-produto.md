@@ -34,10 +34,12 @@ Temos a opção que listas todas os canais que terão o preços alterados.
 
 ![resultado da pesquisa](http://developers.connectparts.com.br/imagens/alteracaoPrecos03.png)
 
+No resultado teremos algumas informações sobre o produto (_se é Pai, kit etc_) e um local para adicionar um **novo valor**. Haverá casos que teremos várias linhas de resultado, o sistema oferece um botão **Salvar** que ao adicionar um novo valor deve ser pressionado, salvando assim o valor. Para finalizar esta ação clique no botão **Enviar para aprovação** ou **Cancelar operação e remover**.
+
 
 ![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente02.png)
 
-Temos as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de Aprovar ou Reprovar.
+Na tela de **preços pendentes**, o sistema trará as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de **Aprovar **ou **Reprovar**, no menu **Preços Pendentes** temos as regras de aprovação e reprovação destes valores.
 
 ## Alteração de Classe
 
