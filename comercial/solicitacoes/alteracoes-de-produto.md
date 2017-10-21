@@ -20,9 +20,9 @@ Nesta tela iremos alterar o nome do produto; a aprovação desta alteração est
 
 ### Funcionalidade
 
-![](http://developers.connectparts.com.br/imagens/alteracaoPrecos01.png)
+![Regras dos codigos](http://developers.connectparts.com.br/imagens/alteracaoPrecos01.png)
 
-![](http://developers.connectparts.com.br/imagens/alteracaoPrecos02.png)
+![Canais plataformas](http://developers.connectparts.com.br/imagens/alteracaoPrecos02.png)
 
 
 #### Resultado
