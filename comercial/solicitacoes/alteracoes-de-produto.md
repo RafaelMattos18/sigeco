@@ -16,18 +16,19 @@ Nesta tela iremos alterar o nome do produto; a aprovação desta alteração est
 
 ## Alteração de Preço
 
-![alteracao de preco](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto02.png)
+
 
 ### Funcionalidade
+
 
 ![Regras dos codigos](http://developers.connectparts.com.br/imagens/alteracaoPrecos01.png)
 
 ![Canais plataformas](http://developers.connectparts.com.br/imagens/alteracaoPrecos02.png)
 
-
 #### Resultado
 
-![resultado da pesquisa](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto03.png)
+![resultado da pesquisa](http://developers.connectparts.com.br/imagens/alteracaoPrecos03.png)
+
 
 ![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente02.png)
 
