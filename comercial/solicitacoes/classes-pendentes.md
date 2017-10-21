@@ -6,9 +6,11 @@
 
 ## Funcionalidade
 
-### Processo
+## Processo
 
-## Resultado
+![](http://developers.connectparts.com.br/imagens/resultadoAlteracaoClasse.png)
+
+### Resultado
 
 ![](http://developers.connectparts.com.br/imagens/comercialSolicatacoesClassesPendentes02.png)
 

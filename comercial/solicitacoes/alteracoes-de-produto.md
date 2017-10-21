@@ -10,7 +10,7 @@
 
 Nesta tela iremos alterar o nome do produto; a aprovação desta alteração esta no menu **Nomes Pendentes**.
 
-### Resultado
+#### Resultado
 
 ![](http://developers.connectparts.com.br/imagens/solicitacaoNomePendente02.png)
 
@@ -20,7 +20,7 @@ Nesta tela iremos alterar o nome do produto; a aprovação desta alteração est
 
 ### Funcionalidade
 
-### Resultado
+#### Resultado
 
 ![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente02.png)
 
@@ -32,7 +32,7 @@ Temos as informações do produto, quem foi o solicitante de alteração de pre�
 
 ### Funcionalidade
 
-### Resultado
+#### Resultado
 
 ![](http://developers.connectparts.com.br/imagens/comercialSolicatacoesClassesPendentes02.png)
     
