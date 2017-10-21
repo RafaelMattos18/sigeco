@@ -32,6 +32,8 @@ Temos as informações do produto, quem foi o solicitante de alteração de pre�
 
 ### Funcionalidade
 
+**Classe** é o status de um produto, podemos alterar este status que irá para aprovação no menu **Classes Pendente**.
+
 ![](http://developers.connectparts.com.br/imagens/resultadoAlteracaoClasse.png)
 
 #### Resultado
