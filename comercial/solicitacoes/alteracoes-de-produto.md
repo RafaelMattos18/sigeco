@@ -16,14 +16,19 @@ Nesta tela iremos alterar o nome do produto; a aprovação desta alteração est
 
 ## Alteração de Preço
 
-
+![alteracao de preco](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto02.png)
 
 ### Funcionalidade
 
+Nesta opção iremos alterar o preço do produto, toda a regra de precificação esta descrita no abaixo.
 
 ![Regras dos codigos](http://developers.connectparts.com.br/imagens/alteracaoPrecos01.png)
 
+Ao adicionar o código,clicar na lupa e passar o mouse sobre o ícone **i**, teremos informações sobre o processo que irá acontecer.
+
 ![Canais plataformas](http://developers.connectparts.com.br/imagens/alteracaoPrecos02.png)
+
+Temos a opção que listas todas os canais que terão o preços alterados.
 
 #### Resultado
 
