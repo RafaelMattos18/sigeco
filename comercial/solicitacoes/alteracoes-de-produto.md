@@ -2,38 +2,46 @@
 
 ---
 
-![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto01.png)
-
-## Funcionalidade
-
-## Processo
-
-### Alteração de Nome
+## Alteração de Nome
 
 ![](http://developers.connectparts.com.br/imagens/alteracoesProdutoAlteracaoNome.png)
 
+### Funcionalidade
 
-### Alteração de Preço
+### Resultado
 
-    * **Código PAI**
-    ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto02.png)
-    
-### Alteração de Classe
-    * **Código DK**
-    ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto03.png)
-    
-### Alteração de Preço em Lote
-    * **Arquivo**
-    ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto04.png)
+![](http://developers.connectparts.com.br/imagens/solicitacaoNomePendente02.png)
 
-    Selecione a opção **Alteração de Preço em lote** e faça o upload do arquivo .xls. O arquivo deverá ter o layout abaixo:
+## Alteração de Preço
+
+![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto02.png)
+
+### Funcionalidade
+
+### Resultado
     
-    ![](http://developers.connectparts.com.br/imagens/modeloAlteracaoEmLote.png)
+## Alteração de Classe
+
+![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto03.png)
+
+### Funcionalidade
+
+### Resultado
+    
+## Alteração de Preço em Lote
+
+![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto04.png)
+
+### Funcionalidade
+
+Selecione a opção **Alteração de Preço em lote** e faça o upload do arquivo .xls. O arquivo deverá ter o layout abaixo:
+
+![](http://developers.connectparts.com.br/imagens/modeloAlteracaoEmLote.png)
     
 
 ## Regras
 
-### Alterações de Preços e Preços em lote 
+## Alterações de Preços e Preços em lote 
 
 ### Se for Código PAI
 
