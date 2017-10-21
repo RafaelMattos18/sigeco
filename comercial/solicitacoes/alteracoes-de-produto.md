@@ -27,6 +27,8 @@
 ### Funcionalidade
 
 ### Resultado
+
+![](http://developers.connectparts.com.br/imagens/comercialSolicatacoesClassesPendentes02.png)
     
 ## Alteração de Preço em Lote
 
