@@ -1,30 +1,28 @@
-#Alterações de Produtos
+# Alterações de Produtos
 
 ---
 
 ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto01.png)
 
-##Funcionalidade
+## Funcionalidade
 
-##Resultado
+## Processo
 
-###Processo
-
-####Alteração de Nome
+### Alteração de Nome
 
 ![](http://developers.connectparts.com.br/imagens/alteracoesProdutoAlteracaoNome.png)
 
 
-####Alteração de Preço
+### Alteração de Preço
 
     * **Código PAI**
     ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto02.png)
     
-####Alteração de Classe
+### Alteração de Classe
     * **Código DK**
     ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto03.png)
     
-####Alteração de Preço em Lote
+### Alteração de Preço em Lote
     * **Arquivo**
     ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto04.png)
 
