@@ -38,6 +38,9 @@
     * [Variacoes](comercial/mercado-livre/variacoes.md)
     * [Analise](comercial/mercado-livre/analise.md)
     * [Configuracoes](comercial/mercado-livre/configuracoes.md)
+* Logística
+  * Estoque
+    * [Pedidos Divergentes](pedidos-divergentes.md)
 * [Marketing](marketing.md)
   * [Analytics](marketing/analytics.md)
     * [Gerar relatorio](marketing/gerar-relatorio.md)

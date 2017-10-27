@@ -1,0 +1,7 @@
+# Pedidos Divergentes
+
+---
+
+## Funcionalidade
+
+## Resultado
