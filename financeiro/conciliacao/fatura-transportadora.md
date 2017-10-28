@@ -26,7 +26,7 @@ Traz os resultados da conciliação, como transportadora, data de processamento 
 Os Relatórios AWB da transportadora Gollog devem ser agrupados em um único arquivo Excel. 
 > Obs.: Este arquivo pode conter mais de uma planilha. 
 
-#### Regras Rodonaves
+#### Rodonaves
 
 * A ConnectParts está insenta de cobrança de peso **cubado**, caso o valor do peso base seja o mesmo do valor cubado e diferente do valor real, retorna um erro.
 * A tabela de peso da Rodonaves aceita até **100kg**, caso o valor do peso base que estiver na planilha for maior, retorna um erro.
