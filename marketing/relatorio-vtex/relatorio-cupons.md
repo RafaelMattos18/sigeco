@@ -1,6 +1,7 @@
 # Relatório de Cupons VTEX
 
 ---
+![RelatorioVtex](http://developers.connectparts.com.br/imagens/mktRelatorioVtex.png)
 
 ## Funcionalidade
 
