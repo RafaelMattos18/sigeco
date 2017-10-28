@@ -9,7 +9,7 @@
   * [Pedidos Barrados](atendimento/pedidos-barrados.md)
     * [Listagem](atendimento/pedidos-barrados/listagem.md)
   * Frete
-    * Prazo
+    * [Prazo](atendimento/prazo.md)
 * [Comercial](comercial.md)
   * [Solicitacoes](comercial/solicitacoes.md)
     * [Alteracoes de Produto](comercial/solicitacoes/alteracoes-de-produto.md)
