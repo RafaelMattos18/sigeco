@@ -31,10 +31,6 @@ Ao confirmar a ação de verificação do resultado.
 
 ![ReversaoBoleto](http://developers.connectparts.com.br/imagens/reversaoBoletoMKP03.png)
 
-
-
-
-
 ### Regras
 
 Pesquisas na VTEX:
