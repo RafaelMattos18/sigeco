@@ -55,7 +55,7 @@
   * [Dropshipping](financeiro/dropshipping.md)
     * [Entrada de Notas](financeiro/entrada-de-notas.md)
     * [Devolucoes](financeiro/devolucoes.md)
-    * Vendas
+    * [Vendas](financeiro/vendas.md)
   * [Pre Analise](financeiro/pre-analise.md)
     * [Ocorrencias](financeiro/pre-analise/ocorrencias.md)
     * [Listagem](financeiro/pre-analise/listagem.md)
