@@ -61,6 +61,7 @@
   * [Pre Analise](financeiro/pre-analise.md)
     * [Ocorrencias](financeiro/pre-analise/ocorrencias.md)
     * [Listagem](financeiro/pre-analise/listagem.md)
+    * [Boletos](financeiro/pre-analise/boletos.md)
   * [Tributacao](financeiro/tributacao.md)
     * [Calculo de margem](financeiro/tributacao/calculo-de-margem.md)
 * [Relatorios](relatorios.md)
