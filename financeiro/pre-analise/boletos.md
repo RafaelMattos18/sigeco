@@ -27,6 +27,7 @@ O sistema mostrará os boletos captados e listar quais não foram pagos do dia a
 
 ![ReversaoBoleto](http://developers.connectparts.com.br/imagens/reversaoBoletoMKP.png)
 
+Ao confirmar a ação de verificação do resultado.
 
 ![ReversaoBoleto](http://developers.connectparts.com.br/imagens/reversaoBoletoMKP03.png)
 
