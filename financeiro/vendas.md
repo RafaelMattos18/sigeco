@@ -1,0 +1,10 @@
+#Vendas
+
+---
+
+##Funcionalidade
+
+###Processo
+
+###Resultado
+
