@@ -8,7 +8,7 @@
     * [Produtos](atendimento/abacos/produtos.md)
   * [Pedidos Barrados](atendimento/pedidos-barrados.md)
     * [Listagem](atendimento/pedidos-barrados/listagem.md)
-  * Frete
+  * [Frete](atendimento/frete.md)
     * [Prazo](atendimento/prazo.md)
 * [Comercial](comercial.md)
   * [Solicitacoes](comercial/solicitacoes.md)
