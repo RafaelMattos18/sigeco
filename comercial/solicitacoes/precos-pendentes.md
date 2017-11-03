@@ -67,9 +67,9 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
 
 ## Regras
 
-1. Caso o produto não tenha nenhum valor em uma das suas listas de preços, será retornado um e-mail para ao solicitante avisando a falta deste valor.
+1. Caso o produto **não tenha nenhum valor em uma das suas listas de preços**, será retornado um e-mail para ao solicitante avisando a falta deste valor.
 
-2. Caso tenha valor somente em uma das listas o calculo da margem será feito com base no existente.
+2. Caso **tenha valor somente em uma das listas** o calculo da margem será feito com base no existente.
 
 
 
