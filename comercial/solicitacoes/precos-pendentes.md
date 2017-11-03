@@ -71,9 +71,6 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
 
 2. Caso **tenha valor somente em uma das listas** o calculo da margem será feito com base no existente.
 
-
-
-
 ### Cálculo de margem
 
 **Descrição**
