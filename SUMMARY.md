@@ -40,6 +40,7 @@
     * [Variacoes](comercial/mercado-livre/variacoes.md)
     * [Analise](comercial/mercado-livre/analise.md)
     * [Configuracoes](comercial/mercado-livre/configuracoes.md)
+    * [Verificar Variacoes](comercial/mercado-livre/verificar-variacoes.md)
 * Logística
   * Estoque
     * [Pedidos Divergentes](pedidos-divergentes.md)
