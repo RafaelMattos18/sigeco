@@ -12,7 +12,7 @@
     * [Prazo](atendimento/prazo.md)
 * [Comercial](comercial.md)
   * Exorbitante
-    * Aprovacoes
+    * [Aprovacoes](comercial/aprovacoes.md)
     * Tratativas
     * Histórico
   * [Tarefas](comercial/tarefas.md)
