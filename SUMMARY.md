@@ -14,7 +14,7 @@
   * Exorbitante
     * [Aprovacoes](comercial/aprovacoes.md)
     * [Tratativas](comercial/tratativas.md)
-    * Histórico
+    * [Histórico](comercial/historico.md)
   * [Tarefas](comercial/tarefas.md)
     * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
     * [Relatorio de tarefas](comercial/tarefas/relatorio-de-tarefas.md)
