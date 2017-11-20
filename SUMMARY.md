@@ -11,6 +11,13 @@
   * [Frete](atendimento/frete.md)
     * [Prazo](atendimento/prazo.md)
 * [Comercial](comercial.md)
+  * Exorbitante
+    * Aprovacoes
+    * Tratativas
+    * Histórico
+  * [Tarefas](comercial/tarefas.md)
+    * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
+    * [Relatorio de tarefas](comercial/tarefas/relatorio-de-tarefas.md)
   * [Solicitacoes](comercial/solicitacoes.md)
     * [Alteracoes de Produto](comercial/solicitacoes/alteracoes-de-produto.md)
     * [Nomes Pendentes](comercial/solicitacoes/nomes-pendentes.md)
@@ -19,9 +26,6 @@
     * [Kits Pendentes](comercial/solicitacoes/kits-pendentes.md)
     * [Relatorios de Solicitacoes](comercial/solicitacoes/relatorios-de-solicitacoes.md)
     * [Relatorio Solicitacoes Kits](comercial/solicitacoes/relatorio-solicitacoes-kits.md)
-  * [Tarefas](comercial/tarefas.md)
-    * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
-    * [Relatorio de tarefas](comercial/tarefas/relatorio-de-tarefas.md)
   * [Shopping de Precos](comercial/shopping-de-precos.md)
     * [Produtos](comercial/produtos.md)
     * [Anuncios sem vinculo](comercial/anuncios-sem-vinculo.md)
