@@ -1,0 +1,13 @@
+# Tratativas
+
+---
+
+## Funcionalidade
+
+### Processo
+
+### Resultado
+
+
+
+

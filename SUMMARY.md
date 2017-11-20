@@ -13,7 +13,7 @@
 * [Comercial](comercial.md)
   * Exorbitante
     * [Aprovacoes](comercial/aprovacoes.md)
-    * Tratativas
+    * [Tratativas](comercial/tratativas.md)
     * Histórico
   * [Tarefas](comercial/tarefas.md)
     * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
