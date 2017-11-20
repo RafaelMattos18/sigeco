@@ -14,4 +14,4 @@ O departamento de frete utiliza esta tabela com os prazos para executar os cálc
 
 ### Regras de cálculo
 
-* Verificar - [Sobre Cálculos das Transportadoras](/comercial/frete.md).
+* Verificar - Comercial / frete.
