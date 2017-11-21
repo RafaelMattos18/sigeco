@@ -1,7 +1,7 @@
 # BLACK FRIDAY
 
 
-[![N|Solid](https://connectparts.vteximg.com.br/arquivos/logo-connect.png)](https://nodesource.com/products/nsolid)
+![logo](http://developers.connectparts.com.br/imagens/LogoConnectParts.png)
 
 
 [![N|Solid](https://cdn.arstechnica.net/wp-content/uploads/2014/02/warning-640x360.png)](https://nodesource.com/products/nsolid)
