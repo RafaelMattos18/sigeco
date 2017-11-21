@@ -87,4 +87,6 @@
   * [Projetos](tiadmin/projetos.md)
     * [Listagem](tiadmin/projetos/listagem.md)
     * [Cadastrar](tiadmin/projetos/cadastrar.md)
+* ConnectParts
+  * [Black Friday](black-friday.md)
 
