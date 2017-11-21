@@ -10,9 +10,9 @@
 
 A precificação ocorre em duas etapas principais. 
 
-**A primeira** delas é no gerenciador de tarefas, onde a tarefa "AtualizarPrecos" é responsável por capturar as solicitações de alteração feitas pelo usuário, tratar as mesmas e então joga-las no KPL/ABACOS.
+1. **A primeira** delas é no gerenciador de tarefas, onde a tarefa "AtualizarPrecos" é responsável por capturar as solicitações de alteração feitas pelo usuário, tratar as mesmas e então joga-las no KPL/ABACOS.
 
-**A segunda** é o gerenciador de Integrações na tarefa IntegracaoPreco, essa tarefa é responsável por consumir uma fila de alterações disponibilizada pelo KPL/ABACOS, e então tratar as alterações e então grava-las no VTEX.
+2. **A segunda** é o gerenciador de Integrações na tarefa IntegracaoPreco, essa tarefa é responsável por consumir uma fila de alterações disponibilizada pelo KPL/ABACOS, e então tratar as alterações e então grava-las no VTEX.
 
 ### Possíveis problemas.
 
