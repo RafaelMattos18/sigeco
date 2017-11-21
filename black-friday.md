@@ -92,7 +92,9 @@ A integrações de Pedidos Possui duas vias principais, a primeira são os pedid
 ``` //_vtexServicosExternos.CriarParametro("q","XXXXXXXXXX").  ``` Aqui é um passo simples, comente as 4 linhas acima dela de parâmetros e descomente apenas a 111 e então substitua os XXXXXXXXX pelo número do pedido. Antes de realizar essa integração observe o passo 2.5.2 e confira se está tudo correto. Então basta executar e acompanhar o processo até o final. No caso de se tratar de 00K localize IntegracaoPedidoZeroZeroK.cs e então a linha 270, como no exemplo a seguir //_zzkServicosExternos.CriarParametro("external_id","XXXXXXXX"). Como no processo anterior é necessário comentar as 3 linhas acima de parâmetro e deixar apenas a que vai utilizar mais uma vez substituindo os XXXXXX pelo pedido. Antes de fazer essa integração verificar o **passo 10** e se necessário o **passo 10.1**. Então basta acompanhar a integração até o final.
 10. Caso esteja lidando com 00K é necessário ver se o produto está ativo na plataforma.
 - Existe uma tabela no banco DropShipping denominada Produtos00K, tente localizar o produto na mesma antes de mais nada.
-    11. Caso não localize vá até o Sigeco e entre na listagem de produtos 00K localize o mesmo e o ative.
-12. Caso seja Vtex vá até a lista no banco Dropshipping tabela Produtos, o mesmo deve constar lá e possuir preço de custo preenchido. 
+
+    1. Caso não localize vá até o Sigeco e entre na listagem de produtos 00K localize o mesmo e o ative.
+    
+    2. Caso seja Vtex vá até a lista no banco Dropshipping tabela Produtos, o mesmo deve constar lá e possuir preço de custo preenchido. 
     13. Caso não esteja lá o produto deve ser localizado o responsável por essa lista no comercial.
 
