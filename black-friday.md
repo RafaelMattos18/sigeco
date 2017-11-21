@@ -3,7 +3,6 @@
 
 ![logo](http://developers.connectparts.com.br/imagens/LogoConnectParts.png)
 
-
 [![N|Solid](https://cdn.arstechnica.net/wp-content/uploads/2014/02/warning-640x360.png)](https://nodesource.com/products/nsolid)
 
 ## Problemas conhecidos!
