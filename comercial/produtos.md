@@ -6,9 +6,11 @@
 
 ## Funcionalidade
 
-Nesta tela teremos uma amostragem de  desempenho em valores com os concorrentes no mercado livre
+Nesta tela teremos uma amostragem de  desempenho em valores com os concorrentes no mercado livre.
 
-## Resultado
+### Processo
+
+### Resultado
 
 ![](http://developers.connectparts.com.br/imagens/SDPprod02.png)
 
@@ -17,7 +19,6 @@ Nesta tela teremos uma amostragem de  desempenho em valores com os concorrentes 
 * Buscar Concorrentes
 
 
-### Processo
 
 #### Detalhes
 
@@ -41,6 +42,7 @@ Podemos relacionar este produto; e após esta relacção o sistem dentro de uma 
 
 * Um anúncio pode ter no máximo 100 anúncios relacionados.
 * Em relacionados, a captação de valores será sempre um dia atrás.
+* Recuperamos estas informações sempre via API.
 
 
 
