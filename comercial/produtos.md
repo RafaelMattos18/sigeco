@@ -38,7 +38,7 @@ Podemos relacionar este produto; e após esta relacção o sistem dentro de uma 
 #### Regras
 
 * Um anúncio pode ter no máximo 100 anúncios relacionados.
-* A captação de valores será sempre um dia atrás.
+* Em relacionados, a captação de valores será sempre um dia atrás.
 
 
 
