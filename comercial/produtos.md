@@ -6,6 +6,8 @@
 
 ## Funcionalidade
 
+Nesta tela teremos uma amostragem de  desempenho em valores com os concorrentes no mercado livre
+
 ## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/SDPprod02.png)
