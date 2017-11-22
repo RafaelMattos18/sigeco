@@ -10,6 +10,8 @@ Nesta tela teremos uma amostragem de  desempenho em valores com os concorrentes 
 
 ### Processo
 
+O departamento comercial utiliza esta ferramenta para mensurar um métrica e agir de forma que sejamos mais competitivos no mercado livre.
+
 ### Resultado
 
 ![](http://developers.connectparts.com.br/imagens/SDPprod02.png)
