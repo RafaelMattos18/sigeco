@@ -49,4 +49,18 @@ Se tudo estiver ok: '**Try it out!**'
 
 ```
 
+```
+use Dropshipping;
+SELECT TOP (1000) [PedidoFornecedorCodigo]
+      ,[ProdutoCodigo]
+      ,[Quantidade]
+      ,[PrecoUnitarioVenda]
+      ,[PrecoUnitarioCusto]
+      ,[DataAtualizacaoRegistro]
+      ,[DataCriacaoRegistro]
+  FROM [Dropshipping].[dbo].[PedidoFornecedorProdutos]
+  where ProdutoCodigo like '87588'
+```
+
+
 
