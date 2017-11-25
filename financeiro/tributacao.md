@@ -10,14 +10,13 @@ Esta funcionaliade fará sistema de cálculos de margem de venda, no qual inform
 
 Com esta ferramenta o financeiro terá uma tomada de decisão que será mais assertiva e lucrativa para a ConnectParts.
 
-## Local
+## Locais de acesso
 
 http://sgc.dakotaparts.com.br/financeiro/tributacao/upload
 
 http://sgc.dakotaparts.com.br/financeiro/tributacao/consulta
 
 ## Regras
-
 
 ### Valores fixos
 
