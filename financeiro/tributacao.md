@@ -6,7 +6,7 @@
 
 ## Funcionalidade
 
-Esta funcionaliade fará sistema de cálculos de margem de venda para o departamento financeiro. 
+Esta funcionaliade fará cálculos de margens de venda para o departamento financeiro. 
 
 ## Processo
 
