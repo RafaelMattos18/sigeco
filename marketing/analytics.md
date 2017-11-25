@@ -51,4 +51,4 @@ nossa tabela.
 
 #### Tempo de armazenagem
 
-*     As informações na tabela da parte do Desenvolvimento / Inovação serão mantidas até a próxima requisição. Então o serviço de consultar e gravar estas informações por parte do B.I deverá agir neste período.
+* As informações na tabela da parte do Desenvolvimento / Inovação serão mantidas até a próxima requisição. Então o serviço de consultar e gravar estas informações por parte do B.I deverá agir neste período.
