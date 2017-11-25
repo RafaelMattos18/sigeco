@@ -3,7 +3,18 @@
 ---
 
 ## Descrição
-Desenvolvimento de um sistema de cálculos de margem de venda, no qual informações do DK e de fornecedores de linha PRIME ou não, tributações, tipo de empresa, estado de origem serão fatores que poderão alterar a margem final. Com esta ferramenta o financeiro terá uma tomada de decisão que será mais assertiva e lucrativa para a ConnectParts.
+
+Esta funcionaliade fará sistema de cálculos de margem de venda, no qual informações do DK e de fornecedores de linha PRIME ou não, tributações, tipo de empresa, estado de origem serão fatores que poderão alterar a margem final. 
+
+## Processo
+
+Com esta ferramenta o financeiro terá uma tomada de decisão que será mais assertiva e lucrativa para a ConnectParts.
+
+## Local
+
+http://sgc.dakotaparts.com.br/financeiro/tributacao/upload
+
+http://sgc.dakotaparts.com.br/financeiro/tributacao/consulta
 
 ## Regras
 
