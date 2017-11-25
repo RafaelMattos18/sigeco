@@ -2,6 +2,8 @@
 
 ---
 
+![](http://developers.connectparts.com.br/imagens/tributacao01.png
+
 ## Funcionalidade
 
 Esta funcionaliade fará sistema de cálculos de margem de venda para o departamento financeiro. 
