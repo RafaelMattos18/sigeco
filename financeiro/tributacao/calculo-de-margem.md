@@ -2,6 +2,8 @@
 
 ---
 
+![](http://developers.connectparts.com.br/imagens/tributacao01.png)
+
 ## Funcionalidade
 
 ## Processo
