@@ -6,10 +6,10 @@
 
 ## Funcionalidade
 
+## Processos
+
 ## Resultado
 
-### Processos
-
-### Regras
+## Regras
 
 
