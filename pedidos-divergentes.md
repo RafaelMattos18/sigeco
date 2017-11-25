@@ -1,7 +1,14 @@
 # Pedidos Divergentes
 
 ---
+![](http://developers.connectparts.com.br/imagens/EstoquePedidosDivergentes.png)
 
 ## Funcionalidade
 
-## Resultado
+## Processo
+
+![](http://developers.connectparts.com.br/imagens/EstoquePedidosDivergentes02.png)
+
+
+
+
