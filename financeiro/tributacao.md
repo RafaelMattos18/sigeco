@@ -2,13 +2,13 @@
 
 ---
 
-## Descrição
+## Funcionalidade
 
-Esta funcionaliade fará sistema de cálculos de margem de venda, no qual informações do DK e de fornecedores de linha PRIME ou não, tributações, tipo de empresa, estado de origem serão fatores que poderão alterar a margem final. 
+Esta funcionaliade fará sistema de cálculos de margem de venda para o departamento financeiro. 
 
 ## Processo
 
-Com esta ferramenta o financeiro terá uma tomada de decisão que será mais assertiva e lucrativa para a ConnectParts.
+Com esta ferramenta o financeiro terá uma tomada de decisão que será mais assertiva e lucrativa para a ConnectParts, no qual informações do DK e de fornecedores de linha PRIME ou não, tributações, tipo de empresa, estado de origem serão fatores que poderão alterar a margem final.
 
 ## Locais de acesso
 
