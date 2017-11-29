@@ -8,51 +8,8 @@
 
 Nesta tela temos um relatório de produtos que sofreram alteração de preço pelo analistas/assistentes ou tivemos sugestão de preço enviada pela [SIEVE](https://www.sieve.com.br/sobre). O líder toma a decisão de reprovar ou aprovar esta solicitação.
 
-## Resultado
 
-![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente02.png)
-
-Temos as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de Aprovar ou Reprovar.
-
-### Regras
-
-> Na **SIEVE** temos cadastrado o valor mínimo e máximo
-
-### Precificação
-
-**Descrição**
-
-Quando houver uma solicitação para alteração de preço abaixo de 10% o sistema não enviará para o líder da categoria aprovar e sim para os usuários registrados na categoria master.
-
-![](http://developers.connectparts.com.br/imagens/precosPendentesRegra01.png)
-
-**Analista**
-
-* O **analista** pode solicitar qualquer valor
-    * Todas as solicitações irão para o líder do setor para aprovação.
-    * Quando o líder aprovar, se a **margem for acima de 10%** segue para o ERP, caso contrário irá para o gestor.
-
-**Líder**
-
-* O **líder** pode solicitar qualquer valor
-    * Todas as solicitações que for **maior que a margem de 10%**, serão aprovadas automaticamente.
-    * Se solicitação **for menor que a margem de 10%**, o gestor terá que aprovar e seguirá para o ERP.
-    
-<!--Esta alteração foi feita no dia 25/09-->
-<!--
-* Precificação maior que 16% os analistas poderão solicitar, abaixo desta porcentagem o sistema não irá permitir a solicitação.
-
-* Os **analistas** poderão solicitar qualquer valor.
-    * Valores abaixo de 16% até 10%, terão que ter aprovação dos líderes.
-    * Valores abaixo de 10%, terão que ter aprovação dos líderes e também dos gestores.
-
-* Os **líderes** poderão solicitar qualquer valor.
-    * Valores abaixo de 10%, terão que ter aprovação dos líderes e também dos gestores.
--->
-
-> Gestores que estão na categoria master: Marçal Junior, Lucas Costa, Marcos Silva.
-
-#### Funcionalidades 
+### Processos
 
 1. O fluxo para o usuário final continua o mesmo, apenas o backend da aplicação mudou.
 
@@ -95,10 +52,46 @@ Ao aprovar o preço de um produto ter a possibilidade de alterar o valor, calcul
 12. Caso o preço não seja alterado segue o fluxo padrão.
 
 
+### Precificação
 
+**Descrição**
 
+Quando houver uma solicitação para alteração de preço abaixo de 10% o sistema não enviará para o líder da categoria aprovar e sim para os usuários registrados na categoria master.
 
+![](http://developers.connectparts.com.br/imagens/precosPendentesRegra01.png)
 
+**Analista**
 
+* O **analista** pode solicitar qualquer valor
+    * Todas as solicitações irão para o líder do setor para aprovação.
+    * Quando o líder aprovar, se a **margem for acima de 10%** segue para o ERP, caso contrário irá para o gestor.
 
+**Líder**
 
+* O **líder** pode solicitar qualquer valor
+    * Todas as solicitações que for **maior que a margem de 10%**, serão aprovadas automaticamente.
+    * Se solicitação **for menor que a margem de 10%**, o gestor terá que aprovar e seguirá para o ERP.
+    
+<!--Esta alteração foi feita no dia 25/09-->
+<!--
+* Precificação maior que 16% os analistas poderão solicitar, abaixo desta porcentagem o sistema não irá permitir a solicitação.
+
+* Os **analistas** poderão solicitar qualquer valor.
+    * Valores abaixo de 16% até 10%, terão que ter aprovação dos líderes.
+    * Valores abaixo de 10%, terão que ter aprovação dos líderes e também dos gestores.
+
+* Os **líderes** poderão solicitar qualquer valor.
+    * Valores abaixo de 10%, terão que ter aprovação dos líderes e também dos gestores.
+-->
+
+> Gestores que estão na categoria master: Marçal Junior, Lucas Costa, Marcos Silva.
+
+## Resultado
+
+![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente02.png)
+
+Temos as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de Aprovar ou Reprovar.
+
+### Regras
+
+> Na **SIEVE** temos cadastrado o valor mínimo e máximo
