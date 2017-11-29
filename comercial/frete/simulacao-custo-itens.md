@@ -8,8 +8,6 @@
 
 Traz informações sobre os itens do pedido, valores unitários, ações de retira e devolver o item ao pedido. Traz os cálculos de fretes por transportadora.
 
-## Resultado
-
 ### Processo
 
 #### Valores Considerados
@@ -29,13 +27,12 @@ Traz informações sobre os itens do pedido, valores unitários, ações de reti
 
 * Trazido do Ábacos as informações dos produtos que compõe o pedido e para ser mais específico podemos clicar no resultado da coluna **Código**, onde se fará uma consulta mais detalhada no Ábacos sobre Dados do produto, Fornecedores e Estoque.
 
-
 ![](http://developers.connectparts.com.br/imagens/SimulacaoCustoFreteItensPedido03.png)
-
-
 
 #### Resultado da Simulação
 
 * Demonstrado na coluna **Serviço de Entrega** os valores de cada forma
  * Quando a linha estiver em **vermelho**, que dizer que os produtos foram enviados por aquele serviço.
  * Quando estiver **verde**, demonstra a forma de envio mais barata.
+ 
+## Resultado
