@@ -13,11 +13,11 @@ Criar variações nos anúncios do **Mercado Livre**.
 ![](http://developers.connectparts.com.br/imagens/inseriVariacaoMercadoLivre02.png)
 
 
-### Processo
+## Processo
 
-#### Tipo de Variação
+### Tipo de Variação
 
-##### Combinada
+#### Combinada
 
 * São variações que o ML permite, podendo ser uma ou múltiplas variações tendo no máximo 3 tipos de tags diferentes e podemos enviar através do nosso sistema (arquivo excel) até 3 descritores por linha, podendo inserir mais descritores nas linhas seguintes.
 * Ao clicar em ** *Realize o download do arquivo modelo clicando aqui. * **, será gerado um arquivo.xls com as colunas **Mlb**, **CodigoExterno**, **Tag1**, **Descritor1**, **Tag2**, **Descritor2**, **Tag3** e **Descritor3**.
@@ -31,13 +31,13 @@ Criar variações nos anúncios do **Mercado Livre**.
 	* A **TagValor** corresponde as **Tag1, 2 e 3** e o **DescritorValor** corresponde ao **Descritor1, 2 e 3**, como o exemplo abaixo:
 	![](http://developers.connectparts.com.br/imagens//modelo02.jpg)
 
-##### Customizada
+#### Customizada
 * Poderá ser enviada uma única variação: Deverão escolher somente uma TAG, podendo ter vários descritores.
 * Ao clicar em ** *Realize o download do arquivo modelo clicando aqui. * **, será gerado um arquivo.xls com as colunas **Mlb**, **CodigoExterno**, **Tag1** e **Descritor1**
 * Para fazer o download do modelo de layout do **Customizada** para clicar no link: **Realize o download do arquivo modelo clicando *aqui*. **
 
 
-##### Tags e Descritores
+#### Tags e Descritores
 * O que são descritores?  
 	* São os descritores da tag: amarelo, 56, verde
 * O que é tag?
