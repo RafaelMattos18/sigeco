@@ -8,14 +8,9 @@
 
 Neste processo os departamentos Financeiro e Atendimento fazem uma pré analise dos pedidos oriundos do Ábacos ou DropShipping, levando em consideração algumas regras como: cliente tem pedidos anteriores há 6 meses, cliente fez compras nos últimos 30 dias e CPF/CNPJ está na lista de ocorrências.
 
-## Resultado
+## Processos
 
-O resultado traz a quantidade de **Pedidos Encontrados**.
-E as colunas **Pedido, Tipo de Pessoa, Forma de Pagamento, Valor, Status, Data **e** Ação**.
-
-### Processos
-
-#### Campos
+**Campos**
 
 * **Limpar Filtros**
 	* Limpa os filtros e cache armazenado na consulta
@@ -49,6 +44,12 @@ Ao clicar em **Barrar Pedido** é necessário inserir um motivo válido.
 
 É apresentado **Informações Ábacos**, com a opção de bloquear CPF e CNPJ do destinatário e do cliente, formas e condições de pagamento e itens de pedido.
 
+## Resultado
+
+![](http://developers.connectparts.com.br/imagens/financeiroPreAnaliseListagem01.png)
+
+O resultado traz a quantidade de **Pedidos Encontrados**.
+E as colunas **Pedido, Tipo de Pessoa, Forma de Pagamento, Valor, Status, Data **e** Ação**.
 
 ### Regras
 
@@ -61,3 +62,7 @@ Ao clicar em **Barrar Pedido** é necessário inserir um motivo válido.
 	* Ou 3 compras com valor total igual ou maior de R$ 1.500,00
 
 * CPF/CNPJ está na lista de ocorrências.
+
+* Pedidos com -TRT , -INT, -TRR não serão demonstrados.
+
+	* Atualmente no Ábacos, existem 03 grupos de comercialização (DEVOLUCAO PARA FORNECEDORES, SAIDA OUTROS, VENDA), os pedidos com siglas são encontrados em SAIDA OUTROS.
