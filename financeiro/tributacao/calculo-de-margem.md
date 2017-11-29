@@ -6,6 +6,9 @@
 
 ## Funcionalidade
 
+Nesta tela sistema faz o cálculo de margem levando em consideração as variáveis ICMS, CST, Tirbutação, PIS e Cofins.
+
+
 ## Processo
 
 Ao procurar pelo DK do produto, será apresentado os seguintes campos:
