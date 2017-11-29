@@ -23,9 +23,9 @@ Estes processos irão determinar a avaliação da pré análise. Tanto CPF ou CN
 
 ![](http://developers.connectparts.com.br/imagens/preAnalise06.png)
 
-### Regras
+## Regras
 
-#### Para bloqueio
+**Para bloqueio**
 
 * Cliente tem pedidos anteriores há 6 meses
 
