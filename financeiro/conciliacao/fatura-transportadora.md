@@ -8,16 +8,16 @@
 
 Fazer conciliações de valores do arquivo .xls que as transportadoras nos envia em arquivos .xls de tabelas de CEP e valores que a ConnectParts possui.
 
+## Processos
+
+![](http://developers.connectparts.com.br/imagens/freteTransportadora04.png)
+
+
 ## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/freteTransportadora02.png)
 
 Traz os resultados da conciliação, como transportadora, data de processamento e vencimento, quantidade de registros processados, quantidade de reversos e caso tenha erros apresenta a quantidade. Em opções podemos **Exportar** para verificar o erros apresentados ou **Excluir** a conciliação.
-
-
-### Processos
-
-![](http://developers.connectparts.com.br/imagens/freteTransportadora04.png)
 
 ### Regras
 
