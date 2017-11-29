@@ -8,7 +8,7 @@
 Pelo sistema podemos baixar os cupons que enviamos para os nossos clientes com condições promocionais através da VTEX.
 
 
-### Processos
+## Processos
 
 Todo começo de mês todos o departamento de Marketing envia a diretoria uma levantamento do valor investido com cupons promocionais. 
 
