@@ -2,10 +2,12 @@
 
 ![](http://developers.connectparts.com.br/imagens/tiAdminUsuarioListagem.png)
 
+## Funcionalidade
+
 Listagem de todos os usuários do sistema SIGECO e suas atribuições. Clicando sobre o resultado da coluna **Nome**, seremos direcionado para tela de detalhes e permissões de usuários.
 
 
-### Detalhes do Usuário
+**Detalhes do Usuário**
 
 ![](http://developers.connectparts.com.br/imagens/tiAdminUsuarioListagemDetalhesUsuario.png)
 
@@ -18,6 +20,6 @@ Os demais campos:
 * **Super Admin**: Todas as permissões serão concedidas.
 * **Notificação por e-mail**: Todas as alterações serão enviadas para o e-mail cadastrado do colaborador.
 
-**Obs:** Todos os logins e senhas vem do **AD (Active Directory)**.
+> **Obs:** Todos os logins e senhas vem do **AD (Active Directory)**.
 
 
