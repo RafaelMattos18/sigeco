@@ -51,9 +51,9 @@ Ao clicar em **Barrar Pedido** é necessário inserir um motivo válido.
 O resultado traz a quantidade de **Pedidos Encontrados**.
 E as colunas **Pedido, Tipo de Pessoa, Forma de Pagamento, Valor, Status, Data **e** Ação**.
 
-### Regras
+## Regras
 
-#### Para bloqueio
+### Para bloqueio
 
 * Cliente tem pedidos anteriores há 6 meses
 
