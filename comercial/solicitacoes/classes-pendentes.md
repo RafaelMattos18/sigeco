@@ -8,7 +8,7 @@
 
 Nesta tela o sistema traz as classes dos produtos que foram alterados para aprovação.
 
-### Resultado
+## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/comercialSolicatacoesClassesPendentes02.png)
 
