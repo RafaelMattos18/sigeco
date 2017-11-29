@@ -7,13 +7,13 @@
 
 Nesta funcionalidade temos um relatório de todos os analistas e líderes que subiram variações.
 
-## Resultado
-
-![resultado](http://developers.connectparts.com.br/imagens/verificarVariacoes02.png)
-
 ## Processos
 
 Alguns produtos como capacete preto tem uma boa saída, já capacete rosa não tem. A intenção é que os departamentos responsáveis por subir as variações coloquem produtos com alta saída no mesmo anuncio e produtos com a baixa saída em outro anuncio; para que aquele com baixa saída possa ter um valor menor ou trabalhar de forma que saia do estoque exorbitante. E este novo relatório ajudará o departamento de processo, identificar quem foi o responsável por estas ações nas variações.
+
+## Resultado
+
+![resultado](http://developers.connectparts.com.br/imagens/verificarVariacoes02.png)
 
 ### Regras
 
