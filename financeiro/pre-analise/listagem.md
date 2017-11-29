@@ -53,7 +53,7 @@ E as colunas **Pedido, Tipo de Pessoa, Forma de Pagamento, Valor, Status, Data *
 
 ## Regras
 
-### Para bloqueio
+**Para bloqueio**
 
 * Cliente tem pedidos anteriores há 6 meses
 
