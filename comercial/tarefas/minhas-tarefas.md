@@ -6,6 +6,6 @@
 
 ## Funcionalidade
 
-## Resultado
+## Processo
 
-### Processo
+## Resultado
