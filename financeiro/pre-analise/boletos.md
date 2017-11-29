@@ -8,7 +8,7 @@
 
 O sistema mostrará os boletos captados e listar quais não foram pagos do dia anterior e não compraram com outra forma de pagamento, para que haja uma ação junto com cliente.
 
-### Processos
+## Processos
 
 1. Após a Conciliação de Boleto Bancário, as 10h será feita uma busca na **VTEX** que relaciona todos os pedidos de boletos não pagos do dia anterior, consultando se o CPF já tem alguma compra feita naquela data e salvos no banco de dados. A consulta dos usuários será feita diretamente neste banco (o que torna o processo rápido ao usuário).
 > O sistema fará a verificação automáticamente após as 10h.
@@ -31,9 +31,9 @@ Ao confirmar a ação de verificação do resultado.
 
 ![ReversaoBoleto](http://developers.connectparts.com.br/imagens/reversaoBoletoMKP03.png)
 
-### Regras
+## Regras
 
-Pesquisas na VTEX:
+**Pesquisas na VTEX:**
 
 * Capturar pedidos de boletos do dia anterior.
 
