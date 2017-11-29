@@ -8,13 +8,13 @@
 ![](http://developers.connectparts.com.br/imagens/sigeco-integracoes-01.png)
 
 
-### Funcionalidade
+## Funcionalidade
 
 Nesta opção temos a listagem de pedidos que contém os componentes DropShipping.
 
 * Campos: **Data Inicial**, **Data Final**, **Status** e **Pedido**. Sendo que o **Status** contém as opções Integrado, Enviado para fornecedor, Pedido de compra recebido, Faturado, Nota fiscal enviada, Nota fiscal de remessa recebida e Concluído.
 
-### Resultado
+## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/sigeco-integracoes-02.png)
 
