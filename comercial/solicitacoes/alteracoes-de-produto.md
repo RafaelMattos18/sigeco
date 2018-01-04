@@ -41,6 +41,10 @@ No resultado teremos algumas informações sobre o produto (_se é Pai, kit etc_
 
 Na tela de **preços pendentes**, o sistema trará as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de **Aprovar **ou **Reprovar**, no menu **Preços Pendentes** temos as regras de aprovação e reprovação destes valores.
 
+> **Regras:** Os produtos que estiverem com preços mais de **7 dias sem aprovação serão automaticamente reprovados**. 
+
+
+
 ## Alteração de Classe
 
 ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto03.png)
