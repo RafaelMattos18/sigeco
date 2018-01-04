@@ -43,8 +43,6 @@ Na tela de **preços pendentes**, o sistema trará as informações do produto, 
 
 > **Regras:** Os produtos que estiverem com preços mais de **7 dias sem aprovação serão automaticamente reprovados**. 
 
-
-
 ## Alteração de Classe
 
 ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto03.png)
