@@ -17,7 +17,7 @@ Fazer conciliações de valores do arquivo .xls que as transportadoras nos envia
 
 ![](http://developers.connectparts.com.br/imagens/freteTransportadora02.png)
 
-Traz os resultados da conciliação, como transportadora, data de processamento e vencimento, quantidade de registros processados, quantidade de reversos e caso tenha erros apresenta a quantidade. Em opções podemos **Exportar** para verificar o erros apresentados ou **Excluir** a conciliação.
+Traz os resultados da conciliação, como transportadora, data de processamento e vencimento, quantidade de registros processados, quantidade de reversos (pedidos que voltaram para empresa) e caso tenha erros apresenta a quantidade. Em opções podemos **Exportar** para verificar o erros apresentados ou **Excluir** a conciliação.
 
 ### Regras
 
