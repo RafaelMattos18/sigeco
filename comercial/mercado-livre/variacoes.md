@@ -80,7 +80,16 @@ Quando utilizamos a opção **Exportar Atributos** virá informações nas colun
 #### Motivos de geração de Erro
 
 * Anuncio pausado
+
 * Estoque
 	* Utilizando os estoques **Real** e **Virtual**. 
 	* Instabilidade no ML
 		* Quando houver a remoção de um anúncio, deverá ser aberto um chamado para o departamento de **Inovação e Desenvolvimento**.
+		
+* Toda variação da categoria deve ter entre 1 e 10 imagens.
+	* Resposta desta mensagem, que virá no arquivo xls: 
+	```
+[  {    "code": "item.pictures.variation.quantity",    "message": "Every variation of category MLB63553 must have between 1 and 10 pictures."  }]
+```
+	
+	
