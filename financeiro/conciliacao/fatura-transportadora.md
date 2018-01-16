@@ -21,6 +21,11 @@ Traz os resultados da conciliação, como transportadora, data de processamento 
 
 ### Regras
 
+**Registros Reversos**
+- Todo registro que na coluna **CEP de Origem** que não for da **ConnectParts** é considerado frete reverso. Entende-se que ao sair do cep de origem não sendo da ConnectParts, estão devolvendo este produto.
+
+**Os Relatórios AWB**
+
 ![](http://developers.connectparts.com.br/imagens/freteTransportadora03.png)
 
 Os Relatórios AWB da transportadora Gollog devem ser agrupados em um único arquivo Excel. 
