@@ -13,20 +13,18 @@ Nesta tela temos um relatório de produtos que sofreram alteração de preço pe
 
 1. O fluxo para o usuário final continua o mesmo, apenas o backend da aplicação mudou.
 
-**Regras na Solicitação de Preço**
-
-1. Ao receber a solicitação de preço a API de precificação e cadastro aplica as regras
-    2. Recalcula a margem do produto
-        3. Caso seja abaixo de 10% alteração o grupo proprietário para 9000 (Grupo master)
-        4. Adiciona no campo de observação a mensagem “Margem menor que 10% !!!”
-5. Sistema de precificação da Sieve também foi adaptado para quando gerar um solicitação com preço abaixo de 10% ir para o grupo master ao invés do líder da categoria.
-6. Fluxo interno da aplicação alterado para não interferir na alteração de Classe e Nome.
-
 ## Regras
 
 1. Caso o produto **não tenha nenhum valor em uma das suas listas de preços**, será retornado um e-mail para ao solicitante avisando a falta deste valor.
 
 2. Caso **tenha valor somente em uma das listas** o calculo da margem será feito com base no existente.
+3. **Regras na Solicitação de Preço**: Ao receber a solicitação de preço a API de precificação e cadastro aplica as regras
+    2. Recalcula a margem do produto
+        3. Caso seja abaixo de 10% alteração gera uma solicitação ao grupo proprietário para 9000 (Grupo master)
+        4. Adiciona no campo de observação a mensagem “Margem menor que 10% !!!”
+5. Sistema de precificação da Sieve também foi adaptado para quando gerar um solicitação com preço abaixo de 10% ir para o grupo master ao invés do líder da categoria.
+6. Fluxo interno da aplicação alterado para não interferir na alteração de Classe e Nome.
+
 
 ### Cálculo de margem
 
