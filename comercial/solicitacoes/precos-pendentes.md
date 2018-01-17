@@ -25,12 +25,15 @@ Nesta tela temos um relatório de produtos que sofreram alteração de preço pe
 5. Sistema de precificação da Sieve também foi adaptado para quando gerar um solicitação com preço abaixo de 10% ir para o grupo master ao invés do líder da categoria.
 6. Fluxo interno da aplicação alterado para não interferir na alteração de Classe e Nome.
 
+> **Caso necessite saber mais sobre regras de precificação ir para opção Solicitações / Alterações de Produto em _Alterações de Preços e Preços em lote_**
+
+> Na **SIEVE** temos cadastrado o valor mínimo e máximo
 
 ### Cálculo de margem
 
 **Descrição**
 
-Ao aprovar o preço de um produto ter a possibilidade de alterar o valor, calcular margem e aplicar todas as regras que já ocorrem na solicitação de preços.
+Ao aprovar o preço de um produto terá a possibilidade de alterar o valor, calcular margem e aplicar todas as regras que já ocorrem na solicitação de preços.
 
 **Funcionalidades**
 
@@ -38,7 +41,7 @@ Ao aprovar o preço de um produto ter a possibilidade de alterar o valor, calcul
 2. Adicionado caixa exibindo a margem do produto.
 3. Adicionado botão para recalcular margem.
 
-**Aprovação de Preço**
+### Aprovação de Preço
 
 5. Caso o preço esteja em branco impede a aprovação do produto.
 6. Caso haja alteração de preço aplica as seguintes regras
@@ -48,7 +51,6 @@ Ao aprovar o preço de um produto ter a possibilidade de alterar o valor, calcul
     10. Ao registrar a solicitação adiciona no campo de observação a informação: “_Preco alterado manualmente! De: {**PrecoAntigo**} Por: {**PrecoNovo**}_ ”
     11. O preço fictício é atualizado ao registrar a solicitação via API
 12. Caso o preço não seja alterado segue o fluxo padrão.
-
 
 ### Precificação
 
@@ -89,7 +91,3 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
 ![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente02.png)
 
 Temos as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de Aprovar ou Reprovar.
-
-### Regras
-
-> Na **SIEVE** temos cadastrado o valor mínimo e máximo
