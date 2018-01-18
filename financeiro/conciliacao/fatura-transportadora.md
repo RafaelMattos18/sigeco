@@ -23,6 +23,7 @@ Traz os resultados da conciliação, como transportadora, data de processamento 
 
 **Registros Reversos**
 - Todo registro que na coluna **CEP de Origem** que não for da **ConnectParts** é considerado frete reverso. Entende-se que ao sair do cep de origem não sendo da ConnectParts, estão devolvendo este produto.
+- Há uma coluna no arquivo xls dos correios que tem por título **Serviço**, iremos verificar nesta coluna as informações que possuem a palavra "**REVERSO**", estas também serão acusadas como frete reverso.
 
 **Os Relatórios AWB**
 
