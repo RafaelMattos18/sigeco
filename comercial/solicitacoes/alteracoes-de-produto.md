@@ -101,6 +101,7 @@ Selecione a opção **Alteração de Preço em lote** e faça o upload do arquiv
 
 ### Observações
 
+- O produto Pai não possui preço de custo, então o sistema pega o preço do filho, para que seja gerado um valor aproximado.
 - Remover a lista de preço ao realizar a solicitação.
 - A lista agora será vinculada ao usuário, semelhante as grupos de produtos.
 - Sempre que um usuário realizar uma alteração essa alteração será replicada a todas as listas que o usuário está vinculado.
