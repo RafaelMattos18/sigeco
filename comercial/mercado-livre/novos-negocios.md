@@ -12,12 +12,10 @@ Consultar categorias do Mercado Livre, localizando os anúncios com mais relevâ
 
 A equipe de vendas terá diversos serviços que irão consultar as categorias filtradas no Mercado Livre. Para cada categoria ira localizar os top 50 anúncios ordenados por relevância. Também será possível monitorar vendedores em específico. Para cada vendedor monitorado, o serviço ira localizar todos os anúncios relacionados as categorias escolhidas. 
 
-Abaixo os dados que serão armazenados.
+É disponibilizada uma tela para ter uma visão geral de um vendedor. Contendo as informações
 
-Por fim, será disponibilizado uma tela para ter uma visão gerar de um vendedor. Abaixo os dados que serão exibidos.
+![](http://developers.connectparts.com.br/imagens/novosNegocios02.png)
 
-Dados de anúncios a serem armazenados:
-Vendedor, MLB, Descrição, Preço, Categoria, Quantidade Disponível, Quantidade Vendida, Tipo de anúncio, Link, Frete
 
 
 Informações do usuário
