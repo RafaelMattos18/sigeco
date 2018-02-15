@@ -6,7 +6,7 @@
 
 ## Funcionalidade
 
-Nesta tela teremos uma amostragem de  desempenho em valores com os concorrentes no mercado livre.
+Nesta tela teremos uma amostragem de desempenho em valores com os concorrentes no mercado livre.
 
 ### Processo
 
@@ -19,8 +19,6 @@ O departamento comercial e processo, utiliza esta ferramenta para mensurar um m�
 * Detalhes
 * Relações
 * Buscar Concorrentes
-
-
 
 #### Detalhes
 
