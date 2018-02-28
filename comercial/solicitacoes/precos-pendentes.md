@@ -6,12 +6,12 @@
 
 ## Funcionalidade
 
-Nesta tela temos um relatório de produtos que sofreram alteração de preço pelo analistas/assistentes ou tivemos sugestão de preço enviada pela [SIEVE](https://www.sieve.com.br/sobre). O líder toma a decisão de reprovar ou aprovar esta solicitação.
+Relatório de preços pendentes. 
 
 
 ### Processos
 
-1. O fluxo para o usuário final continua o mesmo, apenas o backend da aplicação mudou.
+Nesta tela temos um relatório de produtos que sofreram alteração de preço pelo analistas/assistentes ou tivemos sugestão de preço enviada pela [SIEVE](https://www.sieve.com.br/sobre). O líder toma a decisão de reprovar ou aprovar esta solicitação.
 
 ## Regras
 
