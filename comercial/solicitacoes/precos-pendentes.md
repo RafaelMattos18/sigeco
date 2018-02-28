@@ -51,6 +51,10 @@ Ao aprovar o preço de um produto terá a possibilidade de alterar o valor, calc
     11. O preço fictício é atualizado ao registrar a solicitação via API
 12. Caso o preço não seja alterado segue o fluxo padrão.
 
+### Reprovação de Preço
+
+
+
 ### Precificação
 
 **Descrição**
