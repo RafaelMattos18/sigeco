@@ -8,7 +8,6 @@
 
 Relatório de preços pendentes. 
 
-
 ### Processos
 
 Nesta tela temos um relatório de produtos que sofreram alteração de preço pelo analistas/assistentes ou tivemos sugestão de preço enviada pela [SIEVE](https://www.sieve.com.br/sobre). O líder toma a decisão de reprovar ou aprovar esta solicitação.
@@ -90,4 +89,4 @@ Quando houver uma solicitação para alteração de preço abaixo de 10% o siste
 
 ![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente02.png)
 
-Temos as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de Aprovar ou Reprovar.
+Temos as informações do produto, quem foi o solicitante de alteração de preço e a data da solicitação e a ação de Aprovar ou Reprovar
