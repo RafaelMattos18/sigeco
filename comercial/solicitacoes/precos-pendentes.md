@@ -8,7 +8,7 @@
 
 Relatório de preços pendentes. 
 
-### Processos
+## Processos
 
 Nesta tela temos um relatório de produtos que sofreram alteração de preço pelo analistas/assistentes ou tivemos sugestão de preço enviada pela [SIEVE](https://www.sieve.com.br/sobre). O líder toma a decisão de reprovar ou aprovar esta solicitação.
 
