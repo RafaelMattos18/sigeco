@@ -23,6 +23,7 @@ Nesta tela temos um relatório de produtos que sofreram alteração de preço pe
         4. Adiciona no campo de observação a mensagem “Margem menor que 10% !!!”
 5. Sistema de precificação da Sieve também foi adaptado para quando gerar um solicitação com preço abaixo de 10% ir para o grupo master ao invés do líder da categoria.
 6. Fluxo interno da aplicação alterado para não interferir na alteração de Classe e Nome.
+7. Caso o **líder** ou o responsável pelo departamento de **cadastro** recusar a precificação, o sistema envia um e-mail ao solicitante com a observação digitada.
 
 > **Caso necessite saber mais sobre regras de precificação ir para opção Solicitações / Alterações de Produto em _Alterações de Preços e Preços em lote_**
 
