@@ -34,6 +34,7 @@
   * [Frete](comercial/frete.md)
     * [Simulacao Custo Pedido](comercial/frete/simulacao-custo-pedido.md)
     * [Simulacao Custo Itens](comercial/frete/simulacao-custo-itens.md)
+    * [Simulacao Custo Produtos](comercial/frete/simulacao-custo-produtos.md)
     * [Simulacao Validacao CEP](comercial/frete/simulacao-validacao-cep.md)
     * [Correios Rastreio](comercial/frete/correios-validacao-cep.md)
     * [Correios Calculos Prazo](comercial/frete/correios-calculos-prazo.md)
