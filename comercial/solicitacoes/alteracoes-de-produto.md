@@ -47,10 +47,6 @@ Na tela de **preços pendentes**, o sistema trará as informações do produto, 
 
 ![](http://developers.connectparts.com.br/imagens/alteracaoLote.png)
 
-
-
-alteracaoLoteXls.png
-
 ### Funcionalidade
 
 Funcionalidade para alterar nome de produtos em lote.
