@@ -64,7 +64,7 @@ Na alteração de produto do Sigeco, temos mais uma opção de realizar alteraç
 
 ### Responsabilidades
 
-1. Ficará sob a responsabilidade do solcitante o envio do arquivo .xls do seguinte modo: ![](http://developers.connectparts.com.br/imagens/alteracaoLoteXls.png)
+1. Ficará sob a responsabilidade do solicitante o envio do arquivo .xls do seguinte modo: ![](http://developers.connectparts.com.br/imagens/alteracaoLoteXls.png)
 	2. **Pai**: Código do produto **Pai**
 	3. **Email**: email do **solicitante**.
 	4. **Nome**: Nome do produto a ser **alterado**.
