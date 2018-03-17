@@ -43,6 +43,32 @@ Na tela de **preços pendentes**, o sistema trará as informações do produto, 
 
 > **Regras:** Os produtos que estiverem com preços mais de **7 dias sem aprovação serão automaticamente reprovados**. 
 
+## Alteração de Nome
+
+![](http://developers.connectparts.com.br/imagens/alteracaoLote.png)
+
+
+
+alteracaoLoteXls.png
+
+### Funcionalidade
+
+Funcionalidade para alterar nome de produtos em lote.
+
+Na alteração de produto do Sigeco, temos mais uma opção de realizar alteração de nomes em lote, como a alteração de preço e da classe dos produtos, esta funcionalidade irá otimizar o tempo.
+
+### Regras
+
+1. Será alterado o nome dos **DKs** que são iguais ao do **Pai**.
+2. Quando o nome da variação for diferente do DK Pai, iremos apresentar uma mensagem de **insucesso**.
+
+### Responsabilidades
+
+1. Ficará sob a responsabilidade do solcitante o envio do arquivo .xls do seguinte modo: ![](http://developers.connectparts.com.br/imagens/alteracaoLoteXls.png)
+	2. **Pai**: Código do produto **Pai**
+	3. **Email**: email do **solicitante**.
+	4. **Nome**: Nome do produto a ser **alterado**.
+
 ## Alteração de Classe
 
 ![](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto03.png)
