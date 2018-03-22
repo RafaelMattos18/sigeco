@@ -1,12 +1,3 @@
 # Alterações de Produtos
 
 ---
-
-
-
-
-
-
- 
----
- 
