@@ -24,6 +24,7 @@
       * [Alteracao de preco](comercial/solicitacoes/alteracoes-de-produto/alteracao-de-preco.md)
       * [Alteração nome em lote](comercial/solicitacoes/alteracoes-de-produto/alteracao-nome-em-lote.md)
       * [Alteracao de classe](comercial/solicitacoes/alteracoes-de-produto/alteracao-de-classe.md)
+      * [Alteracao de preco em lote](comercial/solicitacoes/alteracoes-de-produto/alteracao-de-preco-em-lote.md)
     * [Nomes Pendentes](comercial/solicitacoes/nomes-pendentes.md)
     * [Classes Pendentes](comercial/solicitacoes/classes-pendentes.md)
     * [Precos Pendentes](comercial/solicitacoes/precos-pendentes.md)
