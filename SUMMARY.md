@@ -49,7 +49,7 @@
   * [Mercado Livre](comercial/mercado-livre.md)
     * [Variacoes](comercial/mercado-livre/variacoes.md)
     * [Novos Negocios](comercial/mercado-livre/novos-negocios.md)
-    * [Analise](comercial/mercado-livre/analise.md)
+    * [Analise Vendas](comercial/mercado-livre/analise.md)
     * [Configuracoes](comercial/mercado-livre/configuracoes.md)
     * [Verificar Variacoes](comercial/mercado-livre/verificar-variacoes.md)
 * [Logística](logistica.md)
