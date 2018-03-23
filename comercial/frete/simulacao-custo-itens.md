@@ -35,4 +35,6 @@ Traz informações sobre os itens do pedido, valores unitários, ações de reti
  * Quando a linha estiver em **vermelho**, que dizer que os produtos foram enviados por aquele serviço.
  * Quando estiver **verde**, demonstra a forma de envio mais barata.
  
-## Resultado
+### Regra
+
+- Se o peso cubado for maior que 5, faz o calculo pelo peso real.

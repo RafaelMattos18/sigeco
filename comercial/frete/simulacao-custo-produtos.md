@@ -20,12 +20,13 @@ Para analisar os valores do Mercado Livre no seu envio, adicionamos uma coluna c
 
 ### Regras
 
-**Tabela de valores ME**
-
+- **Tabela de valores ME**
 ![](http://developers.connectparts.com.br/imagens/simCustoProd04.png)
 
-1. Utilizamos estes valores para chegarmos ao valor do Mercado Envio.
-2. Estes valores estão fixos
+    1. Utilizamos estes valores para chegarmos ao valor do Mercado Envio.
+    2. Estes valores estão fixos
+    
+1. Se o peso cubado for maior que 5, faz o calculo pelo peso real.
 
 ### Responsabilidades
 

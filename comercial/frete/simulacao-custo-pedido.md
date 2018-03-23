@@ -38,3 +38,7 @@ Adicionar texto
 ### Endereço de Entrega
 
 * Esta consulta é requisita na mesma API que **Validação de CEP (Correios) **
+
+### Regra
+
+- Se o peso cubado for maior que 5, faz o calculo pelo peso real.
