@@ -30,7 +30,7 @@ Nesta funcionalidade iremos verificar os anúncios que não possuem variação n
 ## Regras
 
 - Há um serviço que coleta estas informações todas as madrugadas.
-- O sistema bate no ML verirfica e verifica todas as categorias que possa ter variação e cruza com as nossas categorias, trazendo o que não possuímos de variação.
+- O serviço consulta no Mercado Livre e verifica todas as categorias que possa ter variação e cruza com as nossas categorias, trazendo o que não possuímos de variação.
 - Podemos ignorar os anúncios que estão sem variações
 
 ## Observação
