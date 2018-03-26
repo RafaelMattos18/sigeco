@@ -48,9 +48,10 @@
     * [Tabelas Faixas CEP](comercial/frete/tabelas-faixas-cep.md)
     * Analise de variacoes - Mercado Livre
   * [Mercado Livre](comercial/mercado-livre.md)
+    * [Analise Variacao Mercado Livre](comercial/mercado-livre/analise-variacao-mercado-livre.md)
+    * [Analise Vendas](comercial/mercado-livre/analise.md)
     * [Variacoes](comercial/mercado-livre/variacoes.md)
     * [Novos Negocios](comercial/mercado-livre/novos-negocios.md)
-    * [Analise Vendas](comercial/mercado-livre/analise.md)
     * [Configuracoes](comercial/mercado-livre/configuracoes.md)
     * [Verificar Variacoes](comercial/mercado-livre/verificar-variacoes.md)
 * [Logística](logistica.md)
