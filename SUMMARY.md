@@ -31,6 +31,7 @@
     * [Kits Pendentes](comercial/solicitacoes/kits-pendentes.md)
     * [Relatorios de Solicitacoes](comercial/solicitacoes/relatorios-de-solicitacoes.md)
     * [Relatorio Solicitacoes Kits](comercial/solicitacoes/relatorio-solicitacoes-kits.md)
+    * [Regulador de Estoque](comercial/solicitacoes/regulador-de-estoque.md)
   * [Shopping de Precos](comercial/shopping-de-precos.md)
     * [Produtos](comercial/produtos.md)
     * [Anuncios sem vinculo](comercial/anuncios-sem-vinculo.md)
