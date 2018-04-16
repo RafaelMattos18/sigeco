@@ -8,11 +8,11 @@
 
 Nesta tela teremos uma amostragem de desempenho em valores com os concorrentes no mercado livre.
 
-### Processo
+## Processo
 
 O departamento comercial e processo, utiliza esta ferramenta para mensurar um métrica e agir de forma que sejamos mais competitivos no mercado livre.
 
-### Resultado
+## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/SDPprod02.png)
 
@@ -20,11 +20,11 @@ O departamento comercial e processo, utiliza esta ferramenta para mensurar um m�
 * Relações
 * Buscar Concorrentes
 
-#### Detalhes
+### Detalhes
 
-#### Relações
+### Relações
 
-#### Buscar Concorrentes
+### Buscar Concorrentes
 
 Ao clicar na opção **Buscar Concorrentes** o sistema nos traz informações sobre o produto da ConnectParts e produtos similares de concorrentes.
 
@@ -38,7 +38,7 @@ Ao clicar em **Pesquisar** é demonstrada informações do Mercado Livre com pro
 
 Podemos relacionar este produto; e após esta relacção o sistem dentro de uma margem de valores máximo e mínimo irá demonstrar se estamos perdendo ou ganhando com a venda deste produto.
 
-#### Regras
+### Regras
 
 * Um anúncio pode ter no máximo 100 anúncios relacionados.
 * Em relacionados, a captação de valores será sempre um dia atrás.
