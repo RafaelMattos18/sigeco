@@ -47,9 +47,9 @@
     * [Correios Solicitacao Etiquetas](comercial/frete/correios-solicitacao-etiquetas.md)
     * [Servicos de Entrega](comercial/frete/servicos-de-entrega.md)
     * [Tabelas Faixas CEP](comercial/frete/tabelas-faixas-cep.md)
-    * Analise de variacoes - Mercado Livre
+    * [Analise de variacoes - Mercado Livre](comercial/frete/analise-de-variacoes-mercado-livre.md)
   * [Mercado Livre](comercial/mercado-livre.md)
-    * [Analise Variacao Mercado Livre](comercial/mercado-livre/analise-variacao-mercado-livre.md)
+    * [Analise Variações Mercado Livre](comercial/mercado-livre/analise-variacao-mercado-livre.md)
     * [Analise Vendas](comercial/mercado-livre/analise.md)
     * [Variacoes](comercial/mercado-livre/variacoes.md)
     * [Novos Negocios](comercial/mercado-livre/novos-negocios.md)
