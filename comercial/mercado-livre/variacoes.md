@@ -15,9 +15,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 
 ## Processo
 
-### Tipo de Variação
-
-#### Combinada
+### Tipo de Variação Combinada
 
 * São variações que o ML permite, podendo ser uma ou múltiplas variações tendo no máximo 3 tipos de tags diferentes e podemos enviar através do nosso sistema (arquivo excel) até 3 descritores por linha, podendo inserir mais descritores nas linhas seguintes.
 * Ao clicar em ** *Realize o download do arquivo modelo clicando aqui. * **, será gerado um arquivo.xls com as colunas **Mlb**, **CodigoExterno**, **Tag1**, **Descritor1**, **Tag2**, **Descritor2**, **Tag3** e **Descritor3**.
@@ -31,7 +29,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 	* A **TagValor** corresponde as **Tag1, 2 e 3** e o **DescritorValor** corresponde ao **Descritor1, 2 e 3**, como o exemplo abaixo:
 	![](http://developers.connectparts.com.br/imagens//modelo02.jpg)
 
-#### Customizada
+### Tipo de Variação Customizada
 * Poderá ser enviada uma única variação: Deverão escolher somente uma TAG, podendo ter vários descritores.
 * Ao clicar em ** *Realize o download do arquivo modelo clicando aqui. * **, será gerado um arquivo.xls com as colunas **Mlb**, **CodigoExterno**, **Tag1** e **Descritor1**
 * Para fazer o download do modelo de layout do **Customizada** para clicar no link: **Realize o download do arquivo modelo clicando *aqui*. **
@@ -56,9 +54,9 @@ Criar variações nos anúncios do **Mercado Livre**.
 * Esta rotina é executada a cada 1 hora.
 * As **TAG** e **DESCRITOR** suportam somente 60 caracteres.
 
-### Regras
+## Regras
 
-#### Impedimentos
+### Impedimentos
 
 * Não é permitido preços diferentes nas variações
 * Sempre será utilizado o saldo real do Ábacos para subir as variações
@@ -66,7 +64,7 @@ Criar variações nos anúncios do **Mercado Livre**.
 	* No máximo três variações poderão ir para Mercado Livre.
 	* Somente pode subir variações combinadas se o ML permitir.
 	
-#### Coluna (Tag1)
+### Coluna (Tag1)
 
 Quando tivermos que adicionar o valor da coluna **Tag1** com o valor **MANUFACTURER_HELMET_SIZE** deverá ser adicionado **somente números** na coluna **Descritor1**, como é demonstrado na figura abaixo.
 
@@ -77,7 +75,7 @@ Quando utilizamos a opção **Exportar Atributos** virá informações nas colun
 ![](http://developers.connectparts.com.br/imagens/NovoModeloVariacao02.jpg)
 
 
-#### Motivos de geração de Erro
+### Motivos de geração de Erro
 
 * Anuncio pausado
 * Estoque
