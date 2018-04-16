@@ -14,22 +14,24 @@ Atendimento insere o número do pedido e através deste número o sistema identi
 
 ## Resultado
 
-* Informações básica sobre **pedido**.
+### Informações básica sobre **pedido**.
 ![CalculoPrazoFrete](http://developers.connectparts.com.br/imagens/calucloPrazoFrete02.png)
 
-* Informações com mais detalhes do **pedido**.
+### Informações com mais detalhes do **pedido**.
 ![InformacoesDoPedido](http://developers.connectparts.com.br/imagens/calucloPrazoFrete04.png)
 
-* Informações sobre **cliente** e **entrega**.
+### Informações sobre **cliente** e **entrega**.
 ![InformacaoCliente](http://developers.connectparts.com.br/imagens/calucloPrazoFrete05.png)
 
-* Informações sobre **itens do pedido**, sobre o Kit (_caso o cliente tenha adquirido_), estoque, valores; informações sobre os produtos individuais ou os que compõe o kit.
+### Informações sobre **itens do pedido**.
+Sobre o Kit (_caso o cliente tenha adquirido_), estoque, valores; informações sobre os produtos individuais ou os que compõe o kit.
 ![ItensPedidp](http://developers.connectparts.com.br/imagens/calucloPrazoFrete06.png)
 
-* Informações sobre o **histórico **do pedido, observações e nome de colaboradores que tiveram alguma ação com o produto.
+### Informações sobre o **histórico **do pedido.
+Observações e nome de colaboradores que tiveram alguma ação com o produto.
 ![HistoricoPedido](http://developers.connectparts.com.br/imagens/calucloPrazoFrete07.png)
 
-### Regras
+## Regras
 
 1. Ao se tratar de **Correios**, será verificado o prazo na API dos correios somando o dia do despacho com o prazo informado, se o prazo estiver vencido, será informado **“Abrir um PI”** caso contrário **”No prazo dos Correios”**.
 
