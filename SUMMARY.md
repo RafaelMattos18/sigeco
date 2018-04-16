@@ -98,5 +98,6 @@
     * [Cadastrar](tiadmin/projetos/cadastrar.md)
 * [ConnectParts](connectparts.md)
   * [Black Friday](black-friday.md)
-  * Integracao Manual Pedido DTS
+  * [Integracao Manual Pedido DTS](integracao-manual-pedido-dts.md)
+  * [Vtex - Abacos](vtex-abacos.md)
 
