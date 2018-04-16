@@ -25,7 +25,7 @@ Neste processo os departamentos Financeiro e Atendimento fazem uma pré analise 
 
 > **Observação: ** Caso não selecione e nem preencha algum campo a consulta poderá ser feita clicando no botão de geração "**Lupa**", porém, sem critérios.
 
-### Legenda
+### Legendas
 
 |Descrição|  |
 |--|--|
