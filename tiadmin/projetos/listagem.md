@@ -12,6 +12,6 @@ Nesta tela o sistema apresenta todos os projetos do time de desenvolvimento.
 
 O time de desenvolvimento cadastra novas funções ou permissões, para acesso de coloboradores no projeto desenvolvido. 
 
-### Resultado
+## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/tiAdminProjetosListagemResultado.png)
