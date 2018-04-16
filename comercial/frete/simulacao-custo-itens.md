@@ -8,9 +8,9 @@
 
 Traz informações sobre os itens do pedido, valores unitários, ações de retira e devolver o item ao pedido. Traz os cálculos de fretes por transportadora.
 
-### Processo
+## Processo
 
-#### Valores Considerados
+### Valores Considerados
 
 * As informações vêm do Ábacos, Valor dos Itens (total com itens), Peso Real (KG) e Peso Cubado (KG).
 
@@ -35,6 +35,6 @@ Traz informações sobre os itens do pedido, valores unitários, ações de reti
  * Quando a linha estiver em **vermelho**, que dizer que os produtos foram enviados por aquele serviço.
  * Quando estiver **verde**, demonstra a forma de envio mais barata.
  
-### Regra
+## Regras
 
 - Se o peso cubado for maior que 5, faz o calculo pelo peso real.
