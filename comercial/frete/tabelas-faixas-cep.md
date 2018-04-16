@@ -8,4 +8,4 @@
 
 ## Resultado
 
-### Regras
+## Regras
