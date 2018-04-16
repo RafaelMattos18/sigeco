@@ -56,14 +56,8 @@ E as colunas **Pedido, Tipo de Pessoa, Forma de Pagamento, Valor, Status, Data *
 **Para bloqueio**
 
 * Cliente tem pedidos anteriores há 6 meses
-
 * Cliente fez compras nos últimos 30 dias
-
 	* Ou 3 compras com valor total igual ou maior de R$ 1.500,00
-
-
 * CPF/CNPJ está na lista de ocorrências.
-
 * Pedidos com -TRT , -INT, -TRR não serão demonstrados.
-
 	* Atualmente no Ábacos, existem 03 grupos de comercialização (_DEVOLUCAO PARA FORNECEDORES, SAIDA OUTROS, VENDA_), os pedidos com siglas são encontrados em SAIDA OUTROS.
