@@ -15,7 +15,7 @@ Alguns produtos como capacete preto tem uma boa saída, já capacete rosa não t
 
 ![resultado](http://developers.connectparts.com.br/imagens/verificarVariacoes02.png)
 
-### Regras
+## Regras
 
 1. Será disponibilizada esta visualização para o departamento de processos, esta liberação é feita pelo próprio departamento.
 
