@@ -55,7 +55,7 @@
     * [Configuracoes](comercial/mercado-livre/configuracoes.md)
     * [Verificar Variacoes](comercial/mercado-livre/verificar-variacoes.md)
 * [Logística](logistica.md)
-  * Estoque
+  * [Estoque](logistica/estoque.md)
     * [Pedidos Divergentes](pedidos-divergentes.md)
 * [Marketing](marketing.md)
   * [Analytics](marketing/analytics.md)
