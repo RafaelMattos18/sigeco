@@ -25,6 +25,6 @@ Será enviado um e-mail para a pessoas que requsitou as estiquetas contendo
 
 > **Obs.: ** Esta funcionalidade está sendo executada no ambiente de homologação, assim que aprovado pelo representante dos correios, será enviada para o ambiente de produção.
 
-### Regras de cálculo
+## Regras de cálculo
 
 * Verificar - [Sobre Cálculos das Transportadoras](/comercial/frete.md).

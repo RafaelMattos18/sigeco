@@ -18,7 +18,7 @@ Com o código do produto podemos verificar os valores de entregas para a **Capit
 
 Para analisar os valores do Mercado Livre no seu envio, adicionamos uma coluna contendo o calculo com base na **Tabela de valores ME**.
 
-### Regras
+## Regras
 
 - **Tabela de valores ME**
 ![](http://developers.connectparts.com.br/imagens/simCustoProd04.png)
