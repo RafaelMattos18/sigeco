@@ -2,7 +2,7 @@
 
 ---
 
-## Funcionalidadfe
+## Funcionalidade
 
 Desenvolvimento de uma funcionalidade que transfira cotações entre compradores.
 
