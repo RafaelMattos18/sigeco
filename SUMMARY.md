@@ -11,13 +11,15 @@
   * [Frete](atendimento/frete.md)
     * [Prazo](atendimento/prazo.md)
 * [Comercial](comercial.md)
+  * Compras
+    * [Transferecia Cotação](comercial/transferecia-cotacao.md)
+  * [Tarefas](comercial/tarefas.md)
+    * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
+    * [Relatorio de tarefas](comercial/tarefas/relatorio-de-tarefas.md)
   * Exorbitante
     * [Aprovações](comercial/aprovacoes.md)
     * [Tratativas](comercial/tratativas.md)
     * [Histórico](comercial/historico.md)
-  * [Tarefas](comercial/tarefas.md)
-    * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
-    * [Relatorio de tarefas](comercial/tarefas/relatorio-de-tarefas.md)
   * [Solicitacoes](comercial/solicitacoes.md)
     * [Alteracoes de Produto](comercial/solicitacoes/alteracoes-de-produto.md)
       * [Alteracao de nome](comercial/solicitacoes/alteracoes-de-produto/alteracao-de-nome.md)
