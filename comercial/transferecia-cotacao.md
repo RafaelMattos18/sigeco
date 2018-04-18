@@ -36,17 +36,8 @@ Sempre que um funcionário da ConnectParts é desligado da empresa, se faz neces
 **Líder**
 - Tomar a ação necessária e conferência das informações.
 
+<!--
 ## Datas
-
 - Data Inicial: **12/04/2018**
 - Data Final Prevista: **17/04/2018**
-
-## Assinaturas
-
-|Nomes	|Departamentos	|Assinaturas	|
-|---|---|---|
-|Paula Coradi|Inovação e Desenvolvimento|...................................|
-|Fernando Rodrigues|Inovação e Desenvolvimento|...................................|
-|Rafael Mattos|Inovação e Desenvolvimento|...................................|
-|Moisés Aparecido|Processos|...................................|
-|Erica Andrade|Compras|...................................|
+-->
