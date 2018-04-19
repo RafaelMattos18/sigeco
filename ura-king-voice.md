@@ -65,3 +65,6 @@ default:
 
 * http://api.connectparts.com.br:8014/token
 
+## Fluxo URA
+
+**Link:** [Fluxo URA King Voice](http://developers.connectparts.com.br/imagens/Fluxograma URA.pdf)
