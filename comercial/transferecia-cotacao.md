@@ -8,7 +8,7 @@ Desenvolvimento de uma funcionalidade que transfira cotações entre compradores
 
 ## Processos
 
-Sempre que um funcionário da ConnectParts é desligado da empresa, se faz necessário a transferência de suas cotações para outro funcionário. Será necessário que criemos uma funcionalidade que faça esta transferência, onde teremos campos para preenchimento do **E-mail do receptor das cotações** e **e-mail da pessoa desligada** e um campo de **Data**, onde neste campo será definido o tempo de cotações a serem transferidas até a data atual.
+Sempre que um funcionário da ConnectParts é desligado da empresa, se faz necessário a transferência de suas cotações para outro funcionário. Será necessário que criemos uma funcionalidade que faça esta transferência, onde teremos campos para preenchimento do **E-mail do receptor das cotações** e **e-mail da pessoa desligada** e um campo de **Desde de**, onde neste campo será definido o tempo de cotações a serem transferidas até a data atual.
 
 ## Mockups
 
