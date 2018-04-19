@@ -12,7 +12,9 @@ Sempre que um funcionário da ConnectParts é desligado da empresa, se faz neces
 
 ## Mockups
 
-![](http://developers.connectparts.com.br/imagens/transferenciaCotacao.png)
+![](http://developers.connectparts.com.br/imagens/transferenciaCotacao01.png)
+
+![](http://developers.connectparts.com.br/imagens/transferenciaCotacao02.png)
 
 
 ## Regras
