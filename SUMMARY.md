@@ -56,6 +56,7 @@
     * [Novos Negocios](comercial/mercado-livre/novos-negocios.md)
     * [Configuracoes](comercial/mercado-livre/configuracoes.md)
     * [Verificar Variacoes](comercial/mercado-livre/verificar-variacoes.md)
+* MarketPlace
 * [Logística](logistica.md)
   * [Estoque](logistica/estoque.md)
     * [Pedidos Divergentes](pedidos-divergentes.md)
