@@ -104,4 +104,12 @@
   * [Integracao Manual Pedido DTS](integracao-manual-pedido-dts.md)
   * [Vtex - Abacos](vtex-abacos.md)
   * [URA King Voice](ura-king-voice.md)
+*[Frete](frete.md)
+*[Marketplace](marketplace.md)
+*[Infraestrutura](infraestrutura.md)
+
+
+
+
+
 
