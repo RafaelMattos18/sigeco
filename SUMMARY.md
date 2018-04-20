@@ -104,5 +104,4 @@
 * [Fiscal](fiscal.md)
   * [Tributação](fiscal/tributacao.md)
   * [Calculo de margem](financeiro/tributacao/calculo-de-margem.md)
-* [Tributacao](financeiro/tributacao.md)
 
