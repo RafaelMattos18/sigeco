@@ -12,7 +12,7 @@
     * [Prazo](atendimento/prazo.md)
 * [Comercial](comercial.md)
   * Compras
-    * [Transferecia Cotação](comercial/transferecia-cotacao.md)
+    * [Transferência cotação](comercial/transferecia-cotacao.md)
     * [Exorbitante](comercial/exorbitante.md)
   * [Tarefas](comercial/tarefas.md)
     * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
