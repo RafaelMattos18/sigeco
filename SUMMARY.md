@@ -101,6 +101,7 @@
   * Simulador de Fretes
 * [Marketplace](marketplace.md)
 * [Infraestrutura](infraestrutura.md)
+  * [Transferência de cotações](infraestrutura/transferencia-de-cotacoes.md)
 * [Fiscal](fiscal.md)
   * [Tributação](fiscal/tributacao.md)
   * [Calculo de margem](financeiro/tributacao/calculo-de-margem.md)
