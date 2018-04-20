@@ -11,7 +11,7 @@
   * [Frete](atendimento/frete.md)
     * [Prazo](atendimento/prazo.md)
 * [Comercial](comercial.md)
-  * Compras
+  * [Compras](comercial/compras.md)
     * [Transferência cotação](comercial/transferecia-cotacao.md)
     * [Exorbitante](comercial/exorbitante.md)
   * [Tarefas](comercial/tarefas.md)
