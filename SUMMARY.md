@@ -65,8 +65,6 @@
     * [Entrada de Notas](financeiro/entrada-de-notas.md)
     * [Devolucoes](financeiro/devolucoes.md)
     * [Vendas](financeiro/vendas.md)
-  * [Tributacao](financeiro/tributacao.md)
-    * [Calculo de margem](financeiro/tributacao/calculo-de-margem.md)
 * [Relatorios](relatorios.md)
   * [Produtos](relatorios/produtos.md)
   * [Precos](relatorios/precos.md)
@@ -103,4 +101,8 @@
   * Simulador de Fretes
 * [Marketplace](marketplace.md)
 * [Infraestrutura](infraestrutura.md)
+* [Fiscal](fiscal.md)
+  * [Tributação](fiscal/tributacao.md)
+  * [Calculo de margem](financeiro/tributacao/calculo-de-margem.md)
+* [Tributacao](financeiro/tributacao.md)
 
