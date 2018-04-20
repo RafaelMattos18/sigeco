@@ -2,7 +2,7 @@
 
 ---
 
-![](http://developers.connectparts.com.br/imagens/comercialLogo.jpg)
+![](http://developers.connectparts.com.br/imagens/comercialLogo.png)
 
 
 
