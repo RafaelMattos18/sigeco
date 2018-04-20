@@ -13,13 +13,10 @@
 * [Comercial](comercial.md)
   * Compras
     * [Transferecia Cotação](comercial/transferecia-cotacao.md)
+    * [Exorbitante](comercial/exorbitante.md)
   * [Tarefas](comercial/tarefas.md)
     * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
     * [Relatorio de tarefas](comercial/tarefas/relatorio-de-tarefas.md)
-  * Exorbitante
-    * [Aprovações](comercial/aprovacoes.md)
-    * [Tratativas](comercial/tratativas.md)
-    * [Histórico](comercial/historico.md)
   * [Solicitacoes](comercial/solicitacoes.md)
     * [Alteracoes de Produto](comercial/solicitacoes/alteracoes-de-produto.md)
       * [Alteracao de nome](comercial/solicitacoes/alteracoes-de-produto/alteracao-de-nome.md)
@@ -56,7 +53,6 @@
     * [Novos Negocios](comercial/mercado-livre/novos-negocios.md)
     * [Configuracoes](comercial/mercado-livre/configuracoes.md)
     * [Verificar Variacoes](comercial/mercado-livre/verificar-variacoes.md)
-* MarketPlace
 * [Logística](logistica.md)
   * [Estoque](logistica/estoque.md)
     * [Pedidos Divergentes](pedidos-divergentes.md)
@@ -107,9 +103,4 @@
 * [Frete](frete.md)
 * [Marketplace](marketplace.md)
 * [Infraestrutura](infraestrutura.md)
-
-
-
-
-
 
