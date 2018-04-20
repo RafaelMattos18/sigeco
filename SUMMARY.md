@@ -57,8 +57,6 @@
     * [Relatorios de Solicitacoes](comercial/solicitacoes/relatorios-de-solicitacoes.md)
     * [Regulador de Estoque](comercial/solicitacoes/regulador-de-estoque.md)
     * [Relatorio Solicitacoes Kits](comercial/solicitacoes/relatorio-solicitacoes-kits.md)
-
-    
 * [Logística](logistica.md)
   * [Estoque](logistica/estoque.md)
     * [Pedidos Divergentes](pedidos-divergentes.md)
