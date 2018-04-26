@@ -1,14 +1,8 @@
 # Pedidos
 
-
----
-
-
 ![](http://developers.connectparts.com.br/imagens/atd-abc-ped-01.png)
 
-
 ## Funcionalidade
-
 
 Nesta tela teremos um relatório sucinto dos pedidos que estão no Ábacos.
 
@@ -24,13 +18,11 @@ Nesta funcionalidade podemos verificar pedidos que estão no Abacos, informaçõ
 
 ![](http://developers.connectparts.com.br/imagens/atd-abc-ped-03.png)
 
-
 ### Rastrear
 
 ![](http://developers.connectparts.com.br/imagens/atd-abc-ped-08.png)
 
 Neste histórico, o sistema faz uma pesquisa na API dos correios e traz informações de rastreamento do pedido e seus status.
-
 
 ### Informações do cliente
 

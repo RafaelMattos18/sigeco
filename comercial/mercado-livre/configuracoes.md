@@ -1,5 +1,4 @@
-# Configurações
----
+# Configuracoes
 
 ![](http://developers.connectparts.com.br/imagens/configuracaoMLAnalytics_01.jpg)
 

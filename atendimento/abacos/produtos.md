@@ -1,7 +1,5 @@
 # Produtos
 
----
-
 ## Funcionalidade
 
 Esta funcionalidade traz informações sobre os produtos que estão do Ábacos.
@@ -13,7 +11,6 @@ Podemos verificar informações sobre o produto que está dentro do nosso ERP ta
 ## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/atd-abc-prod-01.png)
-
 
 ### Produtos encontrados
 
@@ -30,5 +27,4 @@ Podemos verificar informações sobre o produto que está dentro do nosso ERP ta
 ### Estoque
 
 ![](http://developers.connectparts.com.br/imagens/atd-abc-prod-05.png)
-
 

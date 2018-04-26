@@ -1,7 +1,5 @@
 # Preços
 
----
-
 ## Kits e Componentes
 
 ### Funcionalidade
@@ -13,3 +11,4 @@ Traz um relatório com as Listas de Preços de Produtos Kit, com os campos: **Ki
 ### Funcionalidade
 
 Traz um relatório de Produtos da Precificação Automática que estão perdendo no período do último mês, com os campos: **Pai, Nome, Preco, Observacao e Data Criacao**.
+

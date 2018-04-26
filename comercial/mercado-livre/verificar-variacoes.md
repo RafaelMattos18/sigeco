@@ -1,5 +1,4 @@
-# Verificar Variações
----
+# Verificar Variacoes
 
 ![tela inicial](http://developers.connectparts.com.br/imagens/verificarVariacoes01.png)
 
@@ -20,5 +19,4 @@ Alguns produtos como capacete preto tem uma boa saída, já capacete rosa não t
 1. Será disponibilizada esta visualização para o departamento de processos, esta liberação é feita pelo próprio departamento.
 
 > **Obs**.: O líder ou solicitante tem que ter em **suas configurações** as categorias que ele atua, assim como o seu e-mail no seu cadastro. O cadastro ou atualização de **Minhas configurações** é de responsabilidade do departamento de Processo e o cadastro o e-mail é do departamento de T.I.
-
 

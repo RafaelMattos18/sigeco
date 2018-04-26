@@ -1,6 +1,4 @@
-# Relatório de Tarefas
-
----
+# Relatorio de tarefas
 
 ![](http://developers.connectparts.com.br/imagens/comercialTarefasRelatorioTarefas01.png)
 
@@ -11,3 +9,4 @@
 ## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/comercialTarefasRelatorioTarefas02.png)
+
