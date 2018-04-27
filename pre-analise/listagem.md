@@ -42,6 +42,15 @@ Ao clicar em **Barrar Pedido** é necessário inserir um motivo válido.
 
 É apresentado **Informações Ábacos**, com a opção de bloquear CPF e CNPJ do destinatário e do cliente, formas e condições de pagamento e itens de pedido.
 
+#### Informações sobre o pedido
+
+![](http://developers.connectparts.com.br/imagens/preAnaliseImg001.png)
+
+![](http://developers.connectparts.com.br/imagens/preAnaliseImg002.png)
+
+![](http://developers.connectparts.com.br/imagens/preAnaliseImg003.png)
+
+
 ## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/financeiroPreAnaliseListagem01.png)
