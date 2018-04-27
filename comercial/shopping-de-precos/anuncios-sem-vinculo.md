@@ -4,7 +4,11 @@
 
 ## Funcionalidade
 
+Nesta funcionalidade temos uma listagem de Anúncios sem vínculo no Mercado Livre.
+
 ## Processo
+
+O sitema oferece uma listagem de produtos que estão disponíveis no Mercado Livre e que são similares aos produtos Connect Parts
 
 ## Resultado
 
