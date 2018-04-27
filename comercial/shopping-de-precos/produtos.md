@@ -55,11 +55,11 @@ Mostra todos os nossos produtos que selecionado na tela anterior, trazendo nesta
 
 - **Vendas**
 ![](http://developers.connectparts.com.br/imagens/spdBosta01.png)
-Histórico de quantidade vendidas
+Histórico de quantidades vendidas
 
 - **Preço**
 ![](http://developers.connectparts.com.br/imagens/spdBosta02.png)
-Histórico de alteração de preços
+Histórico de alterações de preços
 
 - **Relatório**
 ![](http://developers.connectparts.com.br/imagens/spdBosta03.png)
