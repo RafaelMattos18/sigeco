@@ -8,7 +8,7 @@ Nesta funcionalidade temos uma listagem de Anúncios sem vínculo no Mercado Liv
 
 ## Processo
 
-O sitema oferece uma listagem de produtos que estão disponíveis no Mercado Livre e que são similares aos produtos Connect Parts
+O sistema oferece uma listagem de produtos que estão disponíveis no Mercado Livre e que são similares aos produtos Connect Parts
 
 ## Resultado
 
