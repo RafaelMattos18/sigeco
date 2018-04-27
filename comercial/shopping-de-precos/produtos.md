@@ -4,21 +4,66 @@
 
 ## Funcionalidade
 
-Nesta tela teremos uma amostragem de desempenho em valores com os concorrentes no mercado livre.
+Nesta tela teremos uma listagem de produtos da Connect Parts; em cada linha de produtos informações sobre ele dentro do mercado livre.
 
 ## Processo
 
-O departamento comercial e processo, utiliza esta ferramenta para mensurar um métrica e agir de forma que sejamos mais competitivos no mercado livre.
+O departamento comercial e processo, utiliza esta ferramenta para mensurar uma métrica e agir de forma que sejamos mais competitivos no mercado livre. Os filtros que estão na tela, irão auxiliar os departamentos no afilamento de informações.
+
+### Filtros
+
+- DK ou Pai
+    - Pesquisas específicas pelo DK do produto ou seu código Pai
+- Título Anúncio ou Ábacos 
+    - Descrição do título no Mercado Livre ou no ERP 
+- Status dos Anúncios
+    - Tudo
+        - Todos os status dos anúncios e anúncios que não estão publicado
+    - Tem anúncios ativos, pausados, encerrados ou com qualquer status
+    - Não tem anúncios publicados
+- Categoria
+    - Categorias cadastradas no Mercado Livre
+- Grupo
+    - Grupo que o produto perntece
+- Marca
+- MLB
+    - Código do produto no Mercado Livre
+- Vendedor Concorrente
+    - Descrição do título do concorrente que deseja pesquisar
+- Relações
+    - Tem concorrente relacionado, há concorrentes rejeitados, qualquer tipo de relação, os que não tem relacionamentos feitos, 
+- Situação
+    - Situação é a campo de seleção onde irá filtrar produtos que estamos perdendo, ganhando, empatados em relação aos preços.
+- Modalidade
+    - Modalidade que o produto esta cadastrado no Mercado Livre
+- Frete Grátis
+- Desconto
+    - Descontos aplicados nos produtos.
+
 
 ## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/SDPprod02.png)
 
-* Detalhes
-* Relações
-* Buscar Concorrentes
+Para a listagem, temos a opção de ordenar os resultados, exibição de títulos no Mercado Livre ou Ábacos e paginação.
 
 ### Detalhes
+
+Mostra todos os nossos produtos que selecionado na tela anterior, trazendo nesta funcionalidade informações sobre estes produtos como, título, MLB, se há Frete Grátis, dimensões e garantia, valores e percentual de margem ganhando ou perdendo, status deste produto, quantidade de vendidos e quantidade de disponíveis para venda.
+
+#### Históricos
+
+**Vendas**
+![](http://developers.connectparts.com.br/imagens/spdBosta01.png)
+Histórico de quantidade vendidas
+
+**Preço**
+![](http://developers.connectparts.com.br/imagens/spdBosta02.png)
+Histórico de alteração de preços
+
+**Relatório**
+![](http://developers.connectparts.com.br/imagens/spdBosta03.png)
+Histórico de Preço, Diferença Preço, Variação Preço, Vendas, Diferença Vendas, Frete Grátis e Data/Hora.
 
 ### Relações
 
