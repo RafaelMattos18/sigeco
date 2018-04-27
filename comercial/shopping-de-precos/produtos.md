@@ -87,7 +87,7 @@ Podemos relacionar este produto; e após esta relacção o sistem dentro de uma 
 
 ### Regras
 
-* Um anúncio pode ter no máximo 100 anúncios relacionados.
+* Um anúncio pode ter no máximo 300 anúncios relacionados.
 * Em relacionados, a captação de valores será sempre um dia atrás.
 * Recuperamos estas informações sempre via API.
 
