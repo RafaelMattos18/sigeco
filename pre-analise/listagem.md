@@ -52,7 +52,7 @@ O sistema através de API traz informações que estão no nosso ERP.
 
 - **Formas e Condições de Pagamento e Itens do Pedido**
 ![](http://developers.connectparts.com.br/imagens/preAnaliseImg002.png)
-O sistema traz onformações sobre a forma de pagamento, valores, informações sobre o produto, quantidade de venda e valor dos itens do pedido, sem encargos ou cobrança de frete.
+O sistema traz informações sobre a forma de pagamento, valores, informações sobre o produto, quantidade de venda e valor dos itens do pedido, sem encargos ou cobrança de frete.
 
 ![](http://developers.connectparts.com.br/imagens/preAnaliseImg003.png)
 
@@ -73,4 +73,7 @@ O resultado traz a quantidade de **Pedidos Encontrados**. E as colunas **Pedido,
 * CPF/CNPJ está na lista de ocorrências.
 * Pedidos com -TRT , -INT, -TRR não serão demonstrados.
   * Atualmente no Ábacos, existem 03 grupos de comercialização \(_DEVOLUCAO PARA FORNECEDORES, SAIDA OUTROS, VENDA_\), os pedidos com siglas são encontrados em SAIDA OUTROS.
+  
+**API**
+- Consultamos API que a 00K nos disponibiliza, as informações sobre o pedido citada acima, vem desta API. 
 
