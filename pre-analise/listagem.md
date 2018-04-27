@@ -54,6 +54,7 @@ O sistema através de API traz informações que estão no nosso ERP.
 ![](http://developers.connectparts.com.br/imagens/preAnaliseImg002.png)
 O sistema traz informações sobre a forma de pagamento, valores, informações sobre o produto, quantidade de venda e valor dos itens do pedido, sem encargos ou cobrança de frete.
 
+- **Informações do Mercado Pago**
 ![](http://developers.connectparts.com.br/imagens/preAnaliseImg003.png)
 
 
