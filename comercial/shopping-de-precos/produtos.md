@@ -67,6 +67,10 @@ Histórico de Preço, Diferença Preço, Variação Preço, Vendas, Diferença V
 
 ### Relações
 
+![](http://developers.connectparts.com.br/imagens/spdBosta04.png)
+
+Traz informações de produtos similares dos concorrentes, onde temos a base de comparação de valores. Podemos verificar o **histórico** do concorrente, **remover esta relação** e **rejeitar**.
+
 ### Buscar Concorrentes
 
 Ao clicar na opção **Buscar Concorrentes** o sistema nos traz informações sobre o produto da ConnectParts e produtos similares de concorrentes.
