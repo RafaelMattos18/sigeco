@@ -53,15 +53,15 @@ Mostra todos os nossos produtos que selecionado na tela anterior, trazendo nesta
 
 #### Históricos
 
-**Vendas**
+- **Vendas**
 ![](http://developers.connectparts.com.br/imagens/spdBosta01.png)
 Histórico de quantidade vendidas
 
-**Preço**
+- **Preço**
 ![](http://developers.connectparts.com.br/imagens/spdBosta02.png)
 Histórico de alteração de preços
 
-**Relatório**
+- **Relatório**
 ![](http://developers.connectparts.com.br/imagens/spdBosta03.png)
 Histórico de Preço, Diferença Preço, Variação Preço, Vendas, Diferença Vendas, Frete Grátis e Data/Hora.
 
