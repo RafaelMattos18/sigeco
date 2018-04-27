@@ -4,7 +4,7 @@
 
 ## Funcionalidade
 
-Nesta funcionalidade o sistema solicita a os códigos par geração de etiquetas, determinada pelo **serviço de entrega**, **quantidade** pedida. É requisitada na API dos correios que devolve uma faixa de valores \(em cima da quantidade\) que poderão ser utilizadas na emissão de etiquetas pela via do **serviço de entrega**.
+Nesta funcionalidade o sistema solicita a os códigos para geração de etiquetas, determinada pelo **serviço de entrega**, **quantidade** pedida. É requisitada na API dos correios que devolve uma faixa de valores \(em cima da quantidade\) que poderão ser utilizadas na emissão de etiquetas pela via do **serviço de entrega**.
 
 ## Resultado
 

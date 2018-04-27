@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Introdução](README.md)
 * [Dashboard](dashboard.md)
@@ -66,8 +66,7 @@
   * [Correios Rastreio](frete/correios-rastreio.md)
   * [Correios Calculos Prazo](frete/correios-calculos-prazo.md)
   * [Correios Solicitacao Etiquetas](frete/correios-solicitacao-etiquetas.md)
-  * [Servicos de Entrega](frete/servicos-de-entrega.md)
-  * Simulador de Fretes
+  * [Simulador de Fretes](frete/simulador-de-fretes.md)
 * [Infraestrutura](infraestrutura/README.md)
   * [Transferência de cotações](infraestrutura/transferencia-de-cotacoes.md)
   * [Integrações](infraestrutura/integracoes/README.md)
