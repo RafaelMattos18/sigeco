@@ -88,6 +88,7 @@ Podemos relacionar este produto; e após esta relacção o sistem dentro de uma 
 ### Regras
 
 * Um anúncio pode ter no máximo 300 anúncios relacionados.
+* Há um espaço de tempo da construção do anúncio até sua exposição na listagem desta funcionalidade e amostragem no Mercado Livre, este tempo é em torno de 24horas.
 * Em relacionados, a captação de valores será sempre um dia atrás.
 * Recuperamos estas informações sempre via API.
 
