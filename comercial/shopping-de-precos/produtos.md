@@ -85,7 +85,7 @@ Ao clicar em **Pesquisar** é demonstrada informações do Mercado Livre com pro
 
 Podemos relacionar este produto; e após esta relacção o sistem dentro de uma margem de valores máximo e mínimo irá demonstrar se estamos perdendo ou ganhando com a venda deste produto.
 
-### Regras
+## Regras
 
 * Um anúncio pode ter no máximo 300 anúncios relacionados.
 * Há um espaço de tempo da construção do anúncio até sua exposição na listagem desta funcionalidade e amostragem no Mercado Livre, este tempo é em torno de 24horas.
