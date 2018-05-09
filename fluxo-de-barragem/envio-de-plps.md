@@ -18,6 +18,8 @@ Após esta ação , o arquivo é enviado e processado, retornando o ID-PLP e o I
 
 ![](http://developers.connectparts.com.br/imagens/fluxoBarragem02.png)
 
+Informações sobre os pedidos com a possiblidade de **Barrar ocorrência**.
+
 ## Regras
 
 **Para barragem**
