@@ -99,7 +99,7 @@
   * [Preços](relatorios/precos.md)
   * [Anúncio mercado livre](relatorios/anuncio-mercado-livre.md)
   * [Shopping de preços](relatorios/shopping-de-precos.md)
-* Recebimento
+* [Recebimento](recebimento.md)
   * [Fluxo de barragem](fluxo-de-barragem.md)
     * [Envio de PLPs](fluxo-de-barragem/envio-de-plps.md)
     * [Buscar etiquetas](fluxo-de-barragem/buscar-etiquetas.md)
