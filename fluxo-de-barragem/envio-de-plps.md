@@ -10,10 +10,9 @@ Comunicação com a central dos correios, barrando o rastreio que é suspeito de
 
 ## Processo
 
-- Esta ferramenta em que o cliente (**Connect**) irá comunicar a central dos correios que o rastreamento que é suspeito de fraude, automaticamente e garantindo que o departamento de **recebimento** irá dar continuidade a este pedido até sua finalização. 
-- O sistema armazenara esse rastreio e trará o último status para o acompanhamento.
--  Tem como base um arquivo de EDI que é gerado no Ábacos, o sistema lê este arquivo e cria um arquivo no formato padrão exigido pelo **correios**.
--  Após esta ação , o arquivo é enviado e processado, retornando o ID-PLP e o ID-PLPCliente, que são dados necessários para o bloqueio.
+Esta ferramenta em que o cliente (**Connect**) irá comunicar a central dos correios que o rastreamento que é suspeito de fraude, automaticamente e garantindo que o departamento de **recebimento** irá dar continuidade a este pedido até sua finalização. O sistema armazenara esse rastreio e trará o último status para o acompanhamento.
+Tem como base um arquivo de EDI que é gerado no Ábacos, o sistema lê este arquivo e cria um arquivo no formato padrão exigido pelo **correios**.
+Após esta ação , o arquivo é enviado e processado, retornando o ID-PLP e o ID-PLPCliente, que são dados necessários para o bloqueio.
 
 ## Resultado
 
