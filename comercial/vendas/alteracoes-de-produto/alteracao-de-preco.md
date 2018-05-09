@@ -10,7 +10,7 @@ Nesta opção iremos alterar o preço do produto, toda a regra de precificação
 
 ![Regras dos codigos](http://developers.connectparts.com.br/imagens/alteracaoPrecos01.png)
 
-Ao adicionar o código,clicar na lupa e passar o mouse sobre o ícone **i**, teremos informações sobre o processo que irá acontecer.
+Ao adicionar o código,clicar na lupa e passar o mouse sobre o ícone **"i"**, teremos informações sobre o processo que irá acontecer.
 
 ![Canais plataformas](http://developers.connectparts.com.br/imagens/alteracaoPrecos02.png)
 
