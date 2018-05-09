@@ -13,13 +13,18 @@ Nesta tela temos um relatório de produtos que sofreram alteração de preço pe
 ## Regras
 
 1. Caso o produto **não tenha nenhum valor em uma das suas listas de preços**, será retornado um e-mail para ao solicitante avisando a falta deste valor.
+
 2. Caso **tenha valor somente em uma das listas** o calculo da margem será feito com base no existente.
+
 3. **Regras na Solicitação de Preço**: Ao receber a solicitação de preço a API de precificação e cadastro aplica as regras
    1. Recalcula a margem do produto
       1. Caso seja abaixo de 10% alteração gera uma solicitação ao grupo proprietário para 9000 \(Grupo master\)
       2. Adiciona no campo de observação a mensagem “Margem menor que 10% !!!”
+      
 4. Sistema de precificação da Sieve também foi adaptado para quando gerar um solicitação com preço abaixo de 10% ir para o grupo master ao invés do líder da categoria.
+
 5. Fluxo interno da aplicação alterado para não interferir na alteração de Classe e Nome.
+
 6. Caso o **líder** ou o responsável pelo departamento de **cadastro** recusar a precificação, o sistema envia um e-mail ao solicitante com a observação digitada.
 
 > **Caso necessite saber mais sobre regras de precificação ir para opção Solicitações / Alterações de Produto em **_**Alterações de Preços e Preços em lote**_
