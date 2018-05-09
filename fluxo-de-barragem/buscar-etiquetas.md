@@ -12,8 +12,3 @@ Localização de etiquetas e barragens deste pedido.
 
 Deve ser digitado o motivo da barragem para fins de históricos
 
-## Resultado
-
-## Regras
-
-## Responsabilidades

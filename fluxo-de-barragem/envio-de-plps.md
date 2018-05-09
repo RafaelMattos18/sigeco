@@ -14,6 +14,8 @@ Esta ferramenta em que o cliente (**Connect**) irá comunicar a central dos corr
 Tem como base um arquivo de EDI que é gerado no Ábacos, o sistema lê este arquivo e cria um arquivo no formato padrão exigido pelo **correios**.
 Após esta ação , o arquivo é enviado e processado, retornando o ID-PLP e o ID-PLPCliente, que são dados necessários para o bloqueio.
 
+Ao lado do botão **Enviar** temos a opção de fazer um upload do arquivo **PLP**
+
 ## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/fluxoBarragem02.png)
