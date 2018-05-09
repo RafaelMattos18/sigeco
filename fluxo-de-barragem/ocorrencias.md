@@ -6,10 +6,8 @@
 
 ## Funcionalidade
 
+Listagem de ocorrências PLPs que foram barradas. Contendo informações sobre o pedido.
+
 ## Processo
 
-## Resultado
-
-## Regras
-
-## Responsabilidades
+Esta listagem depende das ações feitas nas funcionalidades de **Envio de PLPs** e **Buscar etiquetas**.
