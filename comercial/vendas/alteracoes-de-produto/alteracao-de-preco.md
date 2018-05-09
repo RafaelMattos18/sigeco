@@ -20,7 +20,7 @@ Temos a opção que listas todas os canais que terão o preços alterados.
 
 No resultado teremos algumas informações sobre o produto \(_se é Pai, kit etc_\) e um local para adicionar um **novo valor**. Haverá casos que teremos várias linhas de resultado, o sistema oferece um **Salvar** que ao adicionar um novo valor ele é salvado temporariamente, e é mostrado a margem do valor inserido. Conforme o valor do Pai for alterado o valor dos Kits também será alterado automaticamente. Para finalizar esta ação clique no botão **Enviar para aprovação** ou **Cancelar operação e remover**.
 
-> Observação: Ao adicionar um valor em percentual no campo **Novo Valor** isto irá impactar no **Valor Por** em _Preços Pendentes_
+> **Observação**: Ao adicionar um valor em percentual no campo **Novo Valor** isto irá impactar no **Valor Por** em _Preços Pendentes_
 
 ![](http://developers.connectparts.com.br/imagens/comercialSolicitacaoPrecoPendente02.png)
 
