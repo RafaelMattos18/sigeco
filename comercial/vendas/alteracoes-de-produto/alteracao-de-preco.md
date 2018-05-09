@@ -1,5 +1,7 @@
 # Alteração de preco
 
+---
+
 ![alteracao de preco](http://developers.connectparts.com.br/imagens/SolicitarAlteracaoDeProduto02.png)
 
 ## Funcionalidade
