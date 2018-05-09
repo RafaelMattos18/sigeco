@@ -103,5 +103,5 @@
   * [Fluxo de barragem](fluxo-de-barragem.md)
     * [Envio de PLPs](fluxo-de-barragem/envio-de-plps.md)
     * [Buscar etiquetas](fluxo-de-barragem/buscar-etiquetas.md)
-    * Ocorrências
+    * [Ocorrências](fluxo-de-barragem/ocorrencias.md)
 
