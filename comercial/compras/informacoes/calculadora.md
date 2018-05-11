@@ -12,7 +12,7 @@ Ao procurar pelo DK do produto, tanto Dk PAI quanto Dk FILHO, retornará informa
 
 ### Resultado
 
-###### \*imagem meramente ilustrativa.![](/assets/Calculadora_2.png)
+###### ![](/assets/Calculadora_2.png)
 
 
 
