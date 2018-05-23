@@ -20,3 +20,5 @@ No botão 'Comparar' irá abrir uma subtela\(Modal\) com as seguintes informaç�
 
 ![](../../.gitbook/assets/analise_de_atributos_2.png)
 
+Documento de Apoio: [http://developers.mercadolibre.com/pt-br/identificadores-de-produtos/](http://developers.mercadolibre.com/pt-br/identificadores-de-produtos/)
+
