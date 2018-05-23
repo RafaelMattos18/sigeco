@@ -16,3 +16,4 @@ Nesta tela iremos cadastrar uma nova categoria, temos as seguintes categorias:
 ## Processo
 
 Estas categorias serão apresentadas no **Filtro - Categoria** que está em **Shopping Produtos / Produtos**.
+

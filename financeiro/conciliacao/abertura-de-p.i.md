@@ -6,13 +6,13 @@
 
 Nesta tela faremos um **P**edido de **I**nformação para as transportadoras, em sequência as mesmas nos informarão do status da entrega dos pedidos, data de processamento, os registros entregue, se estão dentro ou fora do prazo, quantidade e se houve erros.
 
-Ao selecionar a opção **Transportadora - Correios **, serão apresentadas mais dois campos **Relatório Postal.Net** e **Relatório Salesforce**.
+Ao selecionar a opção **Transportadora - Correios** , serão apresentadas mais dois campos **Relatório Postal.Net** e **Relatório Salesforce**.
 
 ![](http://developers.connectparts.com.br/imagens/AberturaDePI03.png)
 
 ## Processos
 
-Ao utilizar a **Transportadora - Correios ** e os campos **Relatório Postal.Net** e **Relatório Salesforce** é feito um upload para ambos os campos supracitados e demais informções são buscadas na Nota Fiscal, processada pelo sistema.
+Ao utilizar a **Transportadora - Correios**  e os campos **Relatório Postal.Net** e **Relatório Salesforce** é feito um upload para ambos os campos supracitados e demais informções são buscadas na Nota Fiscal, processada pelo sistema.
 
 ## Resultado
 

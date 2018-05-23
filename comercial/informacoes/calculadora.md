@@ -1,36 +1,36 @@
 # Calculadora
 
-### Funcionalidade
+## Funcionalidade
 
 Trazer os principais dados do produto como Canais, Estoque, Venda dos últimos 6 meses e dados cadastrais.
 
-### Calculadora Parte 1
+## Calculadora Parte 1
 
-### Processo
+## Processo
 
-![](/assets/Calculadora_1.jpg)
+![](../../.gitbook/assets/calculadora_1.jpg)
 
 A pesquisa será por DK, pode ser Dk Pai, Dk Filho ou Kit. Após a pesquisa ser realizada na aba 'SKU Vtex' irá mostrar o sku da vtex se houver. Na Aba 'Produto' mostrará a descrição do produto e logo abaixo a abreviatura do mesmo. E nas demais abas dessas primeira parte da calculadora será apresentado as demais informações. As informações da primeira imagem são retirada diretamente do Ábacos.
 
-![](/assets/Calculadora_2.jpg)
+![](../../.gitbook/assets/calculadora_2.jpg)
 
 As informações que serão mostradas na tabela de 'Canal' são retiradas em tempo real do Banco de Dados e Datawarehouse. O valor do atributo Vol\(Volume\) é a soma de quantidade de notas faturadas no mês indicado. O valor do atributo Mg\(Margem\) é o preço de venda menos o preço de custo em porcentagem. No atributo Projetado\(Mês\) é a soma do total de vendas de cada mês divido por 5\(Cinco\), sem contar o mês atual. Nos Marketplace serão mostrados os atributos já citados.
 
-### Calculadora Parte 2
+## Calculadora Parte 2
 
-### Processo
+## Processo
 
-![](/assets/Calculadora_3.jpg)
+![](../../.gitbook/assets/calculadora_3.jpg)
 
 As informações da Loja Virtual são adquiridas do bando de dados do Ábacos e da API da VTEX. A margem é calculada da seguinte forma: preço de venda menos o preço de custo em porcentagem. Todas as informações são consultadas em tempo real.
 
 As informações do Mercado Livre são adquiridas do banco de dados do Ábacos e do banco de dados dos Anúncios da Connect Parts no Mercado Livre. A margem é calculada da seguinte forma: preço de venda menos o preço de custo em porcentagem. Todas as informações são consultadas em tempo real.
 
-### Calculadora Parte 3
+## Calculadora Parte 3
 
-### Processo
+## Processo
 
-![](/assets/Calculadora_4.jpg)
+![](../../.gitbook/assets/calculadora_4.jpg)
 
 A informação da aba 'Estoque Virtual' é recuperada do saldo de produtos informado no Ábacos com status 4.
 
@@ -48,13 +48,13 @@ A informação da aba 'Kits com Componentes' é recuperada do banco de dados do 
 
 A informação da aba 'Variações' é recuperada do banco de dados do Ábacos, onde consiste na soma de produtos onde faz relação com o mesmo DK informado. Onde faz relação com o mesmo DK informado.
 
-A informação de Custo Liquido é recuperada da base de dados do Ábacos. 
+A informação de Custo Liquido é recuperada da base de dados do Ábacos.
 
-A informação de Custo Bruto é recuperada da base de dados do Ábacos. 
+A informação de Custo Bruto é recuperada da base de dados do Ábacos.
 
-A informação de Último Custo é recuperada da base de dados do Ábacos, onde o valor bruto é o último utilizado. 
+A informação de Último Custo é recuperada da base de dados do Ábacos, onde o valor bruto é o último utilizado.
 
-A informação de Imposto é recuperada da base de dados do Ábacos, onde o valor do imposto é o valor bruto menos o valor do custo liquido em porcentagem. 
+A informação de Imposto é recuperada da base de dados do Ábacos, onde o valor do imposto é o valor bruto menos o valor do custo liquido em porcentagem.
 
 A informação de Margem é recuperada da base de dados do Ábacos, onde o valor consiste no valor do preço de venda do item menos o valor do frete em porcentagem.
 

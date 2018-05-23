@@ -11,9 +11,9 @@ Traz informações sobre os itens do pedido, valores unitários, ações de reti
 ### Valores Considerados
 
 * As informações vêm do Ábacos, Valor dos Itens \(total com itens\), Peso Real \(KG\) e Peso Cubado \(KG\).
-* Sobre o **Peso Cubado \(KG\) ** este cálculo não vem do pedido \(Ábacos\) ele é feito em cima dos volumes dos itens que estão no pedido, ao retirar ou adicionar os itens estes valores são alterados.
+* Sobre o **Peso Cubado \(KG\)**  este cálculo não vem do pedido \(Ábacos\) ele é feito em cima dos volumes dos itens que estão no pedido, ao retirar ou adicionar os itens estes valores são alterados.
 
-  > **Obs.: ** pode acontecer que as dimensões dos produtos que compõe o pedido mudem e o valor pode dar negativo.
+  > **Obs.:**  pode acontecer que as dimensões dos produtos que compõe o pedido mudem e o valor pode dar negativo.
 
 #### Mark-up
 

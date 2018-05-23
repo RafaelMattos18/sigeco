@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introdução](README.md)
 * [Dashboard](dashboard.md)
@@ -28,6 +28,7 @@
     * [Novos Negocios](comercial/mercado-livre/novos-negocios.md)
     * [Configuracoes](comercial/mercado-livre/configuracoes.md)
     * [Verificar Variacoes](comercial/mercado-livre/verificar-variacoes.md)
+    * [Análise de Atributos](comercial/mercado-livre/analise-de-atributos.md)
   * [Vendas](comercial/vendas/README.md)
     * [Solicitações](comercial/vendas/solicitacoes.md)
     * [Alterações de Produto](comercial/vendas/alteracoes-de-produto/README.md)
@@ -43,8 +44,8 @@
     * [Relatorios de Solicitacoes](comercial/vendas/relatorios-de-solicitacoes.md)
     * [Regulador de Estoque](comercial/vendas/regulador-de-estoque.md)
     * [Relatorio Solicitacoes Kits](comercial/vendas/relatorio-solicitacoes-kits.md)
-  * [Informações](comercial/compras/informacoes.md)
-    * [Calculadora](comercial/compras/informacoes/calculadora.md)
+  * [Informações](comercial/informacoes/README.md)
+    * [Calculadora](comercial/informacoes/calculadora.md)
 * [Financeiro](financeiro/README.md)
   * [Conciliação](financeiro/conciliacao/README.md)
     * [Mercado Livre](financeiro/conciliacao/mercado-livre.md)
@@ -68,7 +69,7 @@
   * [Correios Rastreio](frete/correios-rastreio.md)
   * [Correios Calculos Prazo](frete/correios-calculos-prazo.md)
   * [Correios Solicitacao Etiquetas](frete/correios-solicitacao-etiquetas.md)
-  * [Simulador de Fretes](frete/simulador-de-fretes.md)
+  * [Simulador de Fretes](frete/simulador-de-fretes-1.md)
 * [Infraestrutura](infraestrutura/README.md)
   * [Transferência de cotações](infraestrutura/transferencia-de-cotacoes.md)
   * [Integrações](infraestrutura/integracoes/README.md)
@@ -101,9 +102,9 @@
   * [Preços](relatorios/precos.md)
   * [Anúncio mercado livre](relatorios/anuncio-mercado-livre.md)
   * [Shopping de preços](relatorios/shopping-de-precos.md)
-* [Recebimento](recebimento.md)
-  * [Fluxo de barragem](fluxo-de-barragem.md)
-    * [Envio de PLPs](fluxo-de-barragem/envio-de-plps.md)
-    * [Buscar etiquetas](fluxo-de-barragem/buscar-etiquetas.md)
-    * [Ocorrências](fluxo-de-barragem/ocorrencias.md)
+* [Recebimento](recebimento/README.md)
+  * [Fluxo de barragem](recebimento/fluxo-de-barragem/README.md)
+    * [Envio de PLPs](recebimento/fluxo-de-barragem/envio-de-plps.md)
+    * [Buscar etiquetas](recebimento/fluxo-de-barragem/buscar-etiquetas.md)
+    * [Ocorrências](recebimento/fluxo-de-barragem/ocorrencias.md)
 

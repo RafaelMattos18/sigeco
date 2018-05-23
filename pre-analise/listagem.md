@@ -21,7 +21,7 @@ Neste processo os departamentos Financeiro e Atendimento fazem uma pré analise 
 * **Pedido**
   * Digite o número do pedido para a pesquisa ser especifica.
 
-> **Observação: ** Caso não selecione e nem preencha algum campo a consulta poderá ser feita clicando no botão de geração "**Lupa**", porém, sem critérios.
+> **Observação:**  Caso não selecione e nem preencha algum campo a consulta poderá ser feita clicando no botão de geração "**Lupa**", porém, sem critérios.
 
 ### Legendas
 
@@ -46,23 +46,15 @@ Ao clicar em **Barrar Pedido** é necessário inserir um motivo válido.
 
 O sistema traz detlahes sobre o pedido para que ao barrar o pedido, seja feita de forma consciente e maoires informações.
 
-- **Informações Ábacos**
-![](http://developers.connectparts.com.br/imagens/preAnaliseImg001.png)
-O sistema através de API traz informações que estão no nosso ERP.
-
-- **Formas e Condições de Pagamento e Itens do Pedido**
-![](http://developers.connectparts.com.br/imagens/preAnaliseImg002.png)
-O sistema traz informações sobre a forma de pagamento, valores, informações sobre o produto, quantidade de venda e valor dos itens do pedido, sem encargos ou cobrança de frete.
-
-- **Informações do Mercado Pago**
-![](http://developers.connectparts.com.br/imagens/preAnaliseImg003.png)
-
+* **Informações Ábacos** ![](http://developers.connectparts.com.br/imagens/preAnaliseImg001.png) O sistema através de API traz informações que estão no nosso ERP.
+* **Formas e Condições de Pagamento e Itens do Pedido** ![](http://developers.connectparts.com.br/imagens/preAnaliseImg002.png) O sistema traz informações sobre a forma de pagamento, valores, informações sobre o produto, quantidade de venda e valor dos itens do pedido, sem encargos ou cobrança de frete.
+* **Informações do Mercado Pago** ![](http://developers.connectparts.com.br/imagens/preAnaliseImg003.png)
 
 ## Resultado
 
 ![](http://developers.connectparts.com.br/imagens/financeiroPreAnaliseListagem01.png)
 
-O resultado traz a quantidade de **Pedidos Encontrados**. E as colunas **Pedido, Tipo de Pessoa, Forma de Pagamento, Valor, Status, Data **e** Ação**.
+O resultado traz a quantidade de **Pedidos Encontrados**. E as colunas **Pedido, Tipo de Pessoa, Forma de Pagamento, Valor, Status, Data** e **Ação**.
 
 ## Regras
 
@@ -74,7 +66,8 @@ O resultado traz a quantidade de **Pedidos Encontrados**. E as colunas **Pedido,
 * CPF/CNPJ está na lista de ocorrências.
 * Pedidos com -TRT , -INT, -TRR não serão demonstrados.
   * Atualmente no Ábacos, existem 03 grupos de comercialização \(_DEVOLUCAO PARA FORNECEDORES, SAIDA OUTROS, VENDA_\), os pedidos com siglas são encontrados em SAIDA OUTROS.
-  
+
 **API**
-- Consultamos API que a 00K nos disponibiliza, as informações sobre o pedido citada acima, vem desta API. 
+
+* Consultamos API que a 00K nos disponibiliza, as informações sobre o pedido citada acima, vem desta API. 
 

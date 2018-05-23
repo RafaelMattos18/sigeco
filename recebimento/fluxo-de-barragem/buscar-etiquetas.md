@@ -1,6 +1,4 @@
-# Buscar Etiquetas
-
----
+# Buscar etiquetas
 
 ![](http://developers.connectparts.com.br/imagens/fluxoBarragem03.png)
 

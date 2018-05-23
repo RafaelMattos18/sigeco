@@ -12,34 +12,33 @@ O departamento comercial e processo, utiliza esta ferramenta para mensurar uma m
 
 ### Filtros
 
-- DK ou Pai
-    - Pesquisas específicas pelo DK do produto ou seu código Pai
-- Título Anúncio ou Ábacos 
-    - Descrição do título no Mercado Livre ou no ERP 
-- Status dos Anúncios
-    - Tudo
-        - Todos os status dos anúncios e anúncios que não estão publicado
-    - Tem anúncios ativos, pausados, encerrados ou com qualquer status
-    - Não tem anúncios publicados
-- Categoria
-    - Categorias cadastradas no Mercado Livre
-- Grupo
-    - Grupo que o produto perntece
-- Marca
-- MLB
-    - Código do produto no Mercado Livre
-- Vendedor Concorrente
-    - Descrição do título do concorrente que deseja pesquisar
-- Relações
-    - Tem concorrente relacionado, há concorrentes rejeitados, qualquer tipo de relação, os que não tem relacionamentos feitos, 
-- Situação
-    - Situação é a campo de seleção onde irá filtrar produtos que estamos perdendo, ganhando, empatados em relação aos preços.
-- Modalidade
-    - Modalidade que o produto esta cadastrado no Mercado Livre
-- Frete Grátis
-- Desconto
-    - Descontos aplicados nos produtos.
-
+* DK ou Pai
+  * Pesquisas específicas pelo DK do produto ou seu código Pai
+* Título Anúncio ou Ábacos 
+  * Descrição do título no Mercado Livre ou no ERP 
+* Status dos Anúncios
+  * Tudo
+    * Todos os status dos anúncios e anúncios que não estão publicado
+  * Tem anúncios ativos, pausados, encerrados ou com qualquer status
+  * Não tem anúncios publicados
+* Categoria
+  * Categorias cadastradas no Mercado Livre
+* Grupo
+  * Grupo que o produto perntece
+* Marca
+* MLB
+  * Código do produto no Mercado Livre
+* Vendedor Concorrente
+  * Descrição do título do concorrente que deseja pesquisar
+* Relações
+  * Tem concorrente relacionado, há concorrentes rejeitados, qualquer tipo de relação, os que não tem relacionamentos feitos, 
+* Situação
+  * Situação é a campo de seleção onde irá filtrar produtos que estamos perdendo, ganhando, empatados em relação aos preços.
+* Modalidade
+  * Modalidade que o produto esta cadastrado no Mercado Livre
+* Frete Grátis
+* Desconto
+  * Descontos aplicados nos produtos.
 
 ## Resultado
 
@@ -53,19 +52,19 @@ Mostra todos os nossos produtos que selecionado na tela anterior, trazendo nesta
 
 #### Históricos
 
-- **Vendas**
+* **Vendas**
 
 ![](http://developers.connectparts.com.br/imagens/spdBosta01.png)
 
 Histórico de quantidades vendidas
 
-- **Preço**
+* **Preço**
 
 ![](http://developers.connectparts.com.br/imagens/spdBosta02.png)
 
 Histórico de alterações de preços
 
-- **Relatório**
+* **Relatório**
 
 ![](http://developers.connectparts.com.br/imagens/spdBosta03.png)
 

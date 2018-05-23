@@ -55,7 +55,7 @@ Teremos os valores fixos de:
 **ICMS ST**
 
 * Se DK não estiver vazio, multiplica-se a Base de Cálculo com Alíquota Interna, subtraindo a soma do Valor total com Frete multiplicada pela Alíquota Interna ICMS.
-  * Formula: =SE \(DK="";"";\(Base de Cálculo ICMS ST _ Alíquota Interna ICMS\) - \(\(Valor total + Frete\) _ Alíquota Interna ICMS\)\)
+  * Formula: =SE \(DK="";"";\(Base de Cálculo ICMS ST  _Alíquota Interna ICMS\) - \(\(Valor total + Frete\)_  Alíquota Interna ICMS\)\)
 
 **COFINS**
 

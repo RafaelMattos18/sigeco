@@ -20,9 +20,9 @@ Será enviado um e-mail para a pessoas que requsitou as estiquetas contendo
 | Data da Solicitação | 07/04/2017 |
 | Hora da Solicitação | 09:35:08 |
 
-> **Obs.: ** Esta funcionalidade está sendo executada no ambiente de homologação, assim que aprovado pelo representante dos correios, será enviada para o ambiente de produção.
+> **Obs.:**  Esta funcionalidade está sendo executada no ambiente de homologação, assim que aprovado pelo representante dos correios, será enviada para o ambiente de produção.
 
 ## Regras de cálculo
 
-* Verificar - [Sobre Cálculos das Transportadoras](simulador-de-fretes.md).
+* Verificar - [Sobre Cálculos das Transportadoras]().
 

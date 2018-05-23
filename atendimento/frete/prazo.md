@@ -30,7 +30,7 @@ Sobre o Kit \(_caso o cliente tenha adquirido_\), estoque, valores; informaçõe
 
 ![ItensPedidp](http://developers.connectparts.com.br/imagens/calucloPrazoFrete06.png)
 
-### Informações sobre o **histórico **do pedido.
+### Informações sobre o **histórico** do pedido.
 
 Observações e nome de colaboradores que tiveram alguma ação com o produto. 
 

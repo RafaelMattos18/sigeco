@@ -32,7 +32,7 @@ Adicionar texto
 
 ### Endereço de Entrega
 
-* Esta consulta é requisita na mesma API que **Validação de CEP \(Correios\) **
+* Esta consulta é requisita na mesma API que **Validação de CEP \(Correios\)** 
 
 ### Regra
 
