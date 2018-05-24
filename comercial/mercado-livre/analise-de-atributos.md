@@ -6,7 +6,9 @@ Comparar atributos de anúncios do Mercado Livre cadastrados com atributos dispo
 
 ## Regras
 
-Uma Cron\(Serviços\) que coleta as informações dos atributos dos anúncios na madrugada, ou seja ele irá pegar anúncios do dia anterior\(D - 1\).
+Uma Cron\(Serviços\) que coleta as informações dos atributos dos anúncios na madrugada, ou seja ele irá pegar anúncios do dia anterior\(D - 1\). São considerados atributos com relevância 1 ou nullo, sempre trazendo SKU. Não são considerados atributos com 'tag hiden'\(tag escondida\).
+
+
 
 ## Processo
 
