@@ -36,5 +36,7 @@ Traz informações sobre os itens do pedido, valores unitários, ações de reti
 ## Regras
 
 * Se o peso cubado for maior que 5, faz o calculo pelo peso real.
-* O limite da dimensão é de 70cm, quando for PAC ou SEDEX somasse 20 reais no valor do frete, quando houver mais de 1 item no pedido lê-se a maior dimensão entre os itens. 
+*  O limite da dimensão é de 70cm
+*  Quando for PAC ou SEDEX soma-se 20 reais no valor do frete
+*  Quando houver mais de 1 item no pedido lê-se a maior dimensão entre os itens para checagem do limite.
 
