@@ -2,7 +2,7 @@
 
 ## Funcionalidade
 
-O sistema irá fazer uma pesquisa em produtos que poderão ter suas margens alteradas.
+O sistema irá fazer uma pesquisa em produtos que poderão ter suas margens alteradas, ou inserir as margem para alterar o novo valor.
 
 ## Processos
 
@@ -18,7 +18,7 @@ O sistema apresenta todos os produtos que estão com as classes **Indisponível*
 
 **img02**
 
-![](http://developers.connectparts.com.br/imagens/reguladorEstoque02.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ## Regras
 
