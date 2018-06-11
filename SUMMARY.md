@@ -88,6 +88,7 @@
 * [Logística](logistica/README.md)
   * [Estoque](logistica/estoque/README.md)
     * [Pedidos Divergentes](logistica/estoque/pedidos-divergentes.md)
+  * [Auditar Produto](logistica/auditar-produto.md)
 * [Marketing](marketing/README.md)
   * [Analytics](marketing/analytics/README.md)
     * [Gerar relatorio](marketing/analytics/gerar-relatorio.md)
