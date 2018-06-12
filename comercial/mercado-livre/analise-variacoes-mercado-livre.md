@@ -16,7 +16,7 @@ Nesta funcionalidade iremos verificar os anúncios que não possuem variação n
 
 **Resultado**
 
-![](http://developers.connectparts.com.br/imagens/analiseVariacoesMl02.png)
+![](../../.gitbook/assets/c_users_rafaeltejeda_appdata_local_packages_microsoft.skypeapp_kzf8qxf38zg5c_localstate_edad1190-986.jpg)
 
 * **Informações sobre o produto** e pelo **título** link para acesso deste produto no Mercado Livre.
 * **Ignorar anúncio:** Há a possiblidade de ignorar o anúncio e também a possibilidade de listar os ignorados no filtro **Listar Ignorados**.
