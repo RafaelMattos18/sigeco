@@ -16,7 +16,7 @@ A campo 'Categoria' irá buscar os anúncios com base no 'Código Categoria'. Ao
 
 Obs: Liberar o download dos arquivos no navegador.
 
-![](../../.gitbook/assets/analise_de_atributos_1.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 No botão 'Comparar' irá abrir uma subtela\(Modal\) com as seguintes informações que vem também da Cron\(Serviço\).
 

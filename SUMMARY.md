@@ -46,7 +46,6 @@
     * [Relatorio Solicitacoes Kits](comercial/vendas/relatorio-solicitacoes-kits.md)
   * [Informações](comercial/informacoes/README.md)
     * [Calculadora](comercial/informacoes/calculadora.md)
-    * [Auditar Produto](comercial/informacoes/auditar-produto.md)
 * [Financeiro](financeiro/README.md)
   * [Conciliação](financeiro/conciliacao/README.md)
     * [Mercado Livre](financeiro/conciliacao/mercado-livre.md)
