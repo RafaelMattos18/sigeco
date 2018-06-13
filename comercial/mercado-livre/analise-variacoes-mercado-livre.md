@@ -8,7 +8,11 @@ Com base nos anúncios Connect, é realiza uma busca no mercado livre, através 
 
 A principal função da ferramentar, é fazer uma comparação entre os valores disponível e cadastrados, permitindo assim, uma ação de adequação e complementação do cadastro no mercado livre.É possível, caso necessário, ignorar variação , para que não seja feita analise.
 
-## Resultado
+## Regras {#regras}
+
+Existem dois serviços para coleta de informação. O primeiro, coleta todos os dados disponíveis para cadastro no mercado livre. O serviço é disparado aos finais de semana. O outro, coleta diariamente, todos os atributos cadastrados por anuncio \(D-1\)
+
+## Processo
 
 **Pesquisa**
 
