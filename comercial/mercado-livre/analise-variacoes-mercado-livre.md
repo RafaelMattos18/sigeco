@@ -4,7 +4,9 @@
 
 ## Funcionalidade
 
-Nesta funcionalidade iremos verificar os anúncios que não possuem variação no Mercado Livre.
+Com base nos anúncios Connect, é realiza uma busca no mercado livre, através de cron \(que roda uma vez por semana\) trazendo todos os variação disponíveis para uso e, diariamente, através de cron, busca todos os variação cadastrados pela Connect.
+
+A principal função da ferramentar, é fazer uma comparação entre os valores disponível e cadastrados, permitindo assim, uma ação de adequação e complementação do cadastro no mercado livre.É possível, caso necessário, ignorar variação , para que não seja feita analise.
 
 ## Resultado
 

@@ -8,15 +8,13 @@ A principal função da ferramentar, é fazer uma comparação entre os valores 
 
 ## Regras
 
-Uma Cron\(Serviços\) que coleta as informações dos atributos dos anúncios na madrugada, ou seja ele irá pegar anúncios do dia anterior\(D - 1\). São considerados atributos com relevância 1 ou nullo, sempre trazendo SKU. Não são considerados atributos com 'tag hiden'\(tag escondida\). 
-
-![](../../.gitbook/assets/image%20%2810%29.png)
+Existem dois serviços para coleta de informação. O primeiro, coleta todos os dados disponíveis para cadastro no mercado livre. O serviço é disparado aos finais de semana. O outro, coleta diariamente, todos os atributos cadastrados por anuncio \(D-1\)
 
 ## Processo
 
-A campo 'Pesquisar' irá buscar os anúncios com base no 'Código Categoria'. E a caixa de seleção se o anúncio esta ignorado ou não.
+![](../../.gitbook/assets/image%20%2810%29.png)
 
-Obs: Liberar o download dos arquivos no navegador.
+O campo 'Pesquisar' irá buscar os anúncios com base no 'Código Categoria'. E a caixa de seleção se o anúncio esta ignorado ou não.
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
