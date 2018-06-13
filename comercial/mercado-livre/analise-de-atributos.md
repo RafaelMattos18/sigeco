@@ -2,7 +2,7 @@
 
 ## Funcionalidade
 
-Comparar atributos de anúncios do Mercado Livre cadastrados com atributos disponíveis.
+Com base nos anúncios Connect, é realiza uma busca no mercado livre, através de cron \(que roda uma vez por semana\) trazendo todos os atributos disponíveis para uso e, diariamente, através de cron, busca todos os atributos cadastrados pela Connect.
 
 ## Regras
 
