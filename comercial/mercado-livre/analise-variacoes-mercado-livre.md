@@ -24,7 +24,7 @@ Nesta funcionalidade iremos verificar os anúncios que não possuem variação n
 
 **Ver atributos**
 
-![](http://developers.connectparts.com.br/imagens/analiseVariacoesMl03.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 * **Ver atributos:** Apresentamos a hierarquia mais importante que o Mercado livre nos oferece para preenchimento de variações.
 
