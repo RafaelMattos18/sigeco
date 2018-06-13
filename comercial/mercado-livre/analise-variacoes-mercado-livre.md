@@ -1,5 +1,7 @@
 # Analise Variações Mercado Livre
 
+
+
 ## Funcionalidade
 
 Nesta funcionalidade iremos verificar os anúncios que não possuem variação no Mercado Livre.
@@ -11,7 +13,6 @@ Nesta funcionalidade iremos verificar os anúncios que não possuem variação n
 ![](http://developers.connectparts.com.br/imagens/analiseVariacoesMl01.png)
 
 * **Pesquisar:** Por este campo poderá ser pesquisado **Código externo pai**, **Código categoria** e **MLB**.
-* **Categorias:** Pesquisa por categoria.
 * **Listar Ignorados:** Nesta opção iremos listar todos os anúncios que foram ignorados.
 
 **Resultado**
