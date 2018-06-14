@@ -2,7 +2,7 @@
 
 ## Funcionalidade {#funcionalidade}
 
-A tela de auditoria de produto serve para conferencia e cadastro de dimensões e peso do produto.
+A tela de auditoria de produto serve para conferência e cadastro de dimensões e peso do produto.
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9yxwaA5qx1Bn8hXjQk%2F-LEihaTwAlFWnItBbGqT%2F-LEjtoRGNMMMQcM_XkY3%2Fimage.png?alt=media&token=8773b64b-f4e2-4508-bf8f-94d1b105a55b)
 
