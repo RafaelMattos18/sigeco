@@ -12,11 +12,15 @@ A tela de auditoria de produto serve para conferência e cadastro de dimensões 
 
 Nessa tela existe um campo para consultar as informações do Dk, e também dando a possibilidade de inserir novos atributos do produto.
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9yxwaA5qx1Bn8hXjQk%2F-LEihaTwAlFWnItBbGqT%2F-LEjuR54bY8ksAXRq3Zt%2Fimage.png?alt=media&token=741d6de0-6804-45ba-8095-b466c61eb876)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ## **Relatório Auditar** {#relatorio-auditar}
 
 Nessa tela é exibido a listagem de todos os Dk's que estão para serem verificados. Após a verificação dos atributos do produto, existe um botão "Corrigido" que ao clicar ele altera o status para corrigido.
+
+### Regra de Acesso
+
+Somente o pessoal do Cadastro poderá visualizar e clicar no botão "Corrigido".
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9yxwaA5qx1Bn8hXjQk%2F-LEihaTwAlFWnItBbGqT%2F-LEjvCn9FVNI7jglGWQ-%2Fimage.png?alt=media&token=8afb77cf-9674-4d62-b37b-b6c3d8629b04)
 

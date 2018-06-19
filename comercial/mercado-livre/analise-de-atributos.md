@@ -20,7 +20,7 @@ O campo 'Pesquisar' irá buscar os anúncios com base no 'Código Categoria'. E 
 
 No botão 'Comparar' irá abrir uma subtela\(Modal\) com as seguintes informações que vem também da Cron\(Serviço\). Ao clicar no botão 'Ignorar anúncio' ele ira ignorar o anúncio.
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 Documento de Apoio: [http://developers.mercadolibre.com/pt-br/identificadores-de-produtos/](http://developers.mercadolibre.com/pt-br/identificadores-de-produtos/)
 
