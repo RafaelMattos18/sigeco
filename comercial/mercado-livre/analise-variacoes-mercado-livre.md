@@ -19,7 +19,7 @@ A principal função da ferramentar, é fazer uma comparação entre os valores 
 
 **Resultado**
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 * **Informações sobre o produto** e pelo **título** link para acesso deste produto no Mercado Livre.
 * **Ignorar anúncio:** Há a possiblidade de ignorar o anúncio e também a possibilidade de listar os ignorados no filtro **Listar Ignorados**.
