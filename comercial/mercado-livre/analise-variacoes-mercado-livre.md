@@ -12,21 +12,21 @@ A principal função da ferramentar, é fazer uma comparação entre os valores 
 
 **Pesquisa**
 
-![](http://developers.connectparts.com.br/imagens/analiseVariacoesMl01.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
-* **Pesquisar:** Por este campo poderá ser pesquisado **Código externo pai**, **Código categoria** e **MLB**.
+* **Pesquisar:** Por este campo poderá ser pesquisado **Código externo pai**, **Código categoria** e **MLB**. Traz somente anúncios ativos e relevância 1 e 2.
 * **Listar Ignorados:** Nesta opção iremos listar todos os anúncios que foram ignorados.
 
 **Resultado**
 
-![](../../.gitbook/assets/c_users_rafaeltejeda_appdata_local_packages_microsoft.skypeapp_kzf8qxf38zg5c_localstate_edad1190-986.jpg)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 * **Informações sobre o produto** e pelo **título** link para acesso deste produto no Mercado Livre.
 * **Ignorar anúncio:** Há a possiblidade de ignorar o anúncio e também a possibilidade de listar os ignorados no filtro **Listar Ignorados**.
 
 **Ver atributos**
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 * **Ver atributos:** Apresentamos a hierarquia mais importante que o Mercado livre nos oferece para preenchimento de variações.
 
@@ -34,6 +34,8 @@ A principal função da ferramentar, é fazer uma comparação entre os valores 
 
 * Há um serviço que coleta estas informações todas as madrugadas.
 * O serviço consulta no Mercado Livre e verifica todas as categorias que possa ter variação e cruza com as nossas categorias, trazendo o que não possuímos de variação.
+* HiddenTrue.
+* O EAN e o Código Universal são unificados.
 * Podemos ignorar os anúncios que estão sem variações
 
 ## Observação
