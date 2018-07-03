@@ -18,7 +18,7 @@ Ao lado do botão **Enviar** temos a opção de fazer um upload do arquivo **PLP
 
 ![](../../.gitbook/assets/image.png)
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 Informações sobre os pedidos com a possibilidade de **Barrar ocorrência**.
 

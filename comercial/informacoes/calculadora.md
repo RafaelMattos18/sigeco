@@ -58,3 +58,116 @@ A informação de Imposto é recuperada da base de dados do Ábacos, onde o valo
 
 A informação de Margem é recuperada da base de dados do Ábacos, onde o valor consiste no valor do preço de venda do item menos o valor do frete em porcentagem.
 
+## Calculadora Parte 4
+
+## Processo
+
+![](../../.gitbook/assets/image%20%2842%29.png)
+
+Na parte superior da tela inicial da calculadora existe um campo de seleção\(Select\) onde o usuário poderá selecionar para qual tela ele poderá ir.
+
+### Comparativo de Preços entre Canais: LV\(Loja Virtual\) X ML\(Mercado Livre\)
+
+#### Tipos de Filtros
+
+![](../../.gitbook/assets/image%20%289%29.png)
+
+O usuário poderá selecionar entre buscar os produtos através de filtros ou através de Dk.
+
+####  Filtro
+
+![](../../.gitbook/assets/image%20%2828%29.png)
+
+Nos campos 'Categoria', 'Classe' e 'Forma de Comparação' são listados automaticamente. Para habilitar o campo 'Grupo' é preciso selecionar algum atributo do campo 'Categoria' para especificar em qual categoria ele irá trazer atributos de grupos. Para habilitar o campo 'Subgrupos' e 'Marca' é preciso selecionar algum atributo do campo 'Grupo' para especificar em qual categoria ele irá trazer atributos de subgrupos e marca.
+
+#### Dk
+
+![](../../.gitbook/assets/image%20%2835%29.png)
+
+Nesse tela o usuário poderá inserir um dk especifico e buscá-lo.
+
+#### Listagem
+
+![](../../.gitbook/assets/image%20%286%29.png)
+
+O modelo de informações apresentada esta na imagem acima.
+
+### Margem Estimada Produtos
+
+#### Tipos de Filtros
+
+![](../../.gitbook/assets/image%20%2832%29.png)
+
+  
+O usuário poderá selecionar entre buscar os produtos através de filtros ou através de Dk.
+
+#### Filtro
+
+![](../../.gitbook/assets/image%20%281%29.png)
+
+  
+Nos campos 'Categoria' e 'Classe' são listados automaticamente. Para habilitar o campo 'Grupo' é preciso selecionar algum atributo do campo 'Categoria' para especificar em qual categoria ele irá trazer atributos de grupos, no campo 'Categoria' não existe a opção 'Todos' pois são muitas informações buscadas e isso irá demandar muito de processamento e uma demora muito grande. Para habilitar o campo 'Subgrupos' e 'Marca' é preciso selecionar algum atributo do campo 'Grupo' para especificar em qual categoria ele irá trazer atributos de subgrupos e marca. o Botão de buscar só ira ser habilitado depois do usuário selecionar alguma opção do campo 'Grupo'.
+
+#### DK
+
+![](../../.gitbook/assets/image%20%2841%29.png)
+
+Nesse tela o usuário poderá inserir um dk especifico e buscá-lo.
+
+#### Listagem
+
+![](../../.gitbook/assets/image%20%2824%29.png)
+
+O modelo de informações apresentada esta na imagem acima. Para mais detalhes sobre o produto existe um botão 'Informações' onde ao clicá-lo irá abrir um modal com maiores informações.
+
+![](../../.gitbook/assets/image%20%2811%29.png)
+
+###  **Classe de Kit X Classe Componentes**
+
+#### Filtro
+
+![](../../.gitbook/assets/image%20%2827%29.png)
+
+  
+Nos campos 'Categoria', 'Classe de Kit' e 'Classe Componentes' são listados automaticamente. Para habilitar o campo 'Grupo' é preciso selecionar algum atributo do campo 'Categoria' para especificar em qual categoria ele irá trazer atributos de grupos, no campo 'Categoria' não existe a opção 'Todos' pois são muitas informações buscadas e isso irá demandar muito de processamento e uma demora muito grande. Para habilitar o campo 'Subgrupos' é preciso selecionar algum atributo do campo 'Grupo' para especificar em qual categoria ele irá trazer atributos de subgrupos e marca. o Botão de buscar só ira ser habilitado depois do usuário selecionar alguma opção do campo 'Grupo'.
+
+#### Listagem
+
+![](../../.gitbook/assets/image%20%2814%29.png)
+
+O modelo de informações apresentada esta na imagem acima. Para mais detalhes sobre o componentes do produto existe um botão 'Componentes' onde ao clicá-lo irá abrir um modal com maiores informações.
+
+![](../../.gitbook/assets/image%20%2823%29.png)
+
+###  **Kits de Um Componente**
+
+#### Filtro
+
+![](../../.gitbook/assets/image%20%282%29.png)
+
+Nos campos 'Categoria' e 'Classe' são listados automaticamente. Para habilitar o campo 'Grupo' é preciso selecionar algum atributo do campo 'Categoria' para especificar em qual categoria ele irá trazer atributos de grupos, no campo 'Categoria' não existe a opção 'Todos' pois são muitas informações buscadas e isso irá demandar muito de processamento e uma demora muito grande. Para habilitar o campo 'Subgrupos' e 'Marca' é preciso selecionar algum atributo do campo 'Grupo' para especificar em qual categoria ele irá trazer atributos de subgrupos e marca. o Botão de buscar só ira ser habilitado depois do usuário selecionar alguma opção do campo 'Grupo'.
+
+#### Listagem
+
+![](../../.gitbook/assets/image%20%2817%29.png)
+
+  
+O modelo de informações apresentada esta na imagem acima.
+
+### **PV dos Kits X PV Componentes Individuais**
+
+#### Filtro
+
+![](../../.gitbook/assets/image%20%2839%29.png)
+
+Nos campos 'Categoria', 'Classe', 'Forma de Comparação' e 'Canais' são listados automaticamente. Para habilitar o campo 'Grupo' é preciso selecionar algum atributo do campo 'Categoria' para especificar em qual categoria ele irá trazer atributos de grupos, no campo 'Categoria' não existe a opção 'Todos' pois são muitas informações buscadas e isso irá demandar muito de processamento e uma demora muito grande. Para habilitar o campo 'Subgrupos' é preciso selecionar algum atributo do campo 'Grupo' para especificar em qual categoria ele irá trazer atributos de subgrupos e marca. o Botão de buscar só ira ser habilitado depois do usuário selecionar alguma opção do campo 'Grupo'. É preciso selecionar um das opções no campo 'Canais'.
+
+#### Listagem
+
+![](../../.gitbook/assets/image%20%284%29.png)
+
+  
+O modelo de informações apresentada esta na imagem acima. Para mais detalhes sobre o produto existe um botão 'Detalhes' onde ao clicá-lo irá abrir um modal com maiores informações.
+
+![](../../.gitbook/assets/image%20%2822%29.png)
+
