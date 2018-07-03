@@ -79,6 +79,8 @@
     * [Estoque Dropshipping](infraestrutura/integracoes/estoque-dropshipping.md)
     * [Logs Erros Abacos x Vtex](infraestrutura/integracoes/logs-erros-abacos-x-vtex.md)
     * [Replicacao Estoque](infraestrutura/integracoes/replicacao-estoque.md)
+    * [Configurações](infraestrutura/integracoes/configuracoes.md)
+    * [Lista Dropshipping](infraestrutura/integracoes/lista-dropshipping.md)
   * [Usuários](infraestrutura/usuarios/README.md)
     * [Listagem](infraestrutura/usuarios/listagem.md)
   * [Projetos](infraestrutura/projetos/README.md)
