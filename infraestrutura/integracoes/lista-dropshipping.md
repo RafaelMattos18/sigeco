@@ -8,7 +8,7 @@ O intuito da tela é ter uma melhor rastreabilidade de produtos dropshipping, on
 
 #### Filtro
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 O filtro da listagem de dropshipping são através da busca por fornecedores e por status de ativos ou inativos.
 

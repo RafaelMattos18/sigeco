@@ -79,6 +79,7 @@
     * [Logs Erros Abacos x Vtex](infraestrutura/integracoes/logs-erros-abacos-x-vtex.md)
     * [Replicacao Estoque](infraestrutura/integracoes/replicacao-estoque.md)
     * [Lista Dropshipping](infraestrutura/integracoes/lista-dropshipping.md)
+    * [Inserir Kit](infraestrutura/integracoes/inserir-kit.md)
   * [Usuários](infraestrutura/usuarios/README.md)
     * [Listagem](infraestrutura/usuarios/listagem.md)
   * [Projetos](infraestrutura/projetos/README.md)
