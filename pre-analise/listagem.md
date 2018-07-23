@@ -46,7 +46,12 @@ Ao clicar em **Barrar Pedido** é necessário inserir um motivo válido.
 
 O sistema traz detlahes sobre o pedido para que ao barrar o pedido, seja feita de forma consciente e maoires informações.
 
-* **Informações Ábacos** ![](http://developers.connectparts.com.br/imagens/preAnaliseImg001.png) O sistema através de API traz informações que estão no nosso ERP.
+* **Informações Ábacos**   O sistema através de API traz informações que estão no nosso ERP. O sistema cria alertar visuais, informando quais pedidos existem inconsistência de informações para entrega. Informações checadas: CEP, Cidade, Estado Numero, Nome do Destinatário.
+
+![](../.gitbook/assets/whatsapp-image-2018-07-23-at-16.53.20.jpeg)
+
+
+
 * **Formas e Condições de Pagamento e Itens do Pedido** ![](http://developers.connectparts.com.br/imagens/preAnaliseImg002.png) O sistema traz informações sobre a forma de pagamento, valores, informações sobre o produto, quantidade de venda e valor dos itens do pedido, sem encargos ou cobrança de frete.
 * **Informações do Mercado Pago** ![](http://developers.connectparts.com.br/imagens/preAnaliseImg003.png)
 
