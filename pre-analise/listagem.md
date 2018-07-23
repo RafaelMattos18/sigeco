@@ -50,7 +50,9 @@ O sistema traz detlahes sobre o pedido para que ao barrar o pedido, seja feita d
 
 ![](../.gitbook/assets/whatsapp-image-2018-07-23-at-16.53.20.jpeg)
 
+#### Erros
 
+CEP invalido ou não informado, Nome do Cliente invalido, Numero logradouro em branco,  CEP não encontrado, UF não confere, Localidade não confere
 
 * **Formas e Condições de Pagamento e Itens do Pedido** ![](http://developers.connectparts.com.br/imagens/preAnaliseImg002.png) O sistema traz informações sobre a forma de pagamento, valores, informações sobre o produto, quantidade de venda e valor dos itens do pedido, sem encargos ou cobrança de frete.
 * **Informações do Mercado Pago** ![](http://developers.connectparts.com.br/imagens/preAnaliseImg003.png)
