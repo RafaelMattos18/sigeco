@@ -26,7 +26,7 @@ Neste processo os departamentos Financeiro e Atendimento fazem uma pré analise 
 ### Legendas
 
 | Descrição |  |
-| --- | --- |
+| :--- | :--- |
 | **Imagem** | ![](http://developers.connectparts.com.br/imagens/preAnalise02.png) |
 | **Cadeado Preto** | Pedido |
 | **Cadeado Vermelho** | Pedido barrado \(pela pré análise\) |
@@ -47,6 +47,20 @@ Ao clicar em **Barrar Pedido** é necessário inserir um motivo válido.
 O sistema traz detlahes sobre o pedido para que ao barrar o pedido, seja feita de forma consciente e maoires informações.
 
 * **Informações Ábacos**   O sistema através de API traz informações que estão no nosso ERP. O sistema cria alertar visuais, informando quais pedidos existem inconsistência de informações para entrega. Informações checadas: CEP, Cidade, Estado Numero, Nome do Destinatário.
+
+#### Caixa Postal Pré-Análise.
+
+Verifica se o CEP do endereço do pedido de venda Connect refere-se a uma caixa postal e se a transportadora de envio é Correios.
+
+#### Divergência:
+
+Caixa Postal, tem que ser enviado pelo correio.
+
+![](../.gitbook/assets/imagem_3.jpeg)
+
+![](../.gitbook/assets/imagem_2.jpeg)
+
+![](../.gitbook/assets/imagem_1.jpeg)
 
 ![](../.gitbook/assets/whatsapp-image-2018-07-23-at-16.53.20.jpeg)
 

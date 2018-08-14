@@ -13,7 +13,7 @@ No resultado apresentado irá aparecer estas informações, Quantidade Solicitad
 Será enviado um e-mail para a pessoas que requsitou as estiquetas contendo
 
 | Exemplo |  |
-| --- | --- |
+| :--- | :--- |
 | Quantidade Solicitada: | 10 |
 | Etiqueta Inicial: | EC31340465BR |
 | Etiqueta Final: | EC31340474BR |

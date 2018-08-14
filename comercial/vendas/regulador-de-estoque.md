@@ -26,7 +26,7 @@ O sistema apresenta todos os produtos que estão com as classes **Indisponível*
 2. As listas de produtos devem seguir estes títulos nas colunas:
 
    | Dk | email |
-   | --- | --- |
+   | :--- | :--- |
    | 010203 | teste@connectparts.com.br |
 
    1. Como se escreve - **Dk** e **email**
