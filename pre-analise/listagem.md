@@ -50,7 +50,7 @@ O sistema traz detlahes sobre o pedido para que ao barrar o pedido, seja feita d
 
 #### Caixa Postal Pré-Análise.
 
-Verifica se o CEP do endereço do pedido de venda Connect refere-se a uma caixa postal e se a transportadora de envio é Correios.
+O sistema gera um alerta visual para todo o pedido Connect, independente do canal de vendas ou forma de pagamento, referente a caixa postal com transportadora diferente de Correios. São verificados os CEP´s que estão dentro da faixa XX.XXX-970 à XX.XXX-999 ou quando no campo endereço ou observação contiverem as palavras “cx”, “cxp”, “postal”, “caixa postal” ou “posta”.
 
 #### Divergência:
 
