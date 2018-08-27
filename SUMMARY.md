@@ -74,6 +74,7 @@
   * [Correios Calculos Prazo](frete/correios-calculos-prazo.md)
   * [Correios Solicitacao Etiquetas](frete/correios-solicitacao-etiquetas.md)
   * [Simulador de Fretes](frete/simulador-de-fretes-1.md)
+  * [SLA Transportadora](frete/sla-transportadora.md)
 * [Infraestrutura](infraestrutura/README.md)
   * [Integrações](infraestrutura/integracoes/README.md)
     * [Importar Planilha de Custo](infraestrutura/integracoes/importar-planilha-de-custo.md)
