@@ -18,7 +18,7 @@ O sistema apresenta todos os produtos que estão com as classes **Indisponível*
 
 **img02**
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 ## Regras
 

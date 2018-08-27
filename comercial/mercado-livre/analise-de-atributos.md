@@ -12,15 +12,15 @@ Existem dois serviços para coleta de informação. O primeiro, coleta todos os 
 
 ## Processo
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
  O campo 'Pesquisar' irá buscar os anúncios com base no 'Código Categoria'. E a caixa de seleção se o anúncio esta ignorado ou não. E se o usuário quer apenas os anúncios completos ou incompletos.
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
  Comparar traz os detalhes dos atributos, ConnectParts e mercado livre. Quando o atributo é obrigatório, é feita uma marcação para identificação.
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 Documento de Apoio: [http://developers.mercadolibre.com/pt-br/identificadores-de-produtos/](http://developers.mercadolibre.com/pt-br/identificadores-de-produtos/)
 

@@ -12,21 +12,21 @@ A principal função da ferramentar, é fazer uma comparação entre os valores 
 
 **Pesquisa**
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 * **Pesquisar:** Por este campo poderá ser pesquisado **Código externo pai**, **Código categoria** e **MLB**.
 * **Listar Ignorados:** Nesta opção iremos listar todos os anúncios que foram ignorados.
 
 **Resultado**
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
 * **Informações sobre o produto** e pelo **título** link para acesso deste produto no Mercado Livre.
 * **Ignorar anúncio:** Há a possiblidade de ignorar o anúncio e também a possibilidade de listar os ignorados no filtro **Listar Ignorados**.
 
 **Ver atributos**
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 * **Ver atributos:** Apresentamos a hierarquia mais importante que o Mercado livre nos oferece para preenchimento de variações.
 
