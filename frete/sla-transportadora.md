@@ -2,25 +2,25 @@
 
 ## Funcionalidade 
 
-Verifica se o prazo de entrega do pedido foi respeitado conforme o SLA da transportadora. A ferramenta, faz a captação dos pedidos no Abacos a cada 5 minutos. São captados os pedidos que entrarem no status “Despachado”. 
+Verifica se o prazo de entrega do pedido foi respeitado conforme o SLA da transportadora.
 
 ### Processos
 
-Checamos três eventos:
+A ferramenta, faz a captação dos pedidos no Ábacos a cada 5 minutos. São captados os pedidos que entrarem no status “Despachado”. Checamos três eventos:
 
- 1. Data de entrada na transportadora / sistema: com base na transportadora e objeto de rastreio, consultamos através de API ou WS, quando o objeto foi digitado no sistema e atualizamos em nossa base. Esta data será usada para calcular o “Tempo de Entrega” real. 
+ 1. Data de entrada na transportadora / sistema: com base na transportadora e objeto de rastreio, consultamos através de API ou WS, quando o objeto foi digitado no sistema e atualizamos em nossa base. Esta data será usada para calcular o “Tempo de Entrega” real.
 
-2. Data da primeira tentativa de entrega: Registraremos a data da primeira tentativa de entrega. 
+2. Data da primeira tentativa de entrega: Registraremos a data da primeira tentativa de entrega.
 
 3. Data de entrega: Data base para cálculo do “prazo do tempo de entrega” real. 
 
 O aplicativo expõe uma lista com os seguintes filtros: 
 
-• Data; 
+• Número do Pedido; 
 
-• Transportadora;
+• Canal;
 
- • Entregues;
+ • Intervalo de Datas;
 
  • Não entregues; 
 
