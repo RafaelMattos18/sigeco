@@ -8,13 +8,13 @@ Inserir Kits para controle do Dropshipping.
 
 #### Listagem de Kits Dropshipping
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 
 
 #### Adicionar Kits Dropshipping
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 No campo 'Código Fornecedor' o usuário ira selecionar uma dos fornecedores listados.
 

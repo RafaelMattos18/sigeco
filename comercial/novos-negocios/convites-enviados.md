@@ -6,7 +6,7 @@ A tela tem como finalidade apresentar como estão os setores em relação a entr
 
 ### Processos
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
   
 No campo setores existe quatro status da reunião, são eles: No Prazo, Ok e Cancelado.
