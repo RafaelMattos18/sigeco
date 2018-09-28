@@ -2,7 +2,7 @@
 
 ## Funcionalidade
 
-A tela tem como finalidade apresentar como estão os setores em relação a entrega de matérias da reunião.
+A tela tem como finalidade apresentar como estão os setores em relação a entrega de matérias para a reunião com o fornecedor.
 
 ### Processos
 

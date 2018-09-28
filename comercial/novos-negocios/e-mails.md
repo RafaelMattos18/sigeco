@@ -2,7 +2,7 @@
 
 ## Funcionalidade
 
-Na tela de E-mails é disponibilizados o cadastro para que ao cadastrar uma reunião o e-mail cadastrado apareça no campo "Avisar".
+Na tela de E-mails é disponibilizados o cadastro para que ao cadastrar uma reunião o e-mail cadastrado apareça no campo "Para" e "Avisar".
 
 ### Processos
 
