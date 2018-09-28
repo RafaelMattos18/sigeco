@@ -17,7 +17,7 @@ A tela apresenta o cadastro do Plano de Ação que é necessário inserir dados 
 
 Logo abaixo o usuário ira inserir ou não itens e atribuir o mesmo para os respectivos colaboradores.
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
  
 
@@ -27,13 +27,13 @@ Logo abaixo o usuário ira inserir ou não itens e atribuir o mesmo para os resp
 * Prazo: O usuário ira selecionar uma data prazo que a ação seja feita.
 * Ação: O usuário poderá atribuir um sub-ação para aquela ação inserida.
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
 As informações dos campos serão as mesmas da ação acima.
 
 Após o cadastro do Plano de Ação o mesmo ira aparecer no relatório do Plano de ação.
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 No relatório o usuário poderá filtrar as informações pela: Marca, Responsável, Data Reunião, Status e Pesquisar.
 
@@ -49,7 +49,7 @@ No titulo de ação existe as seguintes ações:
 
 * Adicionar Item: O usuário poderá inserir ações ao Plano de Ação, e ao clicar no ícone de "Mais" ira abrir um modal para cadastro.
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 * Editar: O usuário poderá editar o Plano de Ação ao clicar no ícone de "Lápis" , ao clicar ira abrir um modal para edição.
 
@@ -64,5 +64,9 @@ Ao concluir uma ação de um determinado Plano de Ação o usuário não poderá
 
 No titulo comentário das ações o usuário poderá enviar mensagens aos colaboradores sobre a ação.
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
+
+O usuário poderá aprovar ou reprovar uma solicitação de alteração de data na seguinte tela: 
+
+![](../../.gitbook/assets/image%20%2816%29.png)
 
