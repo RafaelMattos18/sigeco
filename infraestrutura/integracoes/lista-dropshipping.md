@@ -8,13 +8,13 @@ O intuito da tela é ter uma melhor rastreabilidade de produtos dropshipping, on
 
 #### Filtro
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 O filtro da listagem de dropshipping são através da busca por fornecedores e por status de ativos ou inativos.
 
 #### Listagem
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 Os atributos apresentados na tela são, Código Externo, Código Fabricante, Data de Criação, Data de Atualização, Fornecedor, Preço de Custo, Pendencia, e Ativo. 
 

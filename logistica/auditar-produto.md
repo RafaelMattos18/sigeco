@@ -12,7 +12,7 @@ A tela de auditoria de produto serve para conferência e cadastro de dimensões 
 
 Nessa tela existe um campo para consultar as informações do Dk, e também dando a possibilidade de inserir novos atributos do produto.
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 ## **Relatório Auditar** {#relatorio-auditar}
 
