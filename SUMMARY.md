@@ -81,6 +81,7 @@
   * [Integrações](infraestrutura/integracoes/README.md)
     * [Importar Planilha de Custo](infraestrutura/integracoes/importar-planilha-de-custo.md)
     * [Log Dropshipping](infraestrutura/integracoes/log-dropshipping.md)
+    * [Etiqueta](infraestrutura/integracoes/etiqueta.md)
     * [Inserir Produtos 00K](infraestrutura/integracoes/inserir-produtos-00k.md)
     * [Estoque Dropshipping](infraestrutura/integracoes/estoque-dropshipping.md)
     * [Logs Erros Abacos x Vtex](infraestrutura/integracoes/logs-erros-abacos-x-vtex.md)
