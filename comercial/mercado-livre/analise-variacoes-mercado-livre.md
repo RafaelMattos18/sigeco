@@ -1,7 +1,5 @@
 # Analise Variações Mercado Livre
 
-
-
 ## Funcionalidade
 
 Com base nos anúncios Connect, é realiza uma busca no mercado livre, através de cron \(que roda uma vez por semana\) trazendo todos os variação disponíveis para uso e, diariamente, através de cron, busca todos os variação cadastrados pela Connect.
@@ -12,21 +10,21 @@ A principal função da ferramentar, é fazer uma comparação entre os valores 
 
 **Pesquisa**
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image-18.png)
 
 * **Pesquisar:** Por este campo poderá ser pesquisado **Código externo pai**, **Código categoria** e **MLB**.
 * **Listar Ignorados:** Nesta opção iremos listar todos os anúncios que foram ignorados.
 
 **Resultado**
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image-58.png)
 
 * **Informações sobre o produto** e pelo **título** link para acesso deste produto no Mercado Livre.
 * **Ignorar anúncio:** Há a possiblidade de ignorar o anúncio e também a possibilidade de listar os ignorados no filtro **Listar Ignorados**.
 
 **Ver atributos**
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image-17.png)
 
 * **Ver atributos:** Apresentamos a hierarquia mais importante que o Mercado livre nos oferece para preenchimento de variações.
 

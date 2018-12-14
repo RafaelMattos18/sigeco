@@ -4,11 +4,11 @@
 
 ## Funcionalidade
 
-Nesta tela o sistema traz as classes dos produtos que foram alterados para aprovação. 
+Nesta tela o sistema traz as classes dos produtos que foram alterados para aprovação.
 
-Os grupos comerciais vão apenas visualizar as solicitações que dizem respeito a seus grupos. 
+Os grupos comerciais vão apenas visualizar as solicitações que dizem respeito a seus grupos.
 
-Após a aprovação por parte deles a solicitação fica disponível na mesma lista\(Tela\) para que o  cadastro realize a aprovação final e por fim a alteração seja efetivada no KPL.
+Após a aprovação por parte deles a solicitação fica disponível na mesma lista\(Tela\) para que o cadastro realize a aprovação final e por fim a alteração seja efetivada no KPL.
 
 ## Resultado
 

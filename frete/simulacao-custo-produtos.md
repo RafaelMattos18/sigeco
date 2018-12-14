@@ -18,7 +18,7 @@ Para analisar os valores do Mercado Livre no seu envio, adicionamos uma coluna c
 
 ## Regras
 
-* **Tabela de valores ME** 
+* **Tabela de valores ME**
 
   ![](http://developers.connectparts.com.br/imagens/simCustoProd04.png)
 

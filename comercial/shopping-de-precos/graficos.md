@@ -21,7 +21,7 @@ O sistema oferece formas de visualização das informações de produtos e anún
     * Destes **Ativos \(86%\)** estão **Com Anúncios Ativos \(48%\) = 3.152**
       * Destes Com Anúncios Ativos \(48%\) os que estão **Relacionados \(54%\) = 1.694** 
 
-    O sistema oferece a opção de **tipos de gráficos**, o **valor que será exibido** poderá ser em **Absoluto \(valores reais\)**  ou em **Percentual**.
+    O sistema oferece a opção de **tipos de gráficos**, o **valor que será exibido** poderá ser em **Absoluto \(valores reais\)** ou em **Percentual**.
 
 ### Dentro da opção ANÚNCIOS
 

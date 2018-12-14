@@ -10,7 +10,7 @@ Comunicação com a central dos correios, barrando o rastreio que é suspeito de
 
 Esta ferramenta em que o cliente \(**Connect**\) irá comunicar a central dos correios que o rastreamento que é suspeito de fraude, automaticamente e garantindo que o departamento de **recebimento** irá dar continuidade a este pedido até sua finalização. O sistema armazenara esse rastreio e trará o último status para o acompanhamento. Tem como base um arquivo de EDI que é gerado no Ábacos, o sistema lê este arquivo e cria um arquivo no formato padrão exigido pelo **correios**. Após esta ação , o arquivo é enviado e processado, retornando o ID-PLP e o ID-PLPCliente, que são dados necessários para o bloqueio. Existe uma aba chamada "Críticas" onde quando se sobe um arquivo através do botão enviar no lado esquerdo em que o arquivo é processado e é demonstrada as críticas do mesmo.
 
-Para processar os arquivos para as críticas o mesmo se encontram no caminho: \\nas\EDI\_Expedicao\correios1
+Para processar os arquivos para as críticas o mesmo se encontram no caminho: \nas\EDI\_Expedicao\correios1
 
 Ao lado do botão **Enviar** temos a opção de fazer um upload do arquivo **PLP**
 
@@ -18,7 +18,7 @@ Ao lado do botão **Enviar** temos a opção de fazer um upload do arquivo **PLP
 
 ![](../../.gitbook/assets/image.png)
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image-56.png)
 
 Informações sobre os pedidos com a possibilidade de **Barrar ocorrência**.
 

@@ -10,7 +10,7 @@ Desenvolvido um simulador de fretes onde passa o código do produto ou pedido e 
 
 ## Correios
 
-* Possui os serviços **PAC, SEDEX, E-SEDEX** _****_ e **PAC-GF**.
+* Possui os serviços **PAC, SEDEX, E-SEDEX** _\*\*_ e **PAC-GF**.
 * Atende o Brasil todo e é o único que entrega em **CEP caixa postal**.
 
   > É um serviço que possibilita ao cliente alugar uma Caixa Postal em uma unidade dos Correios, para receber seus objetos de correspondência.
@@ -70,7 +70,7 @@ Desenvolvido um simulador de fretes onde passa o código do produto ou pedido e 
 
 #### Rateio de valores do frete
 
- **Correios e outros**
+**Correios e outros**
 
 * A transportadora rateia os valores do frete, frente as informações dos produtos que compõe o pedido.
 * Ábacos não possui estas informações separadas por itens.

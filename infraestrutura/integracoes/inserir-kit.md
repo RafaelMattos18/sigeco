@@ -8,21 +8,17 @@ Inserir Kits para controle do Dropshipping.
 
 #### Listagem de Kits Dropshipping
 
-![](../../.gitbook/assets/image%20%2822%29.png)
-
-
+![](../../.gitbook/assets/image-22.png)
 
 #### Adicionar Kits Dropshipping
 
-![](../../.gitbook/assets/image%20%2857%29.png)
+![](../../.gitbook/assets/image-57.png)
 
 No campo 'Código Fornecedor' o usuário ira selecionar uma dos fornecedores listados.
 
-No campo 'Código Externo' o usuário ira inserir um código externo do kit para o cadastro. 
+No campo 'Código Externo' o usuário ira inserir um código externo do kit para o cadastro.
 
-No campo 'Preço de Custo' o usuário ira inserir o preço do kit para o cadastro. 
-
-
+No campo 'Preço de Custo' o usuário ira inserir o preço do kit para o cadastro.
 
 #### OBS: Se não for inserido por esse processo o kit não sera integrado.
 

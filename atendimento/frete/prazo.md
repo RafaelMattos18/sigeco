@@ -26,13 +26,13 @@ Atendimento insere o número do pedido e através deste número o sistema identi
 
 ### Informações sobre **itens do pedido**.
 
-Sobre o Kit \(_caso o cliente tenha adquirido_\), estoque, valores; informações sobre os produtos individuais ou os que compõe o kit. 
+Sobre o Kit \(_caso o cliente tenha adquirido_\), estoque, valores; informações sobre os produtos individuais ou os que compõe o kit.
 
 ![ItensPedidp](http://developers.connectparts.com.br/imagens/calucloPrazoFrete06.png)
 
 ### Informações sobre o **histórico** do pedido.
 
-Observações e nome de colaboradores que tiveram alguma ação com o produto. 
+Observações e nome de colaboradores que tiveram alguma ação com o produto.
 
 ![HistoricoPedido](http://developers.connectparts.com.br/imagens/calucloPrazoFrete07.png)
 

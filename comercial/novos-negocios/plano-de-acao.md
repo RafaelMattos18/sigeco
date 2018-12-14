@@ -6,7 +6,7 @@ O plano de ação tem por objetivo atribuir ações levantadas na reunião com o
 
 ## Processos
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image-14.png)
 
 A tela apresenta o cadastro do Plano de Ação que é necessário inserir dados nos seguintes campos:
 
@@ -17,9 +17,7 @@ A tela apresenta o cadastro do Plano de Ação que é necessário inserir dados 
 
 Logo abaixo o usuário ira inserir ou não itens e atribuir o mesmo para os respectivos colaboradores.
 
-![](../../.gitbook/assets/image%20%2844%29.png)
-
- 
+![](../../.gitbook/assets/image-44.png)
 
 * Descrição: O usuário ira descrever o que o colaborador devera fazer na ação dada a ele.
 * Responsável: O usuário ira selecionar o usuário para atribuir a ação.
@@ -27,13 +25,13 @@ Logo abaixo o usuário ira inserir ou não itens e atribuir o mesmo para os resp
 * Prazo: O usuário ira selecionar uma data prazo que a ação seja feita.
 * Ação: O usuário poderá atribuir um sub-ação para aquela ação inserida.
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image-60.png)
 
 As informações dos campos serão as mesmas da ação acima.
 
 Após o cadastro do Plano de Ação o mesmo ira aparecer no relatório do Plano de ação.
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image-26.png)
 
 No relatório o usuário poderá filtrar as informações pela: Marca, Responsável, Data Reunião, Status e Pesquisar.
 
@@ -41,7 +39,7 @@ A lista apresenta um Plano de Ação com as seguintes informações: Código, Ma
 
 No titulo de código existe ação de abrir o Plano de Ação ao clicar no ícone de "Mais", onde ele poderá visualizar as ações daquele Plano e as sub ações.
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image-7.png)
 
 No titulo de Progresso ira apresentar o progresso de conclusão das ações do Plano de Ação.
 
@@ -49,11 +47,11 @@ No titulo de ação existe as seguintes ações:
 
 * Adicionar Item: O usuário poderá inserir ações ao Plano de Ação, e ao clicar no ícone de "Mais" ira abrir um modal para cadastro.
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image-67.png)
 
 * Editar: O usuário poderá editar o Plano de Ação ao clicar no ícone de "Lápis" , ao clicar ira abrir um modal para edição.
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image-15.png)
 
 * Enviar E-mails: O usuário poderá enviar e-mails aos colaboradores notificando as ações atribuídas a ele , e ao clicar no ícone de "Enviar" 
 * Download ATA: O usuário poderá fazer o download da ATA no formato .doc ao clicar no ícone de "Arquivo" .
@@ -64,9 +62,9 @@ Ao concluir uma ação de um determinado Plano de Ação o usuário não poderá
 
 No titulo comentário das ações o usuário poderá enviar mensagens aos colaboradores sobre a ação.
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image-33.png)
 
-O usuário poderá aprovar ou reprovar uma solicitação de alteração de data na seguinte tela: 
+O usuário poderá aprovar ou reprovar uma solicitação de alteração de data na seguinte tela:
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image-16.png)
 

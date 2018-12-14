@@ -12,7 +12,7 @@ Ao selecionar a opção **Transportadora - Correios** , serão apresentadas mais
 
 ## Processos
 
-Ao utilizar a **Transportadora - Correios**  e os campos **Relatório Postal.Net** e **Relatório Salesforce** é feito um upload para ambos os campos supracitados e demais informções são buscadas na Nota Fiscal, processada pelo sistema.
+Ao utilizar a **Transportadora - Correios** e os campos **Relatório Postal.Net** e **Relatório Salesforce** é feito um upload para ambos os campos supracitados e demais informções são buscadas na Nota Fiscal, processada pelo sistema.
 
 ## Resultado
 

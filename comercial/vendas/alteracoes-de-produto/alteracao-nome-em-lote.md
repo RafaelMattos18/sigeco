@@ -18,7 +18,7 @@ Na alteração de produto do Sigeco, temos mais uma opção de realizar alteraç
 
 ## Responsabilidades
 
-1. Ficará sob a responsabilidade do solicitante o envio do arquivo .xls do seguinte modo, inclusive na escrita correta das colunas: 
+1. Ficará sob a responsabilidade do solicitante o envio do arquivo .xls do seguinte modo, inclusive na escrita correta das colunas:
 
    ![](http://developers.connectparts.com.br/imagens/alteracaoLoteXls.png)
 

@@ -16,7 +16,7 @@ Na aba **Buscar** teremos uma relação completa dos bloqueados ou fazer a busca
 
 Estes processos irão determinar a avaliação da pré análise. Tanto CPF ou CNPJ bloqueados por estes motivo nesta tela, será refletido uma mensagem na tela de **Visualização de Pedido - Pré Análise** como do exemplo abaixo:
 
-**Exemplo:** 
+**Exemplo:**
 
 ![](http://developers.connectparts.com.br/imagens/preAnalise06.png)
 

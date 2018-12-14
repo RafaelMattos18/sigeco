@@ -21,7 +21,7 @@ Neste processo os departamentos Financeiro e Atendimento fazem uma pré analise 
 * **Pedido**
   * Digite o número do pedido para a pesquisa ser especifica.
 
-> **Observação:**  Caso não selecione e nem preencha algum campo a consulta poderá ser feita clicando no botão de geração "**Lupa**", porém, sem critérios.
+> **Observação:** Caso não selecione e nem preencha algum campo a consulta poderá ser feita clicando no botão de geração "**Lupa**", porém, sem critérios.
 
 ### Legendas
 
@@ -66,7 +66,7 @@ Caixa Postal, tem que ser enviado pelo correio.
 
 #### Erros
 
-CEP invalido ou não informado, Nome do Cliente invalido, Numero logradouro em branco,  CEP não encontrado, UF não confere, Localidade não confere
+CEP invalido ou não informado, Nome do Cliente invalido, Numero logradouro em branco, CEP não encontrado, UF não confere, Localidade não confere
 
 * **Formas e Condições de Pagamento e Itens do Pedido** ![](http://developers.connectparts.com.br/imagens/preAnaliseImg002.png) O sistema traz informações sobre a forma de pagamento, valores, informações sobre o produto, quantidade de venda e valor dos itens do pedido, sem encargos ou cobrança de frete.
 * **Informações do Mercado Pago** ![](http://developers.connectparts.com.br/imagens/preAnaliseImg003.png)

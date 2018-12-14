@@ -6,13 +6,13 @@ A agenda tem por objetivo registrar as reuniões com fornecedores e enviar as no
 
 ### Processos
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image-68.png)
 
- A tela apresenta um calendário onde ao clicar sobre o dia, é possível cadastrar as reuniões que serão realizadas.
+A tela apresenta um calendário onde ao clicar sobre o dia, é possível cadastrar as reuniões que serão realizadas.
 
 Obs: não irá conseguir cadastrar e-mails dias anteriores ao dia atual.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image-53.png)
 
 Ao clicar em uma data irá abrir um modal de cadastro. nele é inserido as informações da reunião com o fornecedor.
 
@@ -41,17 +41,15 @@ No campo "Observação" o usuário ira inserir a observação sobre a reunião, 
 
 Ao cadastrar a reunião será disparado e-mails para os colaboradores sobre a reunião que irá ocorrer.
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image-39.png)
 
-  
 Ao receber o e-mail o colaborador ira clicar no link "Marcar como Realizado!" onde irá redirecionar para um tela do sigeco onde ele terá as informações da reunião e clicar no botão "Marcar como Realizado" apos a inserção do material necessário para a reunião.
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image-28.png)
 
-  
 Após o cadastro da reunião o mesmo irá aparecer no relatório, onde ao carregar a pagina inicialmente sempre irá pegar as reunião não realizadas até o momento.
 
-No relatório existe dois botões, excluir e editar. Ao clicar no botão excluir ele irá excluir a reunião selecionada. Ao clicar no botão editar ira abrir um modal com as informações da reunião onde o usuário poderá atualizar o mesmo. 
+No relatório existe dois botões, excluir e editar. Ao clicar no botão excluir ele irá excluir a reunião selecionada. Ao clicar no botão editar ira abrir um modal com as informações da reunião onde o usuário poderá atualizar o mesmo.
 
 A paginação inicial sempre vira com 10 relatórios por pagina.
 
