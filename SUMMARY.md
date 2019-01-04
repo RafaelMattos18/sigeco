@@ -10,7 +10,7 @@
     * [Listagem](atendimento/pedidos-barrados/listagem.md)
   * [Frete](atendimento/frete/README.md)
     * [Prazo](atendimento/frete/prazo.md)
-* [Ramais](ramais.md)
+  * [Ramais](atendimento/ramais.md)
 * [Comercial](comercial/README.md)
   * [Tarefas](comercial/tarefas/README.md)
     * [Minhas tarefas](comercial/tarefas/minhas-tarefas.md)
