@@ -16,7 +16,7 @@ Ao lado do botão **Enviar** temos a opção de fazer um upload do arquivo **PLP
 
 ## Resultado
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 ![](../../.gitbook/assets/image-56.png)
 
