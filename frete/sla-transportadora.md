@@ -26,5 +26,5 @@ O aplicativo expõe uma lista com os seguintes filtros:
 
 O objetivo principal da ferramenta é gerar informações sobre o SLA das transportadoras, identificando atrasos e causas.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 

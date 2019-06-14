@@ -99,6 +99,7 @@
     * [Cadastrar](infraestrutura/projetos/cadastrar.md)
   * [Transferência de cotações](infraestrutura/transferencia-de-cotacoes.md)
 * [Logística](logistica/README.md)
+  * [Avaria](logistica/avaria.md)
   * [Estoque](logistica/estoque/README.md)
     * [Pedidos Divergentes](logistica/estoque/pedidos-divergentes.md)
   * [Auditar Produto](logistica/auditar-produto.md)
