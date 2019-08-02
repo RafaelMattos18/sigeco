@@ -10,5 +10,5 @@
 
  Aonde o prado de despacho é de 1 dia útil e o prazo de Entrega é informado por cada transportara separadamente.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 

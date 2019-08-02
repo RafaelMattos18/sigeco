@@ -48,6 +48,7 @@
   * [Informações](comercial/informacoes/README.md)
     * [Calculadora](comercial/informacoes/calculadora.md)
   * [Novos Negócios](comercial/novos-negocios/README.md)
+    * [Cadastro Localiza](comercial/novos-negocios/cadastro-localiza.md)
     * [Meus Planos](comercial/novos-negocios/meus-planos.md)
     * [Agenda](comercial/novos-negocios/agenda.md)
     * [E-mails](comercial/novos-negocios/e-mails.md)
